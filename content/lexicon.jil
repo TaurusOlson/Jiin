@@ -1,10 +1,10 @@
-~ Name : Lexicon
-~ Details : nothing to see here
-~ Author : Devine Lu Linvega
+~ NAME : Lexicon
+~ NOTE : nothing to see here
+~ AUTH : Devine Lu Linvega
 
 VERRECIEL
   SHORT : Lorem Ipsum
-  LONG  : <p>Long description</p>
+  LONG  : Long description
   PAREN : Interactive
   LINK
     APPL : http://itunes.com/verreciel

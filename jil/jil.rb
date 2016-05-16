@@ -5,25 +5,24 @@ class Jil
 		@file = file
 		@lines = []
 		@tree = {}
+
+		@content = {}
 		@notes = {}
 
-		read
-		traverse
-		build
-
-		@notes.each do |k,v|
-			puts "#{k} -> #{v}"
-		end
+		_read
+		_traverse
+		_parse
 
 	end
 
-	def read
+	def _read
 
 		File.open(@file,"r") do |f|
 			number = 0
 			f.each_line do |line|
 				depth = line[/\A */].size
 				line = line.strip
+				if line == "" then next end
 				if line[0,1] == "~"
 					parts = line.split(":")
 					key = parts.first.sub("~","").strip.downcase
@@ -38,7 +37,7 @@ class Jil
 
 	end
 
-	def traverse
+	def _traverse
 
 		i = 0
 		@tree[-1] = []
@@ -60,43 +59,42 @@ class Jil
 
 	end
 
-	def build
+	def _parse
 
-		content = {}
+		@content = {}
 		@tree[-1].each do |line|
 
 			year = @lines[line].last
-			content[year] = {}
+			@content[year] = {}
 			if !@tree[line] then next end
 
 			@tree[line].each do |line|
 
 				month = @lines[line].last
-				content[year][month] = {}
+				@content[year][month] = {}
 				if !@tree[line] then next end
 
 				@tree[line].each do |line|
 
 					day = @lines[line].last
-					content[year][month][day] = {}
+					@content[year][month][day] = {}
 					if !@tree[line] then next end
 
 					@tree[line].each do |line|
 						parts = @lines[line].last.split(":")
 						key = parts.first.strip.downcase.capitalize
 						value = parts.last.strip
-						content[year][month][day][key] = value
+						@content[year][month][day][key] = value
 					end
 
 				end
 			end
 		end
 
-		p content
+	end
 
+	def parsed
+		return @content
 	end
 
 end
-
-Jil.new("database/horaire.jil",nil)
-

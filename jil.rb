@@ -10,7 +10,7 @@ class Jil
 		read
 		traverse
 		build
-		
+
 		@notes.each do |k,v|
 			puts "#{k} -> #{v}"
 		end
@@ -62,26 +62,37 @@ class Jil
 
 	def build
 
-		notes = {}
+		content = {}
 		@tree[-1].each do |line|
+
 			year = @lines[line].last
+			content[year] = {}
 			if !@tree[line] then next end
+
 			@tree[line].each do |line|
+
 				month = @lines[line].last
+				content[year][month] = {}
+				if !@tree[line] then next end
+
 				@tree[line].each do |line|
+
 					day = @lines[line].last
-					puts "#{year}-#{month}-#{day}"
-					content = {}
+					content[year][month][day] = {}
+					if !@tree[line] then next end
+
 					@tree[line].each do |line|
 						parts = @lines[line].last.split(":")
 						key = parts.first.strip.downcase.capitalize
 						value = parts.last.strip
-						content[key] = value
+						content[year][month][day][key] = value
 					end
-					puts "> #{content['Topic']}:#{content['Task']} / #{content['Code']}"
+
 				end
 			end
 		end
+
+		p content
 
 	end
 

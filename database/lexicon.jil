@@ -1,0 +1,14 @@
+~ Name : Lexicon
+~ Details : nothing to see here
+~ Author : Devine Lu Linvega
+
+VERRECIEL
+  SHORT : Lorem Ipsum
+  LONG  : <p>Long description</p>
+  PAREN : Interactive
+  LINK
+    APPL : http://itunes.com/verreciel
+    GITH : http://github.com/neauoire/
+    BAND : http://bandcamp.com/aliceffekt/verreciel
+
+

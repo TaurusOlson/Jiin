@@ -15,6 +15,12 @@ class Help
 	def application input
 
 		respond("Missing help docs")
+		respond("Missing help docs")
+		respond("Missing help docs")
+		respond("Missing help docs")
+		respond("Missing help docs")
+		respond("Missing help docs")
+		respond("Missing help docs")
 
 	end
 

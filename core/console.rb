@@ -39,9 +39,18 @@ class Console
 
 	end
 
+	# Logs
+
+	@@previousLamp = ""
+
 	def log message = "", lamp = "JIIN".ghostly, rune = "!".grey
 
-		puts "#{lamp} #{rune} #{message}"
+		if @@previousLamp == lamp 
+			puts "       #{message}"
+		else
+			puts "#{lamp} #{rune} #{message}"
+		end
+		@@previousLamp = lamp
 
 	end
 

@@ -1,8 +1,16 @@
 module Lamp
 
+	@@name = "????"
+
 	def isListening input
 
 		return false
+
+	end
+
+	def respond message
+
+		$console.log("#{message}",@@name.grey,">")
 
 	end
 

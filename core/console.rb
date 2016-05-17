@@ -26,12 +26,6 @@ class Console
 
 	end
 
-	def log message = "", lamp = "JIIN".ghostly, rune = "!".grey
-
-		puts "#{lamp} #{rune} #{message}"
-
-	end
-
 	def require_lamps
 
 		names = {}
@@ -42,6 +36,12 @@ class Console
 		end
 		names["default"] = Default.new
 		return names
+
+	end
+
+	def log message = "", lamp = "JIIN".ghostly, rune = "!".grey
+
+		puts "#{lamp} #{rune} #{message}"
 
 	end
 

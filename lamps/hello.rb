@@ -4,6 +4,8 @@ class Hello
 
 	include Lamp
 
+	@@name = "HLLO"
+
 	def isListening input
 
 		return true
@@ -12,7 +14,7 @@ class Hello
 
 	def application input
 
-		$console.log("#{input}","HLLO".grey,">",)
+		respond("hello #{input.sub("hello","").strip}")
 
 	end
 

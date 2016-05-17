@@ -5,6 +5,6 @@ require_relative("core/collection.rb")
 require_relative("core/console.rb")
 require_relative("misc/string.rb")
 
-jiin = Jiin.new
+$jiin = Jiin.new
 
-jiin.console.listen while(true)
+$jiin.console.listen while(true)

@@ -4,9 +4,15 @@ class Help
 
 	include Lamp
 
+	def isListening input
+
+		return true
+
+	end
+
 	def application input
 
-		$console.log("HELP".grey,">","Missing help docs")
+		$console.log("Missing help docs","HELP".grey,"?")
 
 	end
 

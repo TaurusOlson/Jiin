@@ -4,9 +4,6 @@ class Console
 
 		@lamps = require_lamps
 
-		@memory = ""
-		@hello = Hello.new
-
 	end
 
 	def listen
@@ -22,16 +19,14 @@ class Console
 
 	def validate line
 
-		name =line.split(" ").first
+		name = line.split(" ").first
 		if line.strip == "" then return end
-		if !@lamps[name] then log("JIIN".grey,"?","Unknown Lamp: #{name}") ; return end
-		if !@lamps[name].isListening(line) then log("JIIN".grey,"?","#{name} is mute.") ; return end
-
-		@lamps[name].application(line)
+		if @lamps[name] && @lamps[name].isListening(line) then @lamps[name].application(line) ; return end
+		@lamps['default'].application(line)
 
 	end
 
-	def log lamp = "JIIN".ghostly, rune = "!".grey, message = ""
+	def log message = "", lamp = "JIIN".ghostly, rune = "!".grey
 
 		puts "#{lamp} #{rune} #{message}"
 
@@ -45,6 +40,7 @@ class Console
 			require_relative("../"+file_name)
 			names[name.downcase] = Object.const_get(name.capitalize).new
 		end
+		names["default"] = Default.new
 		return names
 
 	end

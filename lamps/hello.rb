@@ -12,7 +12,7 @@ class Hello
 
 	def application input
 
-		$console.log("HLLO".grey,">","#{input}")
+		$console.log("#{input}","HLLO".grey,">",)
 
 	end
 

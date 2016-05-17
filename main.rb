@@ -1,8 +1,8 @@
 
 # Database
 
-require_relative("jil/jil.rb")
+require_relative("core/jiin.rb")
+require_relative("core/collection.rb")
 
-horaire = Jil.new("content/horaire.jil",nil)
-p horaire.parsed
-
+jiin = Jiin.new
+p jiin.collect("horaire").parsed

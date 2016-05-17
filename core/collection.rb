@@ -1,4 +1,4 @@
-class Jil
+class Collection
 
 	def initialize file,pattern
 

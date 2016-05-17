@@ -46,7 +46,7 @@ class Console
 	def log message = "", lamp = "JIIN".ghostly, rune = "!".grey
 
 		if @@previousLamp == lamp 
-			puts "       #{message}"
+			puts "     #{rune} #{message}"
 		else
 			puts "#{lamp} #{rune} #{message}"
 		end

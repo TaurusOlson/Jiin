@@ -4,7 +4,9 @@ class Hello
 
 	include Lamp
 
-	@@name = "HLLO"
+	def initialize 
+		@name = "HLLO"
+	end
 
 	def isListening input
 
@@ -14,7 +16,7 @@ class Hello
 
 	def application input
 
-		respond("hello #{input.sub("hello","").strip}")
+		respond("Good Bye #{input.sub("hello","").strip}(#{@name})")
 
 	end
 

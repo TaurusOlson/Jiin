@@ -4,7 +4,9 @@ class Help
 
 	include Lamp
 
-	@@name = "HELP"
+	def initialize 
+		@name = "HELP"
+	end
 
 	def isListening input
 
@@ -14,13 +16,12 @@ class Help
 
 	def application input
 
-		respond("Missing help docs")
-		respond("Missing help docs")
-		respond("Missing help docs")
-		respond("Missing help docs")
-		respond("Missing help docs")
-		respond("Missing help docs")
-		respond("Missing help docs")
+		respond("Lamps".grey," ")
+		respond("Hello","-")
+		respond("Help","-")
+		respond("Collections".grey," ")
+		respond("Hello","-")
+		respond("Help","-")
 
 	end
 

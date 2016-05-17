@@ -1,16 +1,14 @@
 module Lamp
 
-	@@name = "????"
-
 	def isListening input
 
 		return false
 
 	end
 
-	def respond message
+	def respond message,rune = ">"
 
-		$console.log("#{message}",@@name.grey,">")
+		$console.log("#{message}",@name.grey,rune)
 
 	end
 
@@ -19,6 +17,10 @@ end
 class Default
 
 	include Lamp
+
+	def initialize 
+		@name = "JIIN"
+	end
 
 	def isListening input
 

@@ -2,8 +2,8 @@ class Jiin
 
 	def initialize
 
-		@console = Console.new
-		
+		$console = Console.new
+
 	end
 
 	def collect name
@@ -14,7 +14,7 @@ class Jiin
 
 	def console
 
-		return @console
+		return $console
 
 	end
 

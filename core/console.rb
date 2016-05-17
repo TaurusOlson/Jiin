@@ -2,112 +2,51 @@ class Console
 
 	def initialize
 
+		@lamps = require_lamps
+
 		@memory = ""
-
-	end
-
-	def read_char
-
-		STDIN.echo = false
-		STDIN.raw!
-		input = STDIN.getc.chr
-		if input == "\e" then
-			input << STDIN.read_nonblock(3) rescue nil
-			input << STDIN.read_nonblock(2) rescue nil
-		end
-	ensure
-		STDIN.echo = true
-		STDIN.cooked!
-		return input
+		@hello = Hello.new
 
 	end
 
 	def listen
 
-		print "JIIN ? "
+		print "JIIN".ghostly+" #{"<".grey} "
 		line = $stdin.readline()
 
-		require_relative("../lamps/hello.rb")
+		if line.strip == "exit" then exit 0 ; return false end
 
-		hello = Hello.new
-		hello.listen(line)
-
-		puts line.red
+		validate(line)
 
 	end
 
-	def print_char input
+	def validate line
 
-		case input
-		when " "
-			return "SPACE"
-		when "\t"
-			return "TAB"
-		when "\r"
-			return "RETURN"
-		when "\n"
-			return "LINE FEED"
-		when "\e"
-			return "ESCAPE"
-		when "\e[A"
-			return "UP ARROW"
-		when "\e[B"
-			return "DOWN ARROW"
-		when "\e[C"
-			return "RIGHT ARROW"
-		when "\e[D"
-			return "LEFT ARROW".blue
-		when "\177"
-			return "BACKSPACE"
-		when "\004"
-			return "DELETE"
-		when "\e[3~"
-			return "ALTERNATE DELETE"
-		when "\u0003"
-			return "CONTROL-C"
-			exit 0
-		when /^.$/
-			return "SINGLE CHAR HIT: #{input.inspect}"
-		else
-			return "SOMETHING ELSE: #{input.inspect}"
+		name =line.split(" ").first
+		if line.strip == "" then return end
+		if !@lamps[name] then log("JIIN".grey,"?","Unknown Lamp: #{name}") ; return end
+		if !@lamps[name].isListening(line) then log("JIIN".grey,"?","#{name} is mute.") ; return end
+
+		@lamps[name].application(line)
+
+	end
+
+	def log lamp = "JIIN".ghostly, rune = "!".grey, message = ""
+
+		puts "#{lamp} #{rune} #{message}"
+
+	end
+
+	def require_lamps
+
+		names = {}
+		Dir['lamps/*'].each do |file_name|
+			name = file_name.split("/").last.sub(".rb","").strip
+			require_relative("../"+file_name)
+			names[name.downcase] = Object.const_get(name.capitalize).new
 		end
+		return names
 
-	end
-
-	def validate
-
-	end
-
-end
-
-class String
-
-	def colorize(color_code)
-		"\e[#{color_code}m#{self}\e[0m"
-	end
-
-	def red
-		colorize(31)
-	end
-
-	def green
-		colorize(32)
-	end
-
-	def yellow
-		colorize(33)
-	end
-
-	def blue
-		colorize(34)
-	end
-
-	def pink
-		colorize(35)
-	end
-
-	def light_blue
-		colorize(36)
 	end
 
 end

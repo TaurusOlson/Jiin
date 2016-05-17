@@ -24,8 +24,14 @@ class Console
 
 	def listen
 
-		print "> "
+		print "JIIN ? "
 		line = $stdin.readline()
+
+		require_relative("../lamps/hello.rb")
+
+		hello = Hello.new
+		hello.listen(line)
+
 		puts line.red
 
 	end

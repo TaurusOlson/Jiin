@@ -2,8 +2,8 @@ class Jiin
 
 	def initialize
 
-		puts "JIIN | Ready"
 		@console = Console.new
+		
 	end
 
 	def collect name
@@ -13,7 +13,7 @@ class Jiin
 	end
 
 	def console
-		
+
 		return @console
 
 	end

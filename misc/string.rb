@@ -72,4 +72,14 @@ class String
 		colorize(36)
 	end
 
+	def fill length, filler = " "
+
+		filled = self
+		while filled.length < length
+			filled += filler
+		end
+		"#{filled}"
+		
+	end
+
 end

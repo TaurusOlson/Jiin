@@ -6,7 +6,8 @@ class Console
 
 	def listen
 
-		print "JIIN".ghostly+" #{"<".grey} "
+		puts ""
+		print "JIIN"+" #{"<".ghostly} "
 		line = $stdin.readline()
 
 		if line.strip == "exit" then exit 0 ; return false end
@@ -19,7 +20,8 @@ class Console
 
 		if line.strip == "" then return end
 		if test = $jiin.isLampListening(line) then test.application(line) ; return end
-		@lamps['default'].application(line)
+
+		$jiin.lamps['default'].application(line)
 
 	end
 

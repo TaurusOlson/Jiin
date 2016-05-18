@@ -5,7 +5,10 @@ class Help
 	include Lamp
 
 	def initialize 
-		@name = "HELP"
+
+		@name = "Help"
+		@docs = "Help toolchain"
+
 	end
 
 	def isListening input
@@ -16,10 +19,8 @@ class Help
 
 	def application input
 
-		respond("Lamps".grey," ")
-
 		$jiin.lamps.each do |name,lamp|
-			respond(lamp.name,"-")	
+			respond("#{lamp.alia.bold} #{"|".ghostly} #{lamp.name}".fill(30)+"#{"|".ghostly} #{lamp.docs}","*")
 		end
 
 	end

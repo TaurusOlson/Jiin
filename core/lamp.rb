@@ -12,10 +12,24 @@ module Lamp
 		return !@docs ? "Documentation missing" : @docs
 	end
 
-	def isListening input
+	def isListening
 
 		return false
 
+	end
+
+	def isAnswering line
+
+		return false
+
+	end
+
+	def isAnswering line
+
+		cmd = line.split(" ").first.strip.downcase
+		if cmd == @name || cmd.upcase == @alia then return true end
+		return false
+		
 	end
 
 	def respond message,rune = ">"
@@ -38,7 +52,7 @@ class Default
 
 	end
 
-	def isListening input
+	def isListening
 
 		return true
 

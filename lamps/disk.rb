@@ -6,9 +6,123 @@ class Disk
 
 	def initialize 
 
-		@name = "Disk"
-		@alia = "DISK"
+		@name = "disk"
 		@docs = "File system"
+
+	end
+
+	def isListening
+
+		return true
+
+	end
+
+	def save
+		#TODO
+	end
+
+	def load target
+
+		respond("Locating #{target}",".")
+		Dir['disk/*'].each do |file_name|
+			file_name = file_name.split("/").last.sub(".rb","").strip
+			name = file_name.split(".").first
+			extension = file_name.split(".").last
+			if target == name
+				loadFile(file_name)
+				return
+			end
+		end
+		respond("Could not load file #{target}","!".red)
+		return
+
+	end
+
+	def loadFile file
+
+		respond("Found #{file}")
+
+		tree  = {}
+		notes = {}
+		lines = []
+
+		# Read
+
+		File.open("disk/#{file}","r") do |f|
+			number = 0
+			f.each_line do |line|
+				depth = line[/\A */].size
+				line = line.strip
+				if line == "" then next end
+				if line[0,1] == "~"
+					parts = line.split(":")
+					key = parts.first.sub("~","").strip.downcase
+					value = parts.last.strip
+					notes[key] = value
+				else
+					lines.push([number,depth,line])
+					number += 1
+				end
+			end
+		end
+
+		# Traverse
+
+		i = 0
+		tree[-1] = []
+		while i < lines.count
+			l = lines[i]
+			if l[1] == 0 then tree[-1].push(l[0]) end
+			p = l[0]
+			while p > -1
+				pl = lines[p]
+				if pl[1] < l[1]
+					if !tree[pl[0]] then tree[pl[0]] = [] end
+					tree[pl[0]].push(l[0])
+					break
+				end
+				p -= 1
+			end
+			i += 1
+		end
+
+		p parse(tree,lines,notes)
+
+	end
+
+	def parse tree,lines,notes
+
+		content = {}
+		tree[-1].each do |line|
+
+			year = lines[line].last
+			content[year] = {}
+			if !tree[line] then next end
+
+			tree[line].each do |line|
+
+				month = lines[line].last
+				content[year][month] = {}
+				if !tree[line] then next end
+
+				tree[line].each do |line|
+
+					day = lines[line].last
+					content[year][month][day] = {}
+					if !tree[line] then next end
+
+					tree[line].each do |line|
+						parts = lines[line].last.split(":")
+						key = parts.first.strip.downcase.capitalize
+						value = parts.last.strip
+						content[year][month][day][key] = value
+					end
+
+				end
+			end
+		end
+
+		return content
 
 	end
 
@@ -18,28 +132,27 @@ class Disk
 			file = file_name.split("/").last
 			name = file.split(".").first
 			extension = file.split(".").last
-			respond("#{extension.upcase.fill(4).bold} #{"|".ghostly} #{name.fill(20)}","*")
+			respond("#{extension.upcase.fill(4).bold} #{"|".ghostly} #{name.fill(12)} #{"|".ghostly} Missing Description","*")
 		end
-
-	end
-
-	def isListening input
-
-		return true
 
 	end
 
 	def application input
 
-		cmd = input.sub(@name.downcase,"").strip
+		parts = input.split(" ")
+		name = parts[0]
+		cmd  = parts[1]
+		par = input.sub("#{name}","").sub("#{cmd}","").strip
+
 		case cmd
 		when "list"
 			list()
+		when "load"
+			load(par)
 		else
 			respond("#{cmd.bold} is unknown, type 'Help' for a list of commands.")
 		end
 		
-
 	end
 
 end

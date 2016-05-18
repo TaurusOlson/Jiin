@@ -6,12 +6,12 @@ class Help
 
 	def initialize 
 
-		@name = "Help"
-		@docs = "Help toolchain"
+		@name = "help"
+		@docs = "help toolchain"
 
 	end
 
-	def isListening input
+	def isListening
 
 		return true
 
@@ -20,7 +20,7 @@ class Help
 	def application input
 
 		$jiin.lamps.each do |name,lamp|
-			respond("#{lamp.alia.bold} #{"|".ghostly} #{lamp.name}".fill(30)+"#{"|".ghostly} #{lamp.docs}","*")
+			respond("#{(lamp.isListening == true ? lamp.alia.bold : lamp.alia.red)} #{"|".ghostly} #{lamp.name.fill(12)} #{"|".ghostly} #{lamp.docs}","*")
 		end
 
 	end

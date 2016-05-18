@@ -1,6 +1,6 @@
 require_relative("../core/lamp.rb")
 
-class Hello
+class Hllo
 
 	include Lamp
 
@@ -9,12 +9,6 @@ class Hello
 		@name = "Hello"
 		@alia = "HLLO"
 		@docs = "Test lamp"
-
-	end
-
-	def isListening input
-
-		return true
 
 	end
 

@@ -6,8 +6,8 @@ class Console
 
 	def listen
 
-		puts ""
-		print "JIIN"+" #{"<".ghostly} "
+		# puts ""
+		print "JIIN".ghostly+" #{"<".ghostly} "
 		line = $stdin.readline()
 
 		if line.strip == "exit" then exit 0 ; return false end

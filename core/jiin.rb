@@ -34,11 +34,13 @@ class Jiin
 
 	def isLampListening line
 
-		name = line.split(" ").first
-		if !@lamps[name] then return false end
-		if @lamps[name].isListening(line) == false then return false end
+		@lamps.each do |name,lamp|
+			if lamp.isListening == false then next end
+			if lamp.isAnswering(line) == false then next end
+			return lamp
+		end
 
-		return @lamps[name]
+		return nil
 
 	end
 

@@ -1,5 +1,9 @@
 module Lamp
 
+	def name
+		return @name
+	end
+
 	def isListening input
 
 		return false
@@ -8,7 +12,7 @@ module Lamp
 
 	def respond message,rune = ">"
 
-		$console.log("#{message}",@name.grey,rune)
+		$jiin.console.log("#{message}",@name.grey,rune)
 
 	end
 

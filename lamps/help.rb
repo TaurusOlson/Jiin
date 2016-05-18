@@ -17,11 +17,10 @@ class Help
 	def application input
 
 		respond("Lamps".grey," ")
-		respond("Hello","-")
-		respond("Help","-")
-		respond("Collections".grey," ")
-		respond("Hello","-")
-		respond("Help","-")
+
+		$jiin.lamps.each do |name,lamp|
+			respond(lamp.name,"-")	
+		end
 
 	end
 

@@ -4,7 +4,7 @@ class String
 		"\e[#{color_code}m#{self}\e[0m"
 	end
 
-	def tempalte
+	def template
 		i = 0
 		while i < 50
 			puts "#{i}".colorize(i)
@@ -42,6 +42,10 @@ class String
 
 	def bg_grey
 		colorize(47)
+	end
+
+	def bg_white
+		colorize(7)
 	end
 
 	def red

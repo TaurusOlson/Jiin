@@ -34,7 +34,7 @@ module Lamp
 
 	def respond message,rune = ">"
 
-		$jiin.console.log("#{message}",alia,rune.ghostly)
+		$jiin.console.log("#{message}",alia,rune.bg_white)
 
 	end
 

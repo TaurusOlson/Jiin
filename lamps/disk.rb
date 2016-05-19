@@ -17,6 +17,19 @@ class Disk
 
 	end
 
+	def read target
+
+		count = 0
+		File.open("disk/#{target}","r") do |f|
+			number = 0
+			f.each_line do |line|
+				respond(line,(count % 9).to_s)
+				count += 1
+				if count > 20 then break end
+			end
+		end
+	end
+
 	def save
 		#TODO
 	end
@@ -149,6 +162,8 @@ class Disk
 			list()
 		when "load"
 			load(par)
+		when "read"
+			read(par)
 		else
 			respond("#{cmd.bold} is unknown, type 'Help' for a list of commands.")
 		end

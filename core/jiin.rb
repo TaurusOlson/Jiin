@@ -4,7 +4,12 @@ class Jiin
 
 		@console = Console.new
 		@lamps = require_lamps
+		@console.log("Core".fill(12)+" | #{@lamps.length} Lamps","JIIN".ghostly,"~".bg_red)
 
+	end
+
+	def start
+		@system = @lamps['disk'].load("system")
 	end
 
 	def collect name

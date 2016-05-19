@@ -5,5 +5,5 @@ require_relative("core/console.rb")
 require_relative("misc/string.rb")
 
 $jiin = Jiin.new
-
+$jiin.start
 $jiin.console.listen while(true)

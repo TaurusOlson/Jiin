@@ -17,7 +17,40 @@ class Disk
 
 	end
 
+	def application input
+
+		parts = input.split(" ")
+		name = parts[0]
+		cmd  = parts[1]
+		par = input.sub("#{name}","").sub("#{cmd}","").strip
+
+		case cmd
+		when "list"
+			list()
+		when "load"
+			load(par)
+		when "read"
+			read(par)
+		else
+			respond("#{cmd.bold} is unknown, type 'Help' for a list of commands.")
+		end
+		
+	end
+
+	def list
+
+		Dir['disk/*'].each do |file_name|
+			file = file_name.split("/").last
+			name = file.split(".").first
+			extension = file.split(".").last
+			respond("#{extension.upcase.fill(4).bold} #{"|".ghostly} #{name.fill(12)} #{"|".ghostly} Missing Description","*")
+		end
+
+	end
+
 	def read target
+
+		if File.file?("disk/#{target}") == false then respond("Cannot locate #{target}","!".red) ; return end
 
 		count = 0
 		File.open("disk/#{target}","r") do |f|
@@ -53,8 +86,6 @@ class Disk
 	end
 
 	def loadFile file
-
-		respond("Found #{file}")
 
 		tree  = {}
 		notes = {}
@@ -100,11 +131,35 @@ class Disk
 			i += 1
 		end
 
-		p parse(tree,lines,notes)
+		p parse_pattern_basic(tree,lines,notes)
+		# p parse(tree,lines,notes)
 
 	end
 
-	def parse tree,lines,notes
+	def parse_pattern_basic tree,lines,notes
+
+		content = {}
+
+		tree[-1].each do |line|
+
+			section = lines[line].last
+			content[section] = {}
+			if !tree[line] then next end
+
+			tree[line].each do |line|
+				parts = lines[line].last.split(":")
+				key = parts.first.strip.downcase.capitalize
+				value = parts.last.strip
+				content[section][key] = value
+			end
+
+		end
+
+		return content
+		
+	end
+
+	def parse_pattern_date tree,lines,notes
 
 		content = {}
 		tree[-1].each do |line|
@@ -138,37 +193,6 @@ class Disk
 
 		return content
 
-	end
-
-	def list
-
-		Dir['disk/*'].each do |file_name|
-			file = file_name.split("/").last
-			name = file.split(".").first
-			extension = file.split(".").last
-			respond("#{extension.upcase.fill(4).bold} #{"|".ghostly} #{name.fill(12)} #{"|".ghostly} Missing Description","*")
-		end
-
-	end
-
-	def application input
-
-		parts = input.split(" ")
-		name = parts[0]
-		cmd  = parts[1]
-		par = input.sub("#{name}","").sub("#{cmd}","").strip
-
-		case cmd
-		when "list"
-			list()
-		when "load"
-			load(par)
-		when "read"
-			read(par)
-		else
-			respond("#{cmd.bold} is unknown, type 'Help' for a list of commands.")
-		end
-		
 	end
 
 end

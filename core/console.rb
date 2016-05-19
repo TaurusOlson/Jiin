@@ -7,7 +7,7 @@ class Console
 	def listen
 
 		# puts ""
-		print "JIIN".ghostly+" #{"<".bg_white} "
+		print "JIIN".ghostly+" #{"<".bg_red} "
 		line = $stdin.readline()
 
 		if line.strip == "exit" then exit 0 ; return false end

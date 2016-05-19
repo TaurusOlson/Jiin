@@ -28,6 +28,7 @@ class Disk
 				if count > 20 then break end
 			end
 		end
+		respond("...",".")
 	end
 
 	def save

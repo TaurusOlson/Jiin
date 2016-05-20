@@ -4,14 +4,29 @@
 
 2016
   05
-    15
+    19
       TERM : Jiin
       TASK : Research
+      CODE : 39
+    18
+      TERM : Verreciel
+      TASK : Update
+      CODE : 34
+      NAME : 1.1
+    17
+      TERM : Verreciel
+      TASK : Development
+      CODE : 32
+    16
+      CODE : 40
+    15
+      TERM : Jiin
+      TASK : Development
       CODE : 37
     14
       TERM : Jiin
-      TASK : Research
-      CODE : 37
+      TASK : Development
+      CODE : 39
     13
       TERM : Verreciel
       TASK : Development
@@ -31,7 +46,6 @@
       NAME : Verreciel Soundtrack
       PICT : 171
     09
-      TERM : 
       CODE : 40
     08
       TERM : Verreciel ost
@@ -42,19 +56,15 @@
       TASK : Composition
       CODE : 19
     06
-      TERM : 
       CODE : 40
     05
-      TERM : 
       CODE : 40
     04
-      TERM : 
       CODE : 40
     03
       TERM : Hundred rabbits
       CODE : 26
     02
-      TERM : 
       CODE : 40
     01
       TERM : Hundred rabbits
@@ -65,7 +75,6 @@
       TASK : Composition
       CODE : 19
     29
-      TERM : 
       CODE : 40
     28
       TERM : Hundred rabbits
@@ -80,10 +89,8 @@
       TASK : Development
       CODE : 34
     25
-      TERM : 
       CODE : 40
     24
-      TERM : 
       CODE : 40
     23
       TERM : Lietal
@@ -185,20 +192,16 @@
       TASK : Design
       CODE : 25
     30
-      TERM : 
       CODE : 40
     29
-      TERM : 
       CODE : 40
     28
       TERM : Hundred rabbits
       TASK : Sailing
       CODE : 46
     27
-      TERM : 
       CODE : 40
     26
-      TERM : 
       CODE : 40
     25
       TERM : Verreciel
@@ -212,7 +215,6 @@
       TASK : Composition
       CODE : 18
     23
-      TERM : 
       CODE : 40
     22
       TERM : Verreciel ost
@@ -231,14 +233,12 @@
       TASK : Development
       CODE : 34
     18
-      TERM : 
       CODE : 40
     17
       TERM : Hundred rabbits
       TASK : Composition
       CODE : 15
     16
-      TERM : 
       CODE : 40
     15
       TERM : Portalion
@@ -318,7 +318,6 @@
       TASK : Composition
       CODE : 19
     24
-      TERM : 
       CODE : 40
     23
       TERM : Hundred rabbits
@@ -363,11 +362,9 @@
       CODE : 40
       NAME : Moving on the sailboat
     13
-      TERM : 
       TASK : Composition
       CODE : 15
     12
-      TERM : 
       TASK : Composition
       CODE : 15
     11
@@ -391,7 +388,6 @@
       TASK : Linguistics
       CODE : 38
     06
-      TERM : 
       TASK : Composition
       CODE : 15
     05
@@ -899,7 +895,6 @@
       NAME : The New Ghost
       PICT : 473
     14
-      TERM : 
       CODE : 40
     13
       TERM : Verreciel
@@ -3024,10 +3019,8 @@
       CODE : 38
   07
     31
-      TERM : 
       CODE : 40
     30
-      TERM : 
       CODE : 40
     29
       TERM : Ledoliel
@@ -3052,19 +3045,14 @@
       CODE : 31
       NAME : Inner Haven
     25
-      TERM : 
       CODE : 40
     24
-      TERM : 
       CODE : 40
     23
-      TERM : 
       CODE : 40
     22
-      TERM : 
       CODE : 40
     21
-      TERM : 
       CODE : 40
     20
       TERM : Nereid
@@ -4011,10 +3999,8 @@
       TASK : Design
       CODE : 29
     27
-      TERM : 
       CODE : 40
     26
-      TERM : 
       CODE : 40
     25
       TERM : Traumae
@@ -4065,7 +4051,6 @@
       TASK : Update
       CODE : 34
     13
-      TERM : 
       CODE : 40
     12
       TERM : Yearly
@@ -4171,7 +4156,6 @@
       TASK : Prototype
       CODE : 25
     18
-      TERM : 
       CODE : 40
     17
       TERM : Paradise
@@ -4520,13 +4504,10 @@
       TASK : Prototype
       CODE : 28
     26
-      TERM : 
       CODE : 40
     25
-      TERM : 
       CODE : 40
     24
-      TERM : 
       CODE : 40
     23
       TERM : Misc
@@ -4545,7 +4526,6 @@
       TERM : Misc
       CODE : 37
     18
-      TERM : 
       CODE : 40
     17
       TERM : Alphavetist
@@ -4563,7 +4543,6 @@
       TASK : Development
       CODE : 37
     13
-      TERM : 
       CODE : 40
     12
       TERM : Vocavularist
@@ -4609,7 +4588,6 @@
       TASK : Development
       CODE : 36
     02
-      TERM : 
       CODE : 40
     01
       TERM : Traumaetics
@@ -4617,7 +4595,6 @@
       CODE : 37
   07
     31
-      TERM : 
       CODE : 40
     30
       TERM : Milavrega
@@ -4774,10 +4751,8 @@
       TASK : Development
       CODE : 38
     27
-      TERM : 
       CODE : 40
     26
-      TERM : 
       CODE : 40
     25
       TERM : Dei dain
@@ -4901,7 +4876,6 @@
       CODE : 38
   05
     31
-      TERM : 
       CODE : 40
     30
       TERM : Nataniev
@@ -4982,7 +4956,6 @@
       TERM : Remix
       CODE : 19
     11
-      TERM : 
       CODE : 40
     10
       TERM : Melady antres
@@ -5038,7 +5011,6 @@
       TASK : Design
       CODE : 35
     28
-      TERM : 
       CODE : 40
     27
       TERM : Melady antres
@@ -5075,7 +5047,6 @@
       NAME : Soundtrack Release
       PICT : 221
     19
-      TERM : 
       CODE : 40
     18
       TERM : Melady antres
@@ -5135,7 +5106,6 @@
       NAME : Picotachi
       PICT : 216
     04
-      TERM : 
       CODE : 40
     03
       TERM : Oscean
@@ -5451,7 +5421,6 @@
       PICT : 173
   01
     31
-      TERM : 
       CODE : 40
     30
       TERM : Wallpaper
@@ -5534,7 +5503,6 @@
       TASK : Documentation
       CODE : 35
     12
-      TERM : 
       CODE : 40
     11
       TERM : Nor let the fools mistake love
@@ -5549,10 +5517,8 @@
       TASK : Documentation
       CODE : 35
     08
-      TERM : 
       CODE : 40
     07
-      TERM : 
       CODE : 40
     06
       TERM : Japan
@@ -5603,13 +5569,10 @@
       TASK : Development
       CODE : 39
     26
-      TERM : 
       CODE : 40
     25
-      TERM : 
       CODE : 40
     24
-      TERM : 
       CODE : 40
     23
       TERM : Oscean
@@ -5644,17 +5607,14 @@
       TASK : Layout
       CODE : 25
     15
-      TERM : 
       CODE : 40
     14
-      TERM : 
       CODE : 40
     13
       TERM : Oscean
       TASK : Development
       CODE : 35
     12
-      TERM : 
       CODE : 40
     11
       TERM : Yearly
@@ -5663,10 +5623,8 @@
       NAME : MMXII
       PICT : 110
     10
-      TERM : 
       CODE : 40
     09
-      TERM : 
       CODE : 40
     08
       TERM : Traumae
@@ -5677,7 +5635,6 @@
       TASK : Documentation
       CODE : 35
     06
-      TERM : 
       CODE : 40
     05
       TERM : Traumae
@@ -5688,10 +5645,8 @@
       TASK : Documentation
       CODE : 35
     03
-      TERM : 
       CODE : 40
     02
-      TERM : 
       CODE : 40
     01
       TERM : Oscean
@@ -5699,10 +5654,8 @@
       CODE : 38
   11
     30
-      TERM : 
       CODE : 40
     29
-      TERM : 
       CODE : 40
     28
       TERM : Paradise
@@ -5719,7 +5672,6 @@
       TASK : Prototype
       CODE : 39
     25
-      TERM : 
       CODE : 40
     24
       TERM : Japan
@@ -5727,17 +5679,14 @@
       NAME : Ramen Museum
       PICT : 108
     23
-      TERM : 
       CODE : 40
     22
       TERM : Oscean
       TASK : Design
       CODE : 39
     21
-      TERM : 
       CODE : 40
     20
-      TERM : 
       CODE : 40
     19
       TERM : Mixtape
@@ -5745,7 +5694,6 @@
       CODE : 19
       NAME : Ghosts
     18
-      TERM : 
       CODE : 40
     17
       TERM : Paradise
@@ -5768,13 +5716,10 @@
       CODE : 29
       NAME : TCAF, En Masse 東京
     12
-      TERM : 
       CODE : 40
     11
-      TERM : 
       CODE : 40
     10
-      TERM : 
       CODE : 40
     09
       TERM : Oscean
@@ -5797,7 +5742,6 @@
       TASK : Prototype
       CODE : 35
     04
-      TERM : 
       CODE : 40
     03
       TERM : Paradise
@@ -5831,10 +5775,8 @@
       TASK : Development
       CODE : 35
     27
-      TERM : 
       CODE : 40
     26
-      TERM : 
       CODE : 40
     25
       TERM : The ehrivevnv studies
@@ -5931,10 +5873,8 @@
       TASK : Design
       CODE : 25
     03
-      TERM : 
       CODE : 40
     02
-      TERM : 
       CODE : 40
     01
       TERM : The ehrivevnv studies
@@ -5942,13 +5882,10 @@
       CODE : 28
   09
     30
-      TERM : 
       CODE : 40
     29
-      TERM : 
       CODE : 40
     28
-      TERM : 
       CODE : 40
     27
       TERM : Accursed be it to the aeons hell
@@ -6001,7 +5938,6 @@
       TASK : Composition
       CODE : 35
     15
-      TERM : 
       CODE : 40
     14
       TERM : The shores of ver tale
@@ -6018,17 +5954,14 @@
       TASK : Development
       CODE : 38
     11
-      TERM : 
       CODE : 40
     10
       TERM : Waiting for horus
       TASK : Design
       CODE : 25
     09
-      TERM : 
       CODE : 40
     08
-      TERM : 
       CODE : 40
     07
       TERM : Paradise
@@ -6060,7 +5993,6 @@
       CODE : 37
   08
     31
-      TERM : 
       CODE : 40
     30
       TERM : Waiting for horus
@@ -6071,7 +6003,6 @@
       TASK : Development
       CODE : 35
     28
-      TERM : 
       CODE : 40
     27
       TERM : Oscean
@@ -6110,7 +6041,6 @@
       TASK : Design
       CODE : 25
     18
-      TERM : 
       CODE : 40
     17
       TERM : Sombre
@@ -6168,7 +6098,6 @@
       TASK : Development
       CODE : 32
     04
-      TERM : 
       CODE : 40
     03
       TERM : Artwork
@@ -6211,10 +6140,8 @@
       TASK : Narrative
       CODE : 23
     25
-      TERM : 
       CODE : 40
     24
-      TERM : 
       CODE : 40
     23
       TERM : Traumae
@@ -6229,17 +6156,14 @@
       TASK : Photography
       CODE : 25
     20
-      TERM : 
       CODE : 40
     19
-      TERM : 
       CODE : 40
     18
       TERM : Oscean
       TASK : Design
       CODE : 37
     17
-      TERM : 
       CODE : 40
     16
       TERM : Oscean
@@ -6313,10 +6237,8 @@
       NAME : Pico Battle Update
   06
     30
-      TERM : 
       CODE : 40
     29
-      TERM : 
       CODE : 40
     28
       TERM : Pico battle
@@ -6325,7 +6247,6 @@
       NAME : Pico Battle
       PICT : 160
     27
-      TERM : 
       CODE : 40
     26
       TERM : Accursed be it to the aeons hell
@@ -6336,7 +6257,6 @@
       TASK : Illustration
       CODE : 17
     24
-      TERM : 
       CODE : 40
     23
       TERM : Oscean
@@ -6363,16 +6283,12 @@
       TASK : Design
       CODE : 29
     17
-      TERM : 
       CODE : 40
     16
-      TERM : 
       CODE : 40
     15
-      TERM : 
       CODE : 40
     14
-      TERM : 
       CODE : 40
     13
       TERM : Diluvium
@@ -6434,7 +6350,6 @@
       TASK : Illustration
       CODE : 25
     30
-      TERM : 
       CODE : 40
     29
       TERM : Japanese
@@ -6461,10 +6376,8 @@
       TASK : Narrative
       CODE : 35
     23
-      TERM : 
       CODE : 40
     22
-      TERM : 
       CODE : 40
     21
       TERM : Diluvium
@@ -6479,7 +6392,6 @@
       NAME : Kinetik Festival 2012 - Montreal, Metropolis
       PICT : 148
     19
-      TERM : 
       CODE : 40
     18
       TERM : Accursed be it to the aeons hell
@@ -6490,10 +6402,8 @@
       TASK : Narrative
       CODE : 35
     16
-      TERM : 
       CODE : 40
     15
-      TERM : 
       CODE : 40
     14
       TERM : Oscean
@@ -6514,7 +6424,6 @@
       TASK : Design
       CODE : 29
     10
-      TERM : 
       CODE : 40
     09
       TERM : Occulter
@@ -6617,7 +6526,6 @@
       TASK : Development
       CODE : 35
     15
-      TERM : 
       CODE : 40
     14
       TERM : Waiting for horus
@@ -6679,7 +6587,6 @@
       CODE : 15
   03
     31
-      TERM : 
       CODE : 40
     30
       TERM : France
@@ -6787,7 +6694,6 @@
       NAME : Hex Hive Necklace
       PICT : 95
     09
-      TERM : 
       CODE : 40
     08
       TERM : Spool holder
@@ -6954,11 +6860,9 @@
       TASK : Design
       CODE : 35
     01
-      TERM : 
       CODE : -33
   01
     31
-      TERM : 
       CODE : 40
     30
       TERM : Volkenessen
@@ -6979,14 +6883,12 @@
       TASK : Design
       CODE : -40
     26
-      TERM : 
       CODE : -33
     25
       TERM : Oscean
       TASK : Development
       CODE : 35
     24
-      TERM : 
       CODE : 40
     23
       TERM : Artwork
@@ -7007,7 +6909,6 @@
       TASK : Composition
       CODE : 15
     19
-      TERM : 
       CODE : 40
     18
       TERM : Neauismetica
@@ -7020,7 +6921,6 @@
       TASK : Composition
       CODE : 15
     16
-      TERM : 
       CODE : 40
     15
       TERM : Misc
@@ -7039,10 +6939,8 @@
       NAME : Extra
       PICT : 19
     12
-      TERM : 
       CODE : 40
     11
-      TERM : 
       CODE : 40
     10
       TERM : Oscean
@@ -7055,7 +6953,6 @@
       TASK : Development
       CODE : 35
     08
-      TERM : 
       CODE : 40
     07
       TERM : Oscean
@@ -7112,10 +7009,8 @@
       TASK : Testing
       CODE : 25
     26
-      TERM : 
       CODE : 40
     25
-      TERM : 
       CODE : 40
     24
       TERM : Misc
@@ -7168,7 +7063,6 @@
       TASK : Linguistics
       CODE : 35
     13
-      TERM : 
       CODE : 40
     12
       TERM : Artwork
@@ -7205,7 +7099,6 @@
       TASK : Composition
       CODE : 15
     04
-      TERM : 
       CODE : 40
     03
       TERM : Es gulf sunflowers
@@ -7228,10 +7121,8 @@
       NAME : From Saharaphorest to Duomo
       PICT : 6
     29
-      TERM : 
       CODE : 40
     28
-      TERM : 
       CODE : 40
     27
       TERM : From saharaphorest to duomo
@@ -7368,13 +7259,10 @@
       TASK : Development
       CODE : 35
     29
-      TERM : 
       CODE : 40
     28
-      TERM : 
       CODE : 40
     27
-      TERM : 
       CODE : 40
     26
       TERM : Merveilles portable
@@ -7385,7 +7273,6 @@
       TASK : Narrative
       CODE : 35
     24
-      TERM : 
       CODE : 40
     23
       TERM : Artwork
@@ -7400,13 +7287,10 @@
       TASK : Development
       CODE : 35
     20
-      TERM : 
       CODE : 40
     19
-      TERM : 
       CODE : 40
     18
-      TERM : 
       CODE : 40
     17
       TERM : Oscean
@@ -7440,13 +7324,10 @@
       CODE : 40
       NAME : Quietly
     09
-      TERM : 
       CODE : 40
     08
-      TERM : 
       CODE : 40
     07
-      TERM : 
       CODE : 40
     06
       TERM : Traumae
@@ -7540,7 +7421,6 @@
       TASK : Composition
       CODE : 15
     14
-      TERM : 
       CODE : 40
     13
       TERM : Orchestrate the sixth season
@@ -7563,10 +7443,8 @@
       TASK : Composition
       CODE : 15
     08
-      TERM : 
       CODE : 40
     07
-      TERM : 
       CODE : 15
     06
       TERM : Orchestrate the sixth season
@@ -7577,13 +7455,10 @@
       TASK : Development
       CODE : 35
     04
-      TERM : 
       CODE : 40
     03
-      TERM : 
       CODE : 40
     02
-      TERM : 
       CODE : 40
     01
       TERM : Andes
@@ -7592,13 +7467,10 @@
       PICT : 87
   08
     31
-      TERM : 
       CODE : 40
     30
-      TERM : 
       CODE : 40
     29
-      TERM : 
       CODE : 40
     28
       TERM : Oscean
@@ -7678,7 +7550,6 @@
       CODE : 15
       NAME : Span
     11
-      TERM : 
       CODE : 40
     10
       TERM : Artwork
@@ -7693,7 +7564,6 @@
       TASK : Illustration
       CODE : 25
     07
-      TERM : 
       CODE : 40
     06
       TERM : Blam
@@ -7711,7 +7581,6 @@
       TASK : Composition
       CODE : 15
     03
-      TERM : 
       CODE : 40
     02
       TERM : Artwork
@@ -7725,7 +7594,6 @@
       CODE : 35
   07
     31
-      TERM : 
       CODE : 40
     30
       TERM : Merveilles portable
@@ -7756,10 +7624,8 @@
       TASK : Illustration
       CODE : 25
     23
-      TERM : 
       CODE : 40
     22
-      TERM : 
       CODE : 40
     21
       TERM : Mixtape
@@ -7767,10 +7633,8 @@
       CODE : 19
       NAME : Tunnel
     20
-      TERM : 
       CODE : 40
     19
-      TERM : 
       CODE : 40
     18
       TERM : Yajnev
@@ -7810,10 +7674,8 @@
       TASK : Composition
       CODE : 15
     09
-      TERM : 
       CODE : 40
     08
-      TERM : 
       CODE : 40
     07
       TERM : Blam
@@ -7829,7 +7691,6 @@
       CODE : 15
       NAME : Easter
     04
-      TERM : 
       CODE : 40
     03
       TERM : Oscean
@@ -7882,23 +7743,18 @@
       TERM : Neauismetica
       CODE : 35
     19
-      TERM : 
       TASK : Prototype
       CODE : 40
     18
-      TERM : 
       TASK : Prototype
       CODE : 40
     17
-      TERM : 
       TASK : Prototype
       CODE : 40
     16
-      TERM : 
       TASK : Prototype
       CODE : 40
     15
-      TERM : 
       TASK : Prototype
       CODE : 40
     14
@@ -7907,10 +7763,8 @@
       CODE : 15
       NAME : Visual
     13
-      TERM : 
       CODE : 40
     12
-      TERM : 
       CODE : 40
     11
       TERM : Mixtape
@@ -7918,7 +7772,6 @@
       CODE : 19
       NAME : Wave
     10
-      TERM : 
       CODE : 40
     09
       TERM : Oscean
@@ -7941,10 +7794,8 @@
       CODE : 40
       NAME : June : New Home
     04
-      TERM : 
       CODE : 40
     03
-      TERM : 
       CODE : 40
     02
       TERM : Vermillionth
@@ -8059,14 +7910,12 @@
       TASK : Development
       CODE : 35
     07
-      TERM : 
       CODE : 40
     06
       TERM : Oscean
       TASK : Development
       CODE : 35
     05
-      TERM : 
       CODE : 40
     04
       TERM : Oscean
@@ -8099,7 +7948,6 @@
       TERM : Paradise
       CODE : 35
     26
-      TERM : 
       CODE : 40
     25
       TERM : Drownspire
@@ -8130,7 +7978,6 @@
       CODE : 19
       NAME : OCDJ - Montreal, Passport
     18
-      TERM : 
       CODE : 40
     17
       TERM : Accursed be it to the aeons hell
@@ -8141,20 +7988,16 @@
       TASK : Composition
       CODE : 15
     15
-      TERM : 
       CODE : 40
     14
-      TERM : 
       CODE : 40
     13
       TERM : Oscean
       TASK : Development
       CODE : 35
     12
-      TERM : 
       CODE : 40
     11
-      TERM : 
       CODE : 40
     10
       TERM : Accursed be it to the aeons hell
@@ -8164,7 +8007,6 @@
       TERM : Paradise
       CODE : 35
     08
-      TERM : 
       CODE : 40
     07
       TERM : Accursed be it to the aeons hell
@@ -8178,7 +8020,6 @@
       TERM : Paradise
       CODE : 25
     04
-      TERM : 
       CODE : 40
     03
       TERM : Accursed be it to the aeons hell
@@ -8265,7 +8106,6 @@
       TASK : Development
       CODE : 35
     14
-      TERM : 
       CODE : 40
     13
       TERM : Czech
@@ -8322,7 +8162,6 @@
       NAME : Prague Day I
       PICT : 59
     03
-      TERM : 
       CODE : 40
     02
       TERM : Czech
@@ -8330,7 +8169,6 @@
       CODE : 49
       NAME : Travel to Prague
     01
-      TERM : 
       CODE : 40
   02
     28
@@ -8415,7 +8253,6 @@
       TASK : Development
       CODE : 45
     07
-      TERM : 
       TASK : Development
       CODE : 40
     06
@@ -8437,7 +8274,6 @@
       TASK : Development
       CODE : 35
     02
-      TERM : 
       CODE : -40
     01
       TERM : Artwork
@@ -8477,7 +8313,6 @@
       TERM : Misc
       CODE : 40
     24
-      TERM : 
       CODE : 40
     23
       TERM : Misc
@@ -8552,7 +8387,6 @@
       NAME : 8Static - Philadelphia, Studio 34
       PICT : 103
     07
-      TERM : 
       CODE : -35
     06
       TERM : Accursed be it to the aeons hell
@@ -8576,7 +8410,6 @@
       NAME : I/O Language Structure
       PICT : 51
     01
-      TERM : 
       CODE : 40
 2010
   12
@@ -8585,7 +8418,6 @@
       TASK : Development
       CODE : 35
     30
-      TERM : 
       CODE : 40
     29
       TERM : Death
@@ -8607,10 +8439,8 @@
       TASK : Illustration
       CODE : 25
     25
-      TERM : 
       CODE : 40
     24
-      TERM : 
       CODE : 40
     23
       TERM : Paradise
@@ -8621,7 +8451,6 @@
       TASK : Development
       CODE : 39
     21
-      TERM : 
       CODE : 40
     20
       TERM : Accursed be it to the aeons hell
@@ -8663,7 +8492,6 @@
       NAME : Draft
       PICT : 334
     12
-      TERM : 
       CODE : 40
     11
       TERM : Vambits
@@ -8672,7 +8500,6 @@
       NAME : Vambits, Last Gen
       PICT : 93
     10
-      TERM : 
       CODE : 40
     09
       TERM : Misc
@@ -8681,7 +8508,6 @@
       TERM : Misc
       CODE : 39
     07
-      TERM : 
       CODE : 40
     06
       TERM : Misc
@@ -8691,7 +8517,6 @@
       TASK : Composition
       CODE : 15
     04
-      TERM : 
       CODE : 40
     03
       TERM : Drownspire
@@ -8700,7 +8525,6 @@
       TERM : Drownspire
       CODE : 25
     01
-      TERM : 
       CODE : 40
   11
     30
@@ -8718,13 +8542,10 @@
       TASK : Development
       CODE : 35
     27
-      TERM : 
       CODE : 40
     26
-      TERM : 
       CODE : 40
     25
-      TERM : 
       CODE : 40
     24
       TERM : Oscean
@@ -8743,7 +8564,6 @@
       TASK : Typography
       CODE : 25
     19
-      TERM : 
       CODE : 40
     18
       TERM : Paradise
@@ -8809,7 +8629,6 @@
       TASK : Illustration
       CODE : 25
     03
-      TERM : 
       CODE : 40
     02
       TERM : Accursed be it to the aeons hell
@@ -8826,7 +8645,6 @@
       NAME : Android Nexus S Theme
       PICT : 22
     30
-      TERM : 
       CODE : 25
     29
       TERM : Oscean
@@ -8871,7 +8689,6 @@
       NAME : Pico
       PICT : 300
     17
-      TERM : 
       CODE : 40
     16
       TERM : Accursed be it to the aeons hell
@@ -8887,7 +8704,6 @@
       TASK : Composition
       CODE : 15
     13
-      TERM : 
       CODE : 40
     12
       TERM : Artwork
@@ -8943,7 +8759,6 @@
       NAME : Vambits, Gen II
       PICT : 88
     29
-      TERM : 
       CODE : 40
     28
       TERM : Misc
@@ -8994,7 +8809,6 @@
       TASK : Development
       CODE : 35
     16
-      TERM : 
       TASK : Design
       CODE : 25
     15
@@ -9015,7 +8829,6 @@
       NAME : Vambits, DIY
       PICT : 99
     11
-      TERM : 
       CODE : 40
     10
       TERM : Vambits
@@ -9034,14 +8847,12 @@
       TERM : Pico
       CODE : 25
     06
-      TERM : 
       CODE : 25
     05
       TERM : Misc
       CODE : 25
       NAME : Exposine
     04
-      TERM : 
       CODE : 25
     03
       TERM : Merure
@@ -9234,7 +9045,6 @@
       TERM : Pico
       CODE : 39
     17
-      TERM : 
       CODE : 40
     16
       TERM : Genesis miners
@@ -9571,10 +9381,8 @@
       NAME : Travel to Tokyo
       PICT : 401
     19
-      TERM : 
       CODE : 35
     18
-      TERM : 
       CODE : 40
     17
       TERM : Lifestyle

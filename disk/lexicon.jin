@@ -225,49 +225,100 @@ CLOCK
 
 COLLEGIENNES
   UNDE : Event
-  LONG : <img src='content/lexicon/collegiennes.logo.png'/><p>Collegiennes, {_Les Collégiennes_}, is a game jam team initiated by <a href='https://twitter.com/renaudbedard'>Renaud Bedard</a> and <a href='https://twitter.com/aliceffekt'>Devine Lu Linvega</a> in 2010. The team is occasionally joined by friends. </p><h2>Projects</h2><table><tr><th>Project Name</th><th>Genre</th><th>Collaborators</th><th style='width:110px'>Game Jam</th></tr><tr><td>TBA</td><td>TBA</td><td>Dom 2D<br />Rekka Bellum<br />Pierre-Luc Poirier</td><td>Toronto Game Jam 2014, Toronto</td></tr><tr><td><a href='Rain+bow'>RAIN+BOW</a><br />Update</td><td>Shooter</td><td></td><td>Gamercamp 2013, Toronto</td></tr><tr><td><a href='Volkenessen'>Volkenessen</a></td><td>Fighting</td><td></td><td>Global Game Jam 2012, Montreal</td></tr><tr><td><a href='Diluvium'>Diluvium</a></td><td>Strategy</td><td>Dom2D<br />Henk Boom</td><td>Toronto Game Jam 2012, Toronto</td></tr><tr><td><a href='Rain+bow'>RAIN+BOW</a></td><td>Shooter</td><td></td><td>Toronto Game Jam 2011, Toronto</td></tr><tr><td><a href='Pico+battle'>Pico Battle</a></td><td>Multiplayer Puzzle</td><td></td><td>Prince of the Arcade 2011, Montreal</td></tr><tr><td>Cloud is a lie</td><td>Defence</td><td></td><td>Bivouac Urbain 2010, Quebec</td></tr><tr><td><a href='Pico'>Pico</a></td><td>Puzzle</td><td></td><td>Prince of the Arcade 2010, Montreal</td></tr></table>
+  BREF : Collegiennes, {_Les Collégiennes_}, is a game jam team initiated by {{Renaud Bedard|https://twitter.com/renaudbedard}} and {{Devine Lu Linvega|About}} in 2010. The team is occasionally joined by friends. </p><h2>Projects</h2><table><tr><th>Project Name</th><th>Genre</th><th>Collaborators</th><th style='width:110px'>Game Jam</th></tr><tr><td>TBA</td><td>TBA</td><td>Dom 2D<br />Rekka Bellum<br />Pierre-Luc Poirier</td><td>Toronto Game Jam 2014, Toronto</td></tr><tr><td><a href='Rain+bow'>RAIN+BOW</a><br />Update</td><td>Shooter</td><td></td><td>Gamercamp 2013, Toronto</td></tr><tr><td><a href='Volkenessen'>Volkenessen</a></td><td>Fighting</td><td></td><td>Global Game Jam 2012, Montreal</td></tr><tr><td><a href='Diluvium'>Diluvium</a></td><td>Strategy</td><td>Dom2D<br />Henk Boom</td><td>Toronto Game Jam 2012, Toronto</td></tr><tr><td><a href='Rain+bow'>RAIN+BOW</a></td><td>Shooter</td><td></td><td>Toronto Game Jam 2011, Toronto</td></tr><tr><td><a href='Pico+battle'>Pico Battle</a></td><td>Multiplayer Puzzle</td><td></td><td>Prince of the Arcade 2011, Montreal</td></tr><tr><td>Cloud is a lie</td><td>Defence</td><td></td><td>Bivouac Urbain 2010, Quebec</td></tr><tr><td><a href='Pico'>Pico</a></td><td>Puzzle</td><td></td><td>Prince of the Arcade 2010, Montreal</td></tr></table>
 
 COLOR CODING
   UNDE : Programming
-  LONG : <p>{{Color coding}} is a conceptual programming language that uses no words, and instead, uses colour as syntax.</p> <style>.print { background:#9dfffb}.add { background:#b4dcc2}.equal { background:#b4a365}.while { background:#ffe8cb}.comment { color:#aaa; background:white}.smallerthan { background:#ffa366}</style><pre><span class='print'>Hello World</span> <span class='comment'># "Hello World"</span><span class='add'>1 2</span> <span class='comment'># 3</span><span class='equal'>a 4</span> <span class='comment'># a = 4</span><span class='smallerthan'>4 5</span> <span class='comment'># true</span></pre><p>Using multiple functions together.</p><pre><span class='equal'>a <span class='add'>1 2</span></span> <span class='comment'># a = 1 + 2</span></pre><p>Altogether now.</p><pre><span class='equal'>a 0</span> <span class='comment'># a = 0</span><span class='while'><span class='smallerthan'>a 10</span><span class='comment'> # while a < 10</span>  <span class='equal'>a <span class='add'>a 1</span></span><span class='comment'> # a = 1 + 2</span>  <span class='print'>a</span><span class='comment'> # "1","2","3","..."</span></span></pre>
+  BREF : <p>{{Color coding}} is a conceptual programming language that uses no words, and instead, uses colour as syntax.</p> <style>.print { background:#9dfffb}.add { background:#b4dcc2}.equal { background:#b4a365}.while { background:#ffe8cb}.comment { color:#aaa; background:white}.smallerthan { background:#ffa366}</style><pre><span class='print'>Hello World</span> <span class='comment'># "Hello World"</span><span class='add'>1 2</span> <span class='comment'># 3</span><span class='equal'>a 4</span> <span class='comment'># a = 4</span><span class='smallerthan'>4 5</span> <span class='comment'># true</span></pre><p>Using multiple functions together.</p><pre><span class='equal'>a <span class='add'>1 2</span></span> <span class='comment'># a = 1 + 2</span></pre><p>Altogether now.</p><pre><span class='equal'>a 0</span> <span class='comment'># a = 0</span><span class='while'><span class='smallerthan'>a 10</span><span class='comment'> # while a < 10</span>  <span class='equal'>a <span class='add'>a 1</span></span><span class='comment'> # a = 1 + 2</span>  <span class='print'>a</span><span class='comment'> # "1","2","3","..."</span></span></pre>
 
 CYAN OCEAN
   UNDE : Malice
-  LONG : 
+
 CYANOSIS FEVER
   UNDE : Desktop
-  LONG : <p>Cyanosis is a 3d abstract world of static to explore and to get lost into. </p><iframe width="560" height="315" src="//www.youtube.com/embed/6m-fYVA9hD8" frameborder="0" allowfullscreen></iframe><ul><li>If you start to foam, close the game as you faint</li><li>This is not a game game</li></ul>
-  TYPE : ["desktop_experiment"]
+  BREF : Cyanosis is a 3d abstract world of static to explore and to get lost into. 
+  LONG
+    - If you start to foam, close the game as you faint
+    - This is not a game game
 CZECH
   UNDE : Misc
-  LONG : <p>Trip to Czech Republic in 2011</p>
+  BREF : Trip to Czech Republic in 2011
   TYPE : Diary
+
 DAMOISEAU CANALX
   UNDE : Fourth wave
-  LONG : <p>{{Damoiseau Canalx}} is the first single for the {{Fourth wave}}, in the spirit of {{Blam}}, that explores industrial sounds within darkstep and 2-step styles.</p><p>The album was recorded live, at Passport in Montreal during the last AMP event and is being released as-is. The album was composed as side project while working on {{Ten Axitecture}} and includes bits and pieces from {{Blam}}.</p>
+  BREF : {{Damoiseau Canalx}} is the first single for the {{Fourth wave}}, in the spirit of {{Blam}}, that explores industrial sounds within darkstep and 2-step styles.
+  LONG 
+    & The album was recorded live, at Passport in Montreal during the last AMP event and is being released as-is. 
+    & The album was composed as side project while working on {{Ten Axitecture}} and includes bits and pieces from {{Blam}}.
   LINK
-    Listen|https://aliceffekt.bandcamp.com/album/damoiseau-canalx"=>"Listen|https://aliceffekt.bandcamp.com/album/damoiseau-canalx"}
+    BAND : https://aliceffekt.bandcamp.com/album/damoiseau-canalx
+
 DEATH
   UNDE : Devine lu linvega
-  LONG : <p class='small'>{_Inspired from Chris Crawford's {{Jars|http://www.erasmatazz.com/personal/self/sixty.html}}._}</p>
+  BREF : Inspired from Chris Crawford's {{Jars|http://www.erasmatazz.com/personal/self/sixty.html}}.
+
 DEFRACTION OPTICS
   UNDE : Physical
-  LONG : <p>{{Defraction Optics}} is the second book of <a href='http://noirmirroir.com/'>Elodie Lareine</a>, a beautiful manual of procedural imagery, in the fashion of {{Vast}}.</p>
+  BREF : {{Defraction Optics}} is the second book of {{Elodie Lareine|http://noirmirroir.com/}}, a manual of procedural imagery, in the fashion of {{Vast}}.
   LINK
-    Official"=>"Website|http://noirmirroir.com/defract"}
+    SITE : http://noirmirroir.com/defract
+
 DEI DAIN
   UNDE : Second wave
-  LONG : <p>Written and released in Tokyo in 2013, {{Dei Dain}} is the sixth album as part of {{Aliceffekt}}'s {{Second Wave}} albums.</p><p>"There’s something I find pleasantly workmanlike in Aliceffekt’s music. It might be that project mastermind Devine Lu Linvega started it as a complement to his work in animation and illustration (eventually graduating to soundtracking indie games, often of his own design), in his efforts since the project emerged in 2008 I’ve always found appealing sense of function. " - Read the whole review on <a href='http://www.idieyoudie.com/2013/07/aliceffekt-dei-dain/'>I Die You Die</a>.</p><h4>Collaboration with MegaRan</h4><p><a href='http://megaran.com'>Mega Ran</a>, video game centric rap freestyle extraordinaire, is touring in Japan and stopped by Tokyo. I had the chance of sharing beats from my new album for a freestyle and the outcome is absolutely amazing. Thanks to <a href='https://twitter.com/jeriaska'>@Jeriaska</a> for setting up this show and Mega Ran for this track. The track was recorded live at the <a href='http://www.m-event-bar.com'>Daikanyama M</a>.</p><p>Download the live version of <a href='http://xxiivv.com/audio/DEI08%20-%20Our%20forgotten%20alphabet%20(feat.%20Mega%20Ran).mp3'>Our forgotten alphabet (feat. Mega Ran)</a>.</p>
+  BREF : <Written and released in Tokyo in 2013, {{Dei Dain}} is the sixth album as part of {{Aliceffekt}}'s {{Second Wave}} albums.
   LINK
-    Listen|https://aliceffekt.bandcamp.com/album/dei-dain"=>"Listen|https://aliceffekt.bandcamp.com/album/dei-dain"}
+    BAND : https://aliceffekt.bandcamp.com/album/dei-dain
+
 DEN
   UNDE : Programming
-  LONG : <p>{{Den}} is a small scripting language created for XXIIVV, and the successor to {{Mute}}. It is meant for optimal readability and simplicity. Similarly to Mute, there is only one syntax, for conditions, objects, functions, etc.. For example, a variable is just a function that returns a value. A return, in Den, uses the colon character. The language uses no words and has no reserved namespace.</p><pre>! "Hello World" <comment># Hello World</comment></pre><h2>Data Structures</h2><p>There really is only 1 data structure, it follows the same to build Strings, Arrays and Lists..</p><h3>Array</h3><pre>array : "one" "two" "three" "four" 5 6 7! array.2 <comment># two</comment></pre><h3>Dictionary</h3><pre>dictionary  foo : bar  hello : world! dictionary.foo <comment># bar</comment></pre><h2>Objects, Conditions, Operations</h2><p>In our first example, we build a simple function to compare two values, and print either {_true_} or {_false_} if the values {_a_} and {_b_} are equal or not.</p><pre>isEqual a b  ? = a b    : ! "True"  : ! "False"! isEqual 10 10 <comment># True</comment>! isEqual 10 20 <comment># False</comment></pre><h2>Loops</h2><p>Every function must exit, or else it runs itself into a loop. The following example shows an incrementation loop that exits once loop has equaled 10.</p><pre>loop value  ? = value 10    : value  + value 1! loop 5 <comment># 10</comment></pre><h2>Nested Functions</h2><p>Objects can have nested functions, accessible like the array example above.</p><pre>math a b  add    : + a b  substract    : - a b! math.add 5 10 <comment># 15</comment>! math.substract 5 10 <comment># -5</comment></pre><h2>Scope</h2><p>Starting objects with a capital letter makes it available inside other objects.</p><pre>String a b  append    : + a bstring  a : "hello "  : String.append a "world" <comment># hello world</comment></pre>
+  BREF : {{Den}} is a small scripting language created for XXIIVV, and the successor to {{Mute}}, meant for optimal readability and simplicity. 
+  LONG
+    & Similarly to Mute, there is only one syntax, for conditions, objects, functions, etc.. 
+    & For example, a variable is just a function that returns a value. A return, in Den, uses the colon character. 
+    & The language uses no words and has no reserved namespace.
+    & ! "Hello World" <comment># Hello World</comment>
+    + Data Structures
+    & There really is only 1 data structure, it follows the same to build Strings, Arrays and Lists..
+    + Array
+    # array : "one" "two" "three" "four" 5 6 7! array.2 <comment># two</comment>
+    + Dictionary
+    # dictionary  foo : bar  hello : world! dictionary.foo <comment># bar</comment>
+    + Objects, Conditions, Operations
+    & In our first example, we build a simple function to compare two values, and print either {_true_} or {_false_} if the values {_a_} and {_b_} are equal or not.
+    # isEqual a b  ? = a b    : ! "True"  : ! "False"! isEqual 10 10 <comment># True</comment>! isEqual 10 20 <comment># False</comment>
+    + Loops
+    + Every function must exit, or else it runs itself into a loop. The following example shows an incrementation loop that exits once loop has equaled 10.
+    # loop value  ? = value 10    : value  + value 1! loop 5 <comment># 10</comment>
+    + Nested Functions</h2><p>Objects can have nested functions, accessible like the array example above.
+    # math a b  add    : + a b  substract    : - a b! math.add 5 10 <comment># 15</comment>! math.substract 5 10 <comment># -5</comment>
+    + Scope
+    & Starting objects with a capital letter makes it available inside other objects.
+    # String a b  append    : + a bstring  a : "hello "  : String.append a "world" <comment># hello world</comment>
+
 DESAMBER
   UNDE : Oscean
-  LONG : <p>On {{XXIIVV|Oscean}}, dates are written using a variance of the {{International Fixed Calendar|https://en.wikipedia.org/wiki/International_Fixed_Calendar}} and a custom convention to move the English months' names, away from those of Greek gods'.</p><pre style='text-align:center'>Today is {{!desamber}}</pre><p>The {_Equal Month calendar_} format has 13 months and so the number of each of these months are flected into their names.</p><table><tr><td>01</td><td>Unesamber</td><td>08</td><td>Octesamber</td></tr><tr><td>02</td><td>Dutesamber</td><td>09</td><td>Novesamber</td></tr><tr><td>03</td><td>Trisesamber</td><td>10</td><td>{{Desamber}}</td></tr><tr><td>04</td><td>Tetresamber</td><td>11</td><td>Undesamber</td></tr><tr><td>05</td><td>Pentesamber</td><td>12</td><td>Dodesamber</td></tr><tr><td>06</td><td>Hexesamber</td><td>13</td><td>Tridesamber</td></tr><tr><td>07</td><td>Sevesamber</td></tr></table><p>{*Every month is exactly 28 days long*}, and the 365th day of the year is the {_Year Day_}, followed by the {_Leap Day_} on leap years. Below are a few exmples of gregorian dates alongside their Desamber equivalences.</p><table class='minimal'><tr><th>January 1, 2015</th><td>{{2015-01-01}}</td><th>March 22, 2015</th><td>{{2015-03-22}}</td></tr><tr><th>January 29, 2015</th><td>{{2015-01-29}}</td><th>December 25, 2015</th><td>{{2015-12-25}}</td></tr><tr><th>February 28, 2015</th><td>{{2015-02-28}}</td><th>July 4, 2015</th><td>{{2015-07-04}}</td></tr></table>
+  BREF : On {{XXIIVV|Oscean}}, dates are written using a variance of the {{International Fixed Calendar|https://en.wikipedia.org/wiki/International_Fixed_Calendar}} and a custom convention to move the English months' names, away from those of Greek gods'.
+  LONG
+    + Today is {{!desamber}}
+    & The {_Equal Month calendar_} format has 13 months and so the number of each of these months are flected into their names.
+    & {*Every month is exactly 28 days long*}, and the 365th day of the year is the {_Year Day_}, followed by the {_Leap Day_} on leap years. 
+    - 1, Unesamber
+    - 8, Octesamber
+    - 2, Dutesamber
+    - 9, Novesamber
+    - 3, Trisesamber
+    - 10, {{Desamber}}
+    - 4, Tetresamber
+    - 11, Undesamber
+    - 5, Pentesamber
+    - 12, Dodesamber
+    - 6, Hexesamber
+    - 13, Tridesamber
+    - 7, Sevesamber
   LINK
-    GITH : https://github.com/XXIIVV/Desamber"=>"GITH : https://github.com/XXIIVV/Desamber"}
+    GITH : https://github.com/XXIIVV/Desamber
+    
 DESKTOP
   UNDE : Interactive
   LONG : <p>This list shows all of the desktop projects built of the last few years.</p>
@@ -282,7 +333,6 @@ DEW
     App"=>"Store|https://itunes.apple.com/ca/app/dew/id954020907", "GITH : https://github.com/Echorridoors/dew"=>"GITH : https://github.com/Echorridoors/dew"}
 DIARY
   UNDE : Oscean
-  LONG : 
   TYPE : ["diary", "tags_hidden"]
 DICTIONAERY
   UNDE : Traumae
@@ -336,7 +386,6 @@ DONSOL GUIDE
     App"=>"Store|https://itunes.apple.com/us/app/donsol/id976367718?ls=1&mt=8", "Donsol"=>"Mobile|http://wiki.xxiivv.com/donsol"}
 DOWNTEMPERATURE
   UNDE : First wave
-  LONG : 
 DROWNSPIRE
   UNDE : Misc
   LONG : <p>Drownspire was an online store I founded with Jessica in 2009.</p>
@@ -373,12 +422,13 @@ ENTALONERALIE
     App"=>"Store|https://itunes.apple.com/us/app/entaloneralie/id657224738", "Source"=>"Code|https://github.com/Echorridoors/Entaloneralie"}
 EPONYM
   UNDE : Malice
-  LONG : 
 ES GULF SUNFLOWERS
   UNDE : Second wave
   LONG : <p>{{Es Gulf Sunflowers}}' tale remembers the gorgeous sunken fields of {{Es}} - the underwater jump gate to {{Dinaisth}}, for its vast ocean terrace and display of sunflowers.</p>
   LINK
-    Listen|https://aliceffekt.bandcamp.com/album/es-gulfssunflowers"=>"Listen|https://aliceffekt.bandcamp.com/album/es-gulfssunflowers"}
+    
+BAND : https://aliceffekt.bandcamp.com/album/es-gulfssunflowers"=>"
+BAND : https://aliceffekt.bandcamp.com/album/es-gulfssunflowers"}
 ESCHATOLOR
   UNDE : Beldam records
   LONG : <p>{{Eschatolor}} is the fourth release on the Beldam Records catalog. Written by Катя Тевелизион, this album was inspired from russian number stations. </p><p>It was recorded playing through the FM band, from the {{EFLI}} 103.0Mhz pirate radio station in Montreal, giving it its texture and warmth.</p>
@@ -388,13 +438,14 @@ EXTENDED SLEEP
   UNDE : Third wave
   LONG : <p>{{Extended sleep}} is the sequel to {{Known Magye}}, a deeper exploration of its universes, its stories. While the album released after {{Fourth wave}} release {{Supervisitor}}, it is part of the {{Third wave}}.</p><p>The album will be first performed at the A Maze Festival in Berlin, on April 23rd 2015.</p>
   LINK
-    Listen|https://aliceffekt.bandcamp.com/album/extended-sleep"=>"Listen|https://aliceffekt.bandcamp.com/album/extended-sleep"}
+    
+BAND : https://aliceffekt.bandcamp.com/album/extended-sleep"=>"
+BAND : https://aliceffekt.bandcamp.com/album/extended-sleep"}
 FEU
   UNDE : Neon hermetism
   LONG : <p>{{Feu}}, or {_The End Of Science_}, is the general field of cognitive exploration, that remained after the completion of science brought by the {{permutation machines|Nohlxeserre}}.</p>
 FIRST AID AND LAST AID
   UNDE : First wave
-  LONG : 
 FIRST WAVE
   UNDE : Aliceffekt
   LONG : <p>Currently definiting this term..</p>
@@ -413,7 +464,6 @@ FLOWERS
   TYPE : Diary
 FOURTH WAVE
   UNDE : Aliceffekt
-  LONG : 
   TYPE : Portal
 FRACTALS
   UNDE : Misc
@@ -443,7 +493,6 @@ GARDEN
   TYPE : Diary
 GENESIS MINERS
   UNDE : First wave
-  LONG : 
   LINK
     BAND : https://aliceffekt.bandcamp.com/album/genesis-iii-20-ov-idyllic-miners"=>"BAND : https://aliceffekt.bandcamp.com/album/genesis-iii-20-ov-idyllic-miners"}
 GERMANY
@@ -452,7 +501,6 @@ GERMANY
   TYPE : Diary
 GONE PLAINS
   UNDE : First wave
-  LONG : 
 GOODNIGHT TEAPOT
   UNDE : Automatons
   LONG : <p>{{Goodnight Teapot}} is a {{Twitter bot|Automatons}} that crawls {{Paradise}} is create tweets in the fashion of {{Goodnight Moon|https://en.wikipedia.org/wiki/Goodnight_Moon}}.</p><blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Goodnight polar bear, 
@@ -489,7 +537,6 @@ HORAIRE
   LONG : <p>Coming soon.</p>
 HOWLS VIRGIL SYSTEMS
   UNDE : First wave
-  LONG : 
 HUNDRED RABBITS
   UNDE : Hundred rabbits
   LONG : <p>{{Hundred Rabbits}}, is a nomad design studio founded by {{Rekka Bellum|http://kokorobo.ca}} and {{Devine Lu Linvega|Devine Lu Linvega}} aboard a {{sailboat|https://github.com/hundredrabbits/Yamaha-33}}, somewhere on the shores of the Pacific Ocean. This partnership is host to interactive projects like {{Oquonie}}, {{Grimgrains|http://grimgrains.com}} and travel diaries.</p><p>A {{Patreon page|https://www.patreon.com/100}} is available to help fund the production of monthly videos and liveaboard documentation.</p>
@@ -617,7 +664,6 @@ LUDIVINE
   LONG : <p>{{Ludivine}} is a system that guides the research and study of the {{Neon Hermetism}} in the space surrounding {{Dinaisth}}, not much else is known.</p>
 LUS FLORAL FUNERALIS
   UNDE : First wave
-  LONG : 
 LYKEN
   UNDE : Unreleased
   LONG : <p>{{Lyken}} is an upcoming iOS experimental project.</p>
@@ -730,7 +776,6 @@ NEREID
   TYPE : Portal
 NETHER ESPER INSERTS
   UNDE : First wave
-  LONG : 
 NETHERLANDS
   UNDE : Travel
   LONG : <p>Trip to {{Netherlands}} in 2015 for Indievelopment.</p>
@@ -757,7 +802,6 @@ NOOTROPICS
   LONG : <p>{{Nootropics|https://en.wikipedia.org/wiki/Nootropic}} are {_smart drugs_}. They can help with focus and attention, or simply serve as a weak stimulant - not unlike coffee. I started using them out of curiosity and they grew on me as an extra tool to help with concentration.</p><p>There are a variety of Nootropics out there, and I have only tried but the combination, {_stack_}, of Noopept and Citicoline, as per suggested by a friend back in Tokyo. I order my supplements from {{Intellimeds|https://www.intellimeds.co.uk}}, shipping to Canada.</p><ul><li class="top">Stack</li><li>{{20mg Noopept|https://www.intellimeds.co.uk/noopept-powder}}, powder</li><li>{{150mg Citicoline|https://www.intellimeds.co.uk/citicoline/citicoline-powder}}, powder</li></ul><p>I take this stack every day for a {*sequence of 30 days, then stop for a week*} - it seems to make the effect stronger when I start again at the end of the week.</p><p>It feels a bit like coffee, but with a light {_tunnel vision_}, the immediate effect is that of tuning out the voices in your head for a moment. When cycling on Noopept, it feels a bit like seeing wider. When coding, it feels a bit like things need to get done. I have been taking it for more than a year and I have yet to feel any negative effect. Noopept can be distracting at times, I heard that Racetams are weaker and might be more what you are looking for - I have yet to try them.</p>
 NOR LET THE FOOLS MISTAKE LOVE
   UNDE : First wave
-  LONG : 
   LINK
     Purchase|http://aliceffekt.bandcamp.com/album/nor-let-the-fools-mistake-love"=>"Purchase|http://aliceffekt.bandcamp.com/album/nor-let-the-fools-mistake-love"}
 NOTES
@@ -808,7 +852,6 @@ OSCEAN
     GITH : https://github.com/XXIIVV/Wiki"=>"GITH : https://github.com/XXIIVV/Wiki"}
 OTOROUTES MINIATURES
   UNDE : First wave
-  LONG : 
 PARADICHLORISSE
   UNDE : Immortal birds
   LONG : <p>{{Paradichlorisse}} is located on the south-east shore of {{Vetetrandes}}, near {{Yajnev}}. Not much is known about this lifeform, besides that it appeared around the {{Yajnev Collapse|Yajnev}}, speaking a dialect of {{Nohlxeserre}}.</p><p>All pilgrim who reach its location infinite being collapse and starve as they experience every life and every death through the speech of the infinite being.</p><p>{_What first seemed like tales became the only real and my own life, a story.<br/>When Paradichlorisse spoke of silence, silence fell._}</p>
@@ -823,7 +866,6 @@ PARADISE GUIDE
   TYPE : ["text"]
 PEDESTRIAN PARADISE
   UNDE : First wave
-  LONG : 
 PHOTOGRAPH
   UNDE : Visual
   LONG : <p>Various pictures I have taken, to see my travel pictures - go to {{Travel}}.</p>
@@ -858,7 +900,9 @@ PORTALION
   UNDE : Second wave
   LONG : <p>{{Portalion}} is the successor to {{The Opal Inquisitors}}, continuing the exploration of the central regions of {{Dinaisth}}, landing on the southernest docks of {{Laeisth}}.</p><p>On a foggy night of the {{Sixth Season}}, embarking on one of the vessels of the {{Septechoes}} in the desert of {{Clionn}}, {{Neonev}} sails toward {{Whiinders}} to see its {{Immortal Birds}} once more.</p><ul><li>{{Landing in Laeisth|Laeisth}}</li><li>{{The Sixth Season Festival|The Sixth Season}}</li><li>{{Tunnel Aeroports of Clionn| Clionn}}</li><li>{{Moebius Lift's Ascension|Whiinders}}</li></ul>
   LINK
-    Listen|https://aliceffekt.bandcamp.com/album/portalion"=>"Listen|https://aliceffekt.bandcamp.com/album/portalion"}
+    
+BAND : https://aliceffekt.bandcamp.com/album/portalion"=>"
+BAND : https://aliceffekt.bandcamp.com/album/portalion"}
 PROGRAM EXAMPLES
   UNDE : Paradise guide
   LONG : <h3>A Coffee Machine that makes coffees</h3><pre>create a coffee machineenter the coffee machineprogram create a cup of coffeeleave</pre><h3>A Coffee Machine that makes consumable coffees</h3><pre>create a coffee machineenter the coffee machinefeedback You made yourself a cup of coffee.program craft a cup of coffee:destroy target.name:You drank the cup of coffeeleaveuse the coffee machine <comment>Feedback: You made yourself a cup of coffee.</comment>use the coffee <comment>Feedback: You drank the coffee</comment></pre><h3>Crafting a pocket watch</h3><pre>craft a pocket watch:null:The current time is ((clock.hour)) ((clock.minute))use the pocket watch <comment>Feedback: The current time is 8 24</comment></pre>
@@ -911,11 +955,9 @@ RECEIPE
   TYPE : Diary
 REFORMS
   UNDE : Language
-  LONG : 
   TYPE : ["text"]
 REGIONSTEAM SNOWDAYS
   UNDE : First wave
-  LONG : 
 REINGLISH
   UNDE : Reforms
   LONG : <p>For quyte a whyle now, yve been thinking about establishing a custom form of english onto {{Oscean}}, using some of my favourite parts of the language whyle eliminating others that y do not lyke as much. This page will look over some of these special rules to help you better understand {{Reinglish}}.</p><p>The summarie of its fonografie goes as follow:</p><table><tr>	<th>English</th>	<th>Rule</th>	<th>Examples</th>	<th>Notes</th></tr><tr>	<td>{*I*} pronounced /aɪ/</td>	<td>use {*y*}</td>	<td>high→hygh, night→nyght</td>	<td></td></tr><tr>	<td>{*-Y*} pronounced /iː/</td>	<td>use {*-ie*}</td>	<td>company→companie</td>	<td></td></tr><tr>	<td>{*Ph*} pronounced /f/</td>	<td>use {*f*}</td>	<td>photography→fotografie</td>	<td></td></tr><tr>	<td>{*ch*} pronounced //</td>	<td>use {*c*}</td>	<td>echo→eco, school→scool</td>	<td></td></tr><tr>	<td>{*Ce-*} pronounced //</td>	<td>use {*Se-*}</td>	<td>cemetary→semetarie</td>	<td></td></tr><tr>	<td>{*cc*} pronounced //</td>	<td>use {*cs-*}</td>	<td>accent→acsent, accident→acsident</td>	<td></td></tr><tr>	<td>{*g*} pronounced //</td>	<td>use {*j*}</td>	<td>geometry→jeometrie</td>	<td></td></tr><tr>	<td>{*-eed*} pronounced /iːd/</td>	<td>use {*-ede*}</td>	<td>exceed→excede, proceed→procede</td>	<td>{{SSB|http://en.wikipedia.org/wiki/Simplified_Spelling_Board#The_first_300_words}}</td></tr></table><p>{_Why do y nide to have my own vertion of english?_}<br />As an exercyse of style and to beter understand the english fonologie, this project allows me to experiment with some aspects of previous english reforms. One aspect this reform tryes to cover is the standardisation of its speling, moving the pronounciation closer to the associated letters.</p><table>	<tr>		<th>En</th>		<th>rE</th>		<th>En</th>		<th>rE</th>		<th>En</th>		<th>rE</th>	</tr>	<tr>		<td>Bicycle</td>		<td>Bycicle</td>		<td>Define</td>		<td>Defyne</td>		<td>Ceremony</td>		<td>Seremonie</td>	</tr>	<tr>		<td>Joy</td>		<td>Joy</td>		<td>Typography</td>		<td>Tipografie</td>		<td>Accent</td>		<td>Acsent</td>	</tr>	<tr>		<td>Time</td>		<td>Tyme</td>		<td>Technicality</td>		<td>Tecnicalitie</td>		<td>Abide</td>		<td>Abyde</td>	</tr>	<tr>		<td>Libraries</td>		<td>Lybraries</td>		<td>Library</td>		<td>Lybrarie</td>		<td>Blind</td>		<td>Blynd</td>	</tr>	<tr>		<td>New</td>		<td>Neue</td>		<td></td>		<td></td>		<td></td>		<td></td>	</tr></table>
@@ -1021,7 +1063,9 @@ TELEKINETIC
   UNDE : Third wave
   LONG : <p>{{Telekinetic}} is the name of a concept album by <a href='Aliceffekt'>Aliceffekt</a> played live with the <a href='https://www.leapmotion.com'>Leap Motion</a>, first performed at <a href='http://www.cnet.com.au/dj-turns-leap-motion-into-a-theremin-sort-of-339345563.htm'>Sabaco in Tokyo</a>. The event was recorded and can still be watched online on <a href="http://www.ustream.tv/recorded/39105185">UStream</a>. There was a <a href="http://www.cnet.com.au/dj-turns-leap-motion-into-a-theremin-sort-of-339345563.htm">short article on CNET</a> about the event as well. The album cover features an alternate door to {{Paradise}}'s Library of Sand ornated of the number 210 in <a href='Needle+numbers'>Needle Numbers</a> as well as the <a href='Traumae'>Traumae</a> letters <a href='/traumae:bi'>BI</a> <a href='/traumae:ti'>TI</a> <a href='/traumae:ta'>TA</a> <a href='/traumae:si'>SI</a> <a href='/traumae:po'>PO</a>.</p><p>You can watch a a demo of the <a href='https://www.facebook.com/photo.php?v=10153250341045274'>prototype</a>.</p><h2>Extra</h2><p>Someone from <a href='https://twitter.com/viciousreiven/status/416754071102447617'>twitter</a> made a audio rip version of the live recording of the show with <a href='https://twitter.com/Rekcahdam'>Rekcahdam </a>. This alternate version has a very interesting texture and is now available for download: <a href='http://xxiivv.com/audio/TEL01%20-%20Ao%27Sanguine%20Patrons%20%28Live%20at%20Sabaco%29.mp3'>Ao'Sanguine Patrons (Live at Sabaco)</a>. </p><hr /> 
   LINK
-    Listen|https://aliceffekt.bandcamp.com/album/telekinetic"=>"Listen|https://aliceffekt.bandcamp.com/album/telekinetic"}
+    
+BAND : https://aliceffekt.bandcamp.com/album/telekinetic"=>"
+BAND : https://aliceffekt.bandcamp.com/album/telekinetic"}
 TEN AXITECTURE
   UNDE : Beldam records
   LONG : <p>{{Ramiel}} is the first release on the {{Beldam Records}} catalog. Written by {{Aliceffekt}}, this album combines acoustic instruments and IDM. </p><p>The 4 tracks are interpretations of different fictional worlds that have played a role in the {{Aliceffekt}} narrative: Eudoxie from Calvino's Invisible Cities, Borges' Tlon and Schuiten's Citees Obscures.</p>
@@ -1040,7 +1084,9 @@ THE OPAL INQUISITORS
   UNDE : Second wave
   LONG : <p>{{The Opal Inquisitors}} is the prequel to {{Portalion}}, where {{Neonev}} begin their exploration of the central regions of {{Dinaisth}}, emerging from the tunnels of {{Dei Dain Canals}}.</p><p>Driving the {{Vermillionth}} up the spires below the surface of central islands, the records are photographs of the travels between the caves of {{Dilitrielth}} and the deserts of {{Duomo}}.</p><ul><li>{{Down The Vertical Canals|Dei Dain Canals}}</li><li>{{Below The Vetetrandes Spires|Vetetrandes}}</li><li>{{Moires Of Dei Dain|Dei Dain Canals}}</li><li>{{Exosphere Sunsets|Eaurison}}({{Ver’Tale|Vertale}})</li></ul>
   LINK
-    Listen|https://aliceffekt.bandcamp.com/album/the-opal-inquisitors"=>"Listen|https://aliceffekt.bandcamp.com/album/the-opal-inquisitors"}
+    
+BAND : https://aliceffekt.bandcamp.com/album/the-opal-inquisitors"=>"
+BAND : https://aliceffekt.bandcamp.com/album/the-opal-inquisitors"}
 THE RULE OF MAEVE
   UNDE : Neon hermetism
   LONG : <p>The rule of {{Maeve|Ludivine}} is a law of {{impossible space|Soies}}.</p><p>The rule affects impossible events in impossible space and states that an event will fall deeper into Soies whenever it conflicts with the possible spaces above.</p><p>In the plausible case where an impossible event would {{wish|Nohlxeserre}} itself possible would not make it so.</p>
@@ -1049,7 +1095,6 @@ THE SARTRE MECHANISM
   LONG : <p>It was just three days before Christmas when my friend, who works the Locks & Watches Repair boutique, invited me  to his workshop, so I could witness the completion of his latest project, sold to me as the pompous "perfection of design itself". Crouched over a small heap of cogs, he did not look over as I hung my snow-covered coat on something that, by the look of it, might very well be a time machine. His gaze turned for a moment, perhaps to make sure that I did not break anything as I navigated the hoarded studio.</p><p>What I perceived as a pile of junk from afar, turned out to be a beautiful clock-looking-thing, but where the needles would be, a small hand rested at the tip of a short metallic arm.</p><p>Its maker held a minuscule weight above the tiny hand, before carefully laying it onto the opened hand. Whirring and clicking into life, a second arm emerged from the curious machine and plucked a gear out of its entrails and laid it back into the toolbox at its side. In controlled gestures, activated by the weight, tiny arms dismantled bolts and screws, while carefully putting them in that toolbox, gradually taking the casing of the mechanism apart, leaving its core naked.</p><p>I started in silent awe, to the busy mechanical concerto, playing its requiem. The arms eventually began to reach inside the mechanism, unbuilding its core, growing weaker as it dismantled the heavier components and moved them back into the toolbox. This obscene ritual of disembowelment and pointlessness ended as the tiny arms and the weight had crawled back into the toolbox, ending its life.</p><p>The machine was indeed truly perfect. </p><p>{_Originally written by Voidshaper, <br />Edited by Devine Lu Linvega_}</p> 
 THE SHORES OF VER TALE
   UNDE : Malice
-  LONG : 
 THE WILL THE WISP
   UNDE : Automatons
   LONG : <p>{{The will the wisp}} is a twitter bot that generates short poems, once every hour. Inspired by Lewis Carroll's {{A Jabberwocky|http://www.jabberwocky.com/carroll/jabber/jabberwocky.html}} story.</p><blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Filial! filmy! provided flip providing blip.
@@ -1129,7 +1174,6 @@ VAST
     Official"=>"Website|http://noirmirroir.com/vast"}
 VERMILLIONTH
   UNDE : First wave
-  LONG : 
   LINK
     BAND : https://aliceffekt.bandcamp.com/album/vermillionth"=>"BAND : https://aliceffekt.bandcamp.com/album/vermillionth"}
 VERRECIEL

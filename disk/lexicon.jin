@@ -1,6 +1,7 @@
 ~ NAME : Lexicon
 ~ NOTE : nothing to see here
 ~ AUTH : Devine Lu Linvega
+~ PTRN : Unknown
 
 ABLETON
   UNDE : Misc
@@ -191,9 +192,10 @@ CAMERAS
 CAMILARE
   UNDE : Oquonie
   BREF : Language spoken in {{Oquonie}} containing a little over 20 glyphs. The language is spoken in segments of 3 letters. This sentence will often be encountered when trying to enter a locked door with the wrong character. This sentence should be read as {_The door is locked unless nemedique_}.
-  + Dictionary
-  & This is a list of the most commonly used characters in {{Oquonie}}.
-  & <style>#camilare { border:0px}#camilare td { padding:0px 15px; vertical-align:middle; border:0px; font-size:18px;}#camilare img { margin:0px; width:100px;}</style><table id='camilare'><tr>	<td><img src='content/lexicon/camilare.Nestorine.png'/></td><td>Nestorine<br/><small>Nestorine</small></td>	<td><img src='content/lexicon/camilare.Nephtaline.png'/></td><td>Nephtaline<br/><small>Nephtaline</small></td>	<td><img src='content/lexicon/camilare.Necomedre.png'/></td><td>Necomedre<br/><small>Necomedre</small></td></tr><tr>	<td><<img src='content/lexicon/camilare.Neomine.png'/></td><td>Neomine<br/><small>Neomine</small></td>	<td><img src='content/lexicon/camilare.Door.png'/></td><td>Dialocie<br/><small>Door</small></td>	<td><img src='content/lexicon/camilare.Special.png'/></td><td>Paradiacie<br/><small>Door Special</small></td></tr><tr>	<td><img src='content/lexicon/camilare.Teleport.png'/></td><td>Zolenie<br/><small>Teleport</small></td>	<td><img src='content/lexicon/camilare.Correct.png'/></td><td>Hoathiste<br/><small>Correct/Yes</small></td>	<td><img src='content/lexicon/camilare.Incorrect.png'/></td><td>Gemaniste<br/><small>Incorrect/No</small></td></tr><tr>	<td><img src='content/lexicon/camilare.Unlocked.png'/></td><td>Ecrine<br/><small>Unlocked</small></td>	<td><img src='content/lexicon/camilare.Locked.png'/></td><td>Ednasene<br/><small>Locked</small></td>	<td><img src='content/lexicon/camilare.Help.png'/></td><td>Celpadmale<br/><small>Help</small></td></tr><tr>	<td><img src='content/lexicon/camilare.Sound.png'/></td><td>Aohzaille<br/><small>Sound</small></td>	<td><img src='content/lexicon/camilare.Guide.png'/></td><td>Mikethale<br/><small>Guide</small></td>	<td><img src='content/lexicon/camilare.Inside.png'/></td><td>Casarmate<br/><small>Inside</small></td></tr><tr>	<td><img src='content/lexicon/camilare.Outside.png'/></td><td>Carmate<br/><small>Outside</small></td>	<td><img src='content/lexicon/camilare.Key.png'/></td><td>Emetegisenete<br/><small>Key</small></td>	<td><img src='content/lexicon/camilare.Friend.png'/></td><td>Zorgiene<br/><small>Friend</small></td></tr><tr>	<td><img src='content/lexicon/camilare.Foe.png'/></td><td>Oquonie<br/><small>Foe</small></td>	<td><img src='content/lexicon/camilare.Pillar.png'/></td><td>Den<br/><small>Pillar</small></td>	<td><img src='content/lexicon/camilare.Nemedique.png'/></td><td>Nemedique<br/><small>Nemedique</small></td></tr></table>
+  LONG
+    + Dictionary
+    & This is a list of the most commonly used characters in {{Oquonie}}.
+    & <style>#camilare { border:0px}#camilare td { padding:0px 15px; vertical-align:middle; border:0px; font-size:18px;}#camilare img { margin:0px; width:100px;}</style><table id='camilare'><tr>	<td><img src='content/lexicon/camilare.Nestorine.png'/></td><td>Nestorine<br/><small>Nestorine</small></td>	<td><img src='content/lexicon/camilare.Nephtaline.png'/></td><td>Nephtaline<br/><small>Nephtaline</small></td>	<td><img src='content/lexicon/camilare.Necomedre.png'/></td><td>Necomedre<br/><small>Necomedre</small></td></tr><tr>	<td><<img src='content/lexicon/camilare.Neomine.png'/></td><td>Neomine<br/><small>Neomine</small></td>	<td><img src='content/lexicon/camilare.Door.png'/></td><td>Dialocie<br/><small>Door</small></td>	<td><img src='content/lexicon/camilare.Special.png'/></td><td>Paradiacie<br/><small>Door Special</small></td></tr><tr>	<td><img src='content/lexicon/camilare.Teleport.png'/></td><td>Zolenie<br/><small>Teleport</small></td>	<td><img src='content/lexicon/camilare.Correct.png'/></td><td>Hoathiste<br/><small>Correct/Yes</small></td>	<td><img src='content/lexicon/camilare.Incorrect.png'/></td><td>Gemaniste<br/><small>Incorrect/No</small></td></tr><tr>	<td><img src='content/lexicon/camilare.Unlocked.png'/></td><td>Ecrine<br/><small>Unlocked</small></td>	<td><img src='content/lexicon/camilare.Locked.png'/></td><td>Ednasene<br/><small>Locked</small></td>	<td><img src='content/lexicon/camilare.Help.png'/></td><td>Celpadmale<br/><small>Help</small></td></tr><tr>	<td><img src='content/lexicon/camilare.Sound.png'/></td><td>Aohzaille<br/><small>Sound</small></td>	<td><img src='content/lexicon/camilare.Guide.png'/></td><td>Mikethale<br/><small>Guide</small></td>	<td><img src='content/lexicon/camilare.Inside.png'/></td><td>Casarmate<br/><small>Inside</small></td></tr><tr>	<td><img src='content/lexicon/camilare.Outside.png'/></td><td>Carmate<br/><small>Outside</small></td>	<td><img src='content/lexicon/camilare.Key.png'/></td><td>Emetegisenete<br/><small>Key</small></td>	<td><img src='content/lexicon/camilare.Friend.png'/></td><td>Zorgiene<br/><small>Friend</small></td></tr><tr>	<td><img src='content/lexicon/camilare.Foe.png'/></td><td>Oquonie<br/><small>Foe</small></td>	<td><img src='content/lexicon/camilare.Pillar.png'/></td><td>Den<br/><small>Pillar</small></td>	<td><img src='content/lexicon/camilare.Nemedique.png'/></td><td>Nemedique<br/><small>Nemedique</small></td></tr></table>
 
 CANADA
   UNDE : Travel
@@ -204,9 +206,9 @@ CENOTE
   UNDE : Desktop
   BREF : Cenote is an experimental platformer inspired by {{Underwater Base Jumping|http://www.youtube.com/watch?v=uQITWbAaDx0}}. The goal is to reach a small red planet with the highest amount of points left. Cenote is the spiritual prequel of {{Zjeveni}}.
   LONG
-  - The air is only depleting when you are sinking.
-  - Each time you stop, your drop speed is reseted, so the least stops the faster you reach the bottom.
-  - Press R at any time to go back to the beginning.
+    - The air is only depleting when you are sinking.
+    - Each time you stop, your drop speed is reseted, so the least stops the faster you reach the bottom.
+    - Press R at any time to go back to the beginning.
 
 CHILDREN WITH VEINS OF BRAMBLE
   UNDE : Third wave
@@ -293,7 +295,7 @@ DEN
     + Every function must exit, or else it runs itself into a loop. The following example shows an incrementation loop that exits once loop has equaled 10.
     # loop value  ? = value 10    : value  + value 1! loop 5 <comment># 10</comment>
     + Nested Functions</h2>
-  & Objects can have nested functions, accessible like the array example above.
+    & Objects can have nested functions, accessible like the array example above.
     # math a b  add    : + a b  substract    : - a b! math.add 5 10 <comment># 15</comment>! math.substract 5 10 <comment># -5</comment>
     + Scope
     & Starting objects with a capital letter makes it available inside other objects.
@@ -385,7 +387,7 @@ DILUVIUM
     & If you want to create a nameless match, simply type {*HOST*}, without a game name, and other players will be able to join it by typing {*JOIN*} and by typing your IP Address if the other player is on the same local network.
     & To join a game over the internet, you can type {*JOIN RABBIT*} to connect to the game named "rabbit" or leave simply type {*JOIN*} to connect to a random game. If you wish to play local, you can simply type the host's IP. 
     + Splash Commands</h2>
-  & You can enter a few commands and cheat codes into the splash field.
+    & You can enter a few commands and cheat codes into the splash field.
     # Local  > <comment>{empty}</comment>    : Play against an AI summonerJoin   > <comment>{empty}</comment>    : Battle a random internet summoner       > Game Name  : Challenge a specific internet summoner       > IP Address : Challenge a local(LAN) summonerHost   > <comment>{empty}</comment>    : Create a LAN/Internet game       > Game Name  : Create a LAN/Internet game with a specific nameMute   > <comment>{empty}</comment>    : Turn the music OFF
     & The game also has a few cheat codes that can be entered in the splash field, ask your friends for these codes maybe someone has found one.
     + Soundtrack
@@ -558,8 +560,8 @@ FIRST WAVE
 
 FLAG
   UNDE : Traumae
-  BREF : 
-  & The {{Traumae}} flag was released on February 2016, the graphic's ratio is 11:18(1.636). The three circles symbolizes the three root letters of the Traumae language, {_XDB_}, and are each connected with a single stroke that closes itself again.
+  LONG
+    & The {{Traumae}} flag was released on February 2016, the graphic's ratio is 11:18(1.636). The three circles symbolizes the three root letters of the Traumae language, {_XDB_}, and are each connected with a single stroke that closes itself again.
   LINK
     GITH : https://github.com/Traumae/Branding
 
@@ -575,8 +577,8 @@ FLOWERS
   UNDE : Artwork
   BREF : A series of abstract six-sided flowers drawn using a procedural drawing script. These flowers have inspired a series of illustrations used in Elodie Lareine's book titled "{{Vast}}" as well as the cover of the {{Aliceffekt}} single titled "{{Known Magye}}", released in 2014.
   LONG
-    If you wish to create your own fractals, you can download the photoshop actions and use them on a 2000x2000 photoshop file. 
-    The script also includes a 5 sided rotation action.
+    & If you wish to create your own fractals, you can download the photoshop actions and use them on a 2000x2000 photoshop file. 
+    & The script also includes a 5 sided rotation action.
   TYPE : Diary
 
 FOURTH WAVE
@@ -1013,7 +1015,8 @@ NETHERLANDS
 NOHLXESERRE
   UNDE : Neon hermetism
   BREF : {{Nohlxeserre}}, or {_Language of the Birds_}, is the spoken language by the Courtship of The {{Immortal Birds}}. It is said that the language spilled out from the {{Ehrivevnv}}.  
-  & The richness and detail of experiencing an event, pales in comparison to have it recited with the infinite words of this {{Neauseatic|Neausea}} language, see {{Paradichlorisse}}.
+  LONG
+    & The richness and detail of experiencing an event, pales in comparison to have it recited with the infinite words of this {{Neauseatic|Neausea}} language, see {{Paradichlorisse}}.
 
 NOIRCA
   UNDE : Mobile
@@ -1097,7 +1100,28 @@ OQUONIE UNIVERSE
   UNDE : Oquonie
   BREF : The game {{Oquonie}} has no name, but we still created them some names to help us talk about it. But feel free to call them, the dino, the rabbit, the bird, the pig and the humanoid if that helps you.
   LONG
-    <table class='clean'><tr><th colspan='10'>Playable</th></tr><tr><td><img src='content/lexicon/oquonie universe.oquonie.char1.png'/></td><td><img src='content/lexicon/oquonie universe.oquonie.char2.png'/></td><td><img src='content/lexicon/oquonie universe.oquonie.char3.png'/></td><td><img src='content/lexicon/oquonie universe.oquonie.char4.png'/></td><td><img src='content/lexicon/oquonie universe.oquonie.char5.png'/></td></tr><tr><td>Necomedre</td><td>Nephtaline</td><td>Neomine</td><td>Nestorine</td><td>Nemedique</td></tr><tr><th colspan='10'>NPCs</th></tr><tr><td><img src='content/lexicon/oquonie universe.oquonie.guide.png'/></td><td><img src='content/lexicon/oquonie universe.oquonie.ramen.png'/></td><td><img src='content/lexicon/oquonie universe.oquonie.shark.png'/></td><td><img src='content/lexicon/oquonie universe.oquonie.audio.png'/></td><td><img src='content/lexicon/oquonie universe.oquonie.pillar.png'/></td></tr><tr><td>The Owl</td><td>The Ramen Guy</td><td>The Shark</td><td>The Audio Guy</td><td>A Pillar</td></tr></table>
+    + Playable
+    ? Necomedre
+    % content/lexicon/oquonie universe.oquonie.char1.png
+    ? Nephtaline
+    % content/lexicon/oquonie universe.oquonie.char2.png
+    ? Neomine
+    % content/lexicon/oquonie universe.oquonie.char3.png
+    ? Nestorine
+    % content/lexicon/oquonie universe.oquonie.char4.png
+    ? Nemedique
+    % content/lexicon/oquonie universe.oquonie.char5.png
+    + NPCs
+    ? Owl
+    % content/lexicon/oquonie universe.oquonie.guide.png
+    ? Ramen
+    % content/lexicon/oquonie universe.oquonie.ramen.png
+    ? Shark
+    % content/lexicon/oquonie universe.oquonie.shark.png
+    ? Audio
+    % content/lexicon/oquonie universe.oquonie.audio.png
+    ? Pillar
+    % content/lexicon/oquonie universe.oquonie.pillar.png
 
 ORCHESTRATE THE SIXTH SEASON
   UNDE : Second wave
@@ -1583,7 +1607,7 @@ VETETRANDES
   LONG
     & The observable portion of the island appears as broken structures remains of the city that stood there, Yajnev. The story goes that, before the explosion, a scientist with {_absolutely nothing_} inside her, got into an accident and the integrity of her skin released the pocket of void it contained onto Yajnev.
     + Before the explosion</h2>
-  & Before the Yajnev incident that shaped the location into its state during the {{first season|feu}}, Vetetrandes was a vast pale city designed by the same architect who also created the island of {{Neau}}.
+    & Before the Yajnev incident that shaped the location into its state during the {{first season|feu}}, Vetetrandes was a vast pale city designed by the same architect who also created the island of {{Neau}}.
     & Not much is known about the regions of the Vetetrandes, the incident has left the sector unchanging and untouchable. Various experiments were held by the {{Ehrivevnv}} to navigate through the collapse, with no avail.
 
 VETETRANDES LETTRES PERDUES

@@ -11,3 +11,6 @@
 
 - Create Lexicon pattern
 - Create Horaire pattern
+
+- Create HTML converter for jiin runes(LONG)
+- Create benchmark for JIIN's disk lamp

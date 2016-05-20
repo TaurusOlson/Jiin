@@ -19,6 +19,8 @@ class Disk
 
 	def application input
 
+		require_relative("../lamps/disk.lexicon.rb")
+
 		parts = input.split(" ")
 		name = parts[0]
 		cmd  = parts[1]
@@ -27,8 +29,8 @@ class Disk
 		case cmd
 		when "list"
 			list()
-		when "load"
-			load(par)
+		when "echo"
+			echo(load(par))
 		when "read"
 			read(par)
 		else
@@ -76,12 +78,9 @@ class Disk
 			name = file_name.split(".").first
 			extension = file_name.split(".").last
 			if target == name
-				loadFile(file_name)
-				return
+				return loadFile(file_name)
 			end
 		end
-		respond("Could not load file #{target}","!".red)
-		return
 
 	end
 
@@ -101,7 +100,7 @@ class Disk
 				if line == "" then next end
 				if line[0,1] == "~"
 					parts = line.split(":")
-					key = parts.first.sub("~","").strip.downcase
+					key = parts.first.sub("~","").strip
 					value = parts.last.strip
 					notes[key] = value
 				else
@@ -131,35 +130,11 @@ class Disk
 			i += 1
 		end
 
-		p parse_pattern_basic(tree,lines,notes)
-		# p parse(tree,lines,notes)
+		return pattern(tree,lines,notes)
 
 	end
 
-	def parse_pattern_basic tree,lines,notes
-
-		content = {}
-
-		tree[-1].each do |line|
-
-			section = lines[line].last
-			content[section] = {}
-			if !tree[line] then next end
-
-			tree[line].each do |line|
-				parts = lines[line].last.split(":")
-				key = parts.first.strip.downcase.capitalize
-				value = parts.last.strip
-				content[section][key] = value
-			end
-
-		end
-
-		return content
-		
-	end
-
-	def parse_pattern_date tree,lines,notes
+	def pattern_date tree,lines,notes
 
 		content = {}
 		tree[-1].each do |line|

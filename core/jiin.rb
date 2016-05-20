@@ -9,7 +9,7 @@ class Jiin
 	end
 
 	def start
-		@system = @lamps['disk'].load("system")
+		# @system = @lamps['disk'].load("system")
 	end
 
 	def collect name
@@ -29,6 +29,7 @@ class Jiin
 		names = {}
 		Dir['lamps/*'].each do |file_name|
 			name = file_name.split("/").last.sub(".rb","").strip
+			if name.include?(".") then next end 							   # Skip extensions
 			require_relative("../"+file_name)
 			names[name.downcase] = Object.const_get(name.capitalize).new
 		end

@@ -318,213 +318,343 @@ DESAMBER
     - 7, Sevesamber
   LINK
     GITH : https://github.com/XXIIVV/Desamber
-    
+
 DESKTOP
   UNDE : Interactive
-  LONG : <p>This list shows all of the desktop projects built of the last few years.</p>
+  BREF : This list shows all of the desktop projects built of the last few years.
   TYPE : Portal
+
 DEVINE LU LINVEGA
   UNDE : Oscean
-  LONG : <p>{{Devine lu linvega}} is a composer, illustrator and programer, living aboard a {{sailboat|Hundred rabbits}} on the Pacific Ocean. Operating under the {{Neauoire|https://twitter.com/neauoire}} moniker, Devine is currating the {{Beldam Records}} catalog along with {{Elodie Lareine|http://noirmirroir.com}} and creating {{open GITH : https://github.com/neauoire}} {{mobile experimental projects|http://www.creativeapplications.net/openframeworks/experimental-mobile-apps-by-devine-aliceffect-lu-linvega}}.</p><p>Populating {{OScean}} with notes on {{Language}}, {{Illustrations|Illustration}} and {{Sounds|Audio}}, Devine hopes to inspire visitors to learn and to travel.</p>
+  BREF : {{Devine lu linvega}} is a composer, illustrator and programer, living aboard a {{sailboat|Hundred rabbits}} on the Pacific Ocean. 
+  LONG
+    & Operating under the {{Neauoire|https://twitter.com/neauoire}} moniker, Devine is currating the {{Beldam Records}} catalog along with {{Elodie Lareine|http://noirmirroir.com}} and creating {{experimental mobile projects|http://www.creativeapplications.net/openframeworks/experimental-mobile-apps-by-devine-aliceffect-lu-linvega}}.
+    & Populating {{OScean}} with notes on {{Language}}, {{Illustrations|Illustration}} and {{Sounds|Audio}}, Devine hopes to inspire visitors to learn and to travel.
+
 DEW
   UNDE : Mobile
-  LONG : <p>{{Dew}} is a minimalist alarm app, designed to set up nap/sleeping alarms with a simple flick. The application will then  wake you with a soft white noise tone that will gradually bring you back to reality. </p>
+  BREF : {{Dew}} is a minimalist alarm app, designed to set up nap/sleeping alarms with a simple flick. 
+  LONG
+    & The application will then  wake you with a soft white noise tone that will gradually bring you back to reality.
   LINK
-    App"=>"Store|https://itunes.apple.com/ca/app/dew/id954020907", "GITH : https://github.com/Echorridoors/dew"=>"GITH : https://github.com/Echorridoors/dew"}
+    ITUN : https://itunes.apple.com/ca/app/dew/id954020907
+    GITH : https://github.com/Echorridoors/dew
+
 DIARY
   UNDE : Oscean
-  TYPE : ["diary", "tags_hidden"]
+  TYPE : Diary
+
 DICTIONAERY
   UNDE : Traumae
-  LONG : <p>The {{Dictionaery}} is a generated list of all registered/coined {{Traumae}} words.</p>
+  BREF : The {{Dictionaery}} is a generated list of all registered/coined {{Traumae}} words.
+
 DICTIONARISM
   UNDE : Automatons
-  LONG : <p>{{Dictionarism}} is a simple twitter bot that creates {_-isms_} from every of every word of a dictionary.</p><blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Autosuggestionism</p>— ☛ (@dictionarism) <a href="https://twitter.com/dictionarism/status/656621425483079680">October 21, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  BREF : {{Dictionarism}} is a simple twitter bot that creates {_-isms_} from every of every word of a dictionary.
   LINK
-    View"=>"Twitter|https://twitter.com/dictionarism", "GITH : https://github.com/XXIIVV/Bot-Dictionarism"=>"GITH : https://github.com/XXIIVV/Bot-Dictionarism"}
+    TWTR : https://twitter.com/dictionarism
+    GITH : https://github.com/XXIIVV/Bot-Dictionarism
+
 DICTIONARY
   UNDE : Oscean
-  LONG : <p>The universe of the {{Neauismetica}} contains many unique words, they are automatically listed here, alphabetically, for your convenience.  </p>
+  BREF : The universe of the {{Neauismetica}} contains many unique words, they are automatically listed here, alphabetically, for your convenience.
+
 DILITRIELTH
   UNDE : Dinaisth
-  LONG : <p>Closest continent to {{Neau}}, {{Dilitrielth}} is mostly known for its involvment with the {{Ehrivevnv}}, or Gathering of the birds. Also, the home of {{Yajnev}}.</p><p>Commissionned by the {{Neon Hermetism}}, a hole was dug in Whiinders and filled with equipment permitting the safe travel into {{Ehrivevnv}}, this location in Whiinders is named "Ver'Tale" after the land destroyed to build the transit.</p>
+  BREF : Closest continent to {{Neau}}, {{Dilitrielth}} is mostly known for its involvment with the {{Ehrivevnv}}, or Gathering of the birds. Also, the home of {{Yajnev}}.
+  LONG
+    & Commissionned by the {{Neon Hermetism}}, a hole was dug in Whiinders and filled with equipment permitting the safe travel into {{Ehrivevnv}}
+    & This location in Whiinders is named "Ver'Tale" after the land destroyed to build the transit.
+
 DILUVIUM
   UNDE : Desktop
-  LONG : <p>Diluvium is a jam game made by <a href='http://henk.ca'>Henk Boom</a>(FRACT), <a href='http://dom2d.com/'>Dominique Ferland</a>(Playpeep), <a href='http://theinstructionlimit.com/'>Renaud Bedard</a>(FEZ) and Devine Lu Linvega made in 3 days at the <a href='147'>Toronto Game Jam</a> of 2012. Have a look at our <a href='http://vimeo.com/42148130'>Fancy Teaser</a> and <a href='http://youtu.be/z7NNBzNXncw'>Gameplay Footage</a>. The game was first showcased at the <a href='https://www.facebook.com/events/447362851940595/'>Indies Meetup</a> on june 6th 2012. Thank you for your support on the <a href='http://forums.tigsource.com/index.php?topic=26064.15'>TIGsource</a> tread.</p><iframe width="560" height="315" src="//www.youtube.com/embed/z7NNBzNXncw" frameborder="0" allowfullscreen style='margin-bottom:15px'></iframe><p>{*Update:*} A new version was released on june 15th 2012 including better online accessiblity, animal balancing and minor networking fixes. </p><h2>Gameplay</h2><p>This is a multiplayer typing tactics game where you incarnate an animal summoner. You must type, quickly and intelligently, sequences of animal names to counter and destroy your opponent. The game will {_most likely_} let you summon any animal you can think of, choose wisely for each animal has it's own speed, power and intelligence stats. </p><h2>Multiplayer</h2><p>By typing {*LOCAL*} in the login you will then find yourself battling the computer and possibly discover new animals. But the real fun begins by challenging other human summoners.</p><p>If you wish to start your own arena, type {*HOST RABBIT*} in the splash screen input. This will initiate an arena called "rabbit" and other players will be able to join it by typing {*JOIN RABBIT*} - you don't have to pick rabbit as game name. If you want to create a nameless match, simply type {*HOST*}, without a game name, and other players will be able to join it by typing {*JOIN*} and by typing your IP Address if the other player is on the same local network.</p><p>To join a game over the internet, you can type {*JOIN RABBIT*} to connect to the game named "rabbit" or leave simply type {*JOIN*} to connect to a random game. If you wish to play local, you can simply type the host's IP. </p><h2>Splash Commands</h2><p>You can enter a few commands and cheat codes into the splash field.</p><pre>Local  > <comment>{empty}</comment>    : Play against an AI summonerJoin   > <comment>{empty}</comment>    : Battle a random internet summoner       > Game Name  : Challenge a specific internet summoner       > IP Address : Challenge a local(LAN) summonerHost   > <comment>{empty}</comment>    : Create a LAN/Internet game       > Game Name  : Create a LAN/Internet game with a specific nameMute   > <comment>{empty}</comment>    : Turn the music OFF</pre><p>The game also has a few cheat codes that can be entered in the splash field, ask your friends for these codes maybe someone has found one.</p><h2>Soundtrack</h2><p>The sounds and sountrack of the game were composed by <a href='Aliceffekt'>Aliceffekt</a>. There is 4 versions of the BGM available in the game, some of them are secret tracks. The song playing in the trailer is Light Powered by Deastro.</p><p>If you wish to turn off the sounds, type in {*MUTE*} in the login field. You might have heard something about cheatcodes, well, if you know any. They must be typed into the login screen.</p><h2 id='patch'>Patch 1.1</h2><p>A new version was released on june 15th 2012 including better online accessiblity, animal balancing and minor networking fixes.</p><ul class='roman'><li>You can now name your games and tell your friend to connect to it by name instead of IP! (IP still works, though)</li><li>Create a server and wait for a user, or join an anonymous server randomly!</li><li>Server no longer needs to forward port 10000</li><li>In local mode, AI opponent spawns more/less units per second depending on wins/losses</li><li>Options better presented, no more accidental enter key press</li><li>Escape key quits to splash</li></ul>
-  TYPE : ["desktop_game"]
+  BREF : Diluvium is a jam game made by {{Henk Boom|http://henk.ca}}(FRACT), {{Dominique Ferland|http://dom2d.com}}(Playpeep), {{Renaud Bedard|http://theinstructionlimit.com/}}(FEZ) and Devine Lu Linvega, made in 3 days at the Toronto Game Jam of 2012
+  LONG
+    & The game was first showcased at the <a href='https://www.facebook.com/events/447362851940595/'>Indies Meetup</a> on june 6th 2012. 
+    & Thank you for your support on the <a href='http://forums.tigsource.com/index.php?topic=26064.15'>TIGsource</a> tread.
+    & {*Update:*} A new version was released on june 15th 2012 including better online accessiblity, animal balancing and minor networking fixes. 
+    + Gameplay
+    & This is a multiplayer typing tactics game where you incarnate an animal summoner. You must type, quickly and intelligently, sequences of animal names to counter and destroy your opponent. 
+    & The game will {_most likely_} let you summon any animal you can think of, choose wisely for each animal has it's own speed, power and intelligence stats. 
+    + Multiplayer
+    & By typing {*LOCAL*} in the login you will then find yourself battling the computer and possibly discover new animals. But the real fun begins by challenging other human summoners
+    & If you wish to start your own arena, type {*HOST RABBIT*} in the splash screen input. This will initiate an arena called "rabbit" and other players will be able to join it by typing {*JOIN RABBIT*} - you don't have to pick rabbit as game name. 
+    & If you want to create a nameless match, simply type {*HOST*}, without a game name, and other players will be able to join it by typing {*JOIN*} and by typing your IP Address if the other player is on the same local network.
+    & To join a game over the internet, you can type {*JOIN RABBIT*} to connect to the game named "rabbit" or leave simply type {*JOIN*} to connect to a random game. If you wish to play local, you can simply type the host's IP. 
+    + Splash Commands</h2><p>You can enter a few commands and cheat codes into the splash field.
+    # Local  > <comment>{empty}</comment>    : Play against an AI summonerJoin   > <comment>{empty}</comment>    : Battle a random internet summoner       > Game Name  : Challenge a specific internet summoner       > IP Address : Challenge a local(LAN) summonerHost   > <comment>{empty}</comment>    : Create a LAN/Internet game       > Game Name  : Create a LAN/Internet game with a specific nameMute   > <comment>{empty}</comment>    : Turn the music OFF
+    & The game also has a few cheat codes that can be entered in the splash field, ask your friends for these codes maybe someone has found one.
+    + Soundtrack
+    & The sounds and sountrack of the game were composed by {{Aliceffekt}}. There is 4 versions of the BGM available in the game, some of them are secret tracks.
+    & If you wish to turn off the sounds, type in {*MUTE*} in the login field. You might have heard something about cheatcodes, well, if you know any. They must be typed into the login screen.
+    + Patch 1.1
+    & A new version was released on june 15th 2012 including better online accessiblity, animal balancing and minor networking fixes.
+    - You can now name your games and tell your friend to connect to it by name instead of IP! (IP still works, though)
+    - Create a server and wait for a user, or join an anonymous server randomly!
+    - Server no longer needs to forward port 10000
+    - In local mode, AI opponent spawns more/less units per second depending on wins/losses
+    - Options better presented, no more accidental enter key press
+    - Escape key quits to splash
   LINK
-    Source"=>"Code|https://github.com/Collegiennes/diluvium"}
+    YOUT : http://youtu.be/z7NNBzNXncw
+    GITH : https://github.com/Collegiennes/diluvium
+
 DINAISTH
   UNDE : Neauismetica
-  LONG : <p>Dinaisth, {_nu. Dinais_}, is both the name of the planet and that of the continent arbouring {{Andes}}' Offices. The small sounthernest shore, Aetdth is the only connection to Laeisth and {{Dilitrielth}}.</p><img src='content/lexicon/dinaisth.map.png'/>
+  BREF : Dinaisth, {_nu. Dinais_}, is both the name of the planet and that of the continent arbouring {{Andes}}' Offices. The small sounthernest shore, Aetdth is the only connection to Laeisth and {{Dilitrielth}}.
+
 DIRECTORY
   UNDE : Oscean
-  LONG : <p>I often get asked for inspirations and for medias that influenced my works, I have decided to maintain this list of things that I enjoyed watching and that I enjoy talking about.</p>
-  TYPE : ["text"]
-DIVIETHS
-  UNDE : Traumae
-  LONG : <p>Hey!</p>
+  BREF : I often get asked for inspirations and for medias that influenced my works, I have decided to maintain this list of things that I enjoyed watching and that I enjoy talking about.
+  TYPE : Text
+
 DODECAE
   UNDE : Supervisitor
-  LONG : <p>In collaboration with the <a href=‘https://bentomiso.com’>BentoMiso</a> coworking space, {{XXIIVV|http://xxiivv.com}} will present live experimental music performances from {{Adversary|http://tympanikaudio.com/releases/ta025}}, {{Ilkae|https://ilkae.bandcamp.com}}, {{Dualryan|https://dualryan.bandcamp.com}} and {{Aliceffekt|https://aliceffekt.bandcamp.com}} alongside the visualists {{Nonante|http://theinstructionlimit.com}} and {{Melesul3|http://www.pocaille.com}}, following the yearly <a href=‘https://bentomiso.com/bit-bazaar-winter-market-2014/’>Bit Bazzar</a> market on {_December 6th, 2014_}.</p><p>Join us from 8pm to midnight. Entry fee 10$.</p><img src='img/lexicon/twelvesix.flyer.jpg' class='wrap'/>
+  BREF : In collaboration with the <a href=‘https://bentomiso.com’>BentoMiso</a> coworking space, {{XXIIVV|http://xxiivv.com}} will present live experimental music performances from {{Adversary|http://tympanikaudio.com/releases/ta025}}, {{Ilkae|https://ilkae.bandcamp.com}}, {{Dualryan|https://dualryan.bandcamp.com}} and {{Aliceffekt|https://aliceffekt.bandcamp.com}} alongside the visualists {{Nonante|http://theinstructionlimit.com}} and {{Melesul3|http://www.pocaille.com}}, following the yearly <a href=‘https://bentomiso.com/bit-bazaar-winter-market-2014/’>Bit Bazzar</a> market on {_December 6th, 2014_}.
   LINK
-    Download"=>"Flyer|http://wiki.xxiivv.com/img/lexicon/twelvesix.flyer.large.jpg", "Event|https://www.facebook.com/events/558238014277230/?fref=ts"=>"Event|https://www.facebook.com/events/558238014277230/?fref=ts"}
+    FCBK : Event|https://www.facebook.com/events/558238014277230/?fref=ts
+
 DOMESTIC MOIRE
   UNDE : Ar moire
-  LONG : <p>Take {{her|Polygonoscopy}} home and care for her. <br />Speak to her, look into her as she gaze back into you.</p><div style='background:black; padding:4px; border-radius:4px; width: 480px; height:300px; margin-bottom:30px'><iframe src="//giphy.com/embed/l3nWfnhcjpTwnUkMw" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+  BREF : Look into it as it gaze back into you.
   LINK
-    GITH : https://github.com/neauoire/DomesticMoire"=>"GITH : https://github.com/neauoire/DomesticMoire", "Screensaver|https://github.com/neauoire/DomesticMoire/releases"=>"Screensaver|https://github.com/neauoire/DomesticMoire/releases", "#Screensaverjam|http://aliceffekt.itch.io/domestic-moire"=>"#Screensaverjam|http://aliceffekt.itch.io/domestic-moire"}
+    GITH : https://github.com/neauoire/DomesticMoire
+    ITCH : http://aliceffekt.itch.io/domestic-moire
+
 DONSOL
   UNDE : Mobile
-  LONG : <p>{{Donsol}} is a simple solitary card game, designed by {{John Eternal|https://twitter.com/johneternal}} during {{Train Jam|http://trainjam.com}}, where you must go through a series of rooms(4 cards) with the tools available.</p><p>While the game was designed on a train, without internet connection, it seems like Donsol's gameplay accidentally ended up being a twist to Zach Gage and Kurt Bieg's {{Scoundrel|http://stfj.net/index2.php?project=art/2011/Scoundrel.pdf}}, designed in 2011. Another game, working in a similar fashion, also released this week, Card Crawl. It seems as if this game design was overdue.</p>
+  BREF : {{Donsol}} is a simple solitary card game, designed by {{John Eternal|https://twitter.com/johneternal}} during {{Train Jam|http://trainjam.com}}, where you must go through a series of rooms(4 cards) with the tools available.
+  LONG
+    & While the game was designed on a train, without internet connection, it seems like Donsol's gameplay accidentally ended up being a twist to Zach Gage and Kurt Bieg's {{Scoundrel|http://stfj.net/index2.php?project=art/2011/Scoundrel.pdf}}, designed in 2011. Another game, working in a similar fashion, also released this week, Card Crawl. It seems as if this game design was overdue.
   LINK
-    App"=>"Store|https://itunes.apple.com/us/app/donsol/id976367718?ls=1&mt=8", "GITH : https://github.com/Echorridoors/donsol"=>"GITH : https://github.com/Echorridoors/donsol", "Gameplay"=>"Guide|http://wiki.xxiivv.com/Donsol+guide"}
+   ITUN : https://itunes.apple.com/us/app/donsol/id976367718?ls=1&mt=8
+   GITH : https://github.com/Echorridoors/donsol
+   HELP : Guide|http://wiki.xxiivv.com/Donsol+guide
+
 DONSOL GUIDE
   UNDE : Donsol
-  LONG : <p>{{Donsol}}, designed by {{John Eternal|https://twitter.com/johneternal}}, is a game about exploring a dungeon using nothing but what you find.You play with a standard 54 poker card set, Jokers included.</p><p>Shuffle the deck and draw 4 cards, equip a shield, slay all monsters, heal yourself with potions and exit the deck alive.</p><p>{_Red cards are beneficial<br/>Black cards are harmful._}</p><ul><li>♦Diamonds are shields</li><li>♥︎Hearts are potions</li><li>♠Spades are monsters</li><li>♣︎Clubs and Jokers are also monsters</li></ul><h2>Red Cards</h2><p>Red number cards equal their value and face cards(J,Q,K,A) equal 11</p><h3>♥︎ Potions</h3><p>You begin with a max of 21 health points and can never go above. You can only drink one health potion per room.</p><h3>♦ Shield Cards</h3><p>You can fight a monster without shield, but suffer full damage.<br />Equipping a shield allows you to absorb the damage difference from the monster value. {_If you have an 8 shield equipped, by attacking a 9 monster you suffer 1 damage._}</p><p>Shields can only defend monsters in descending value and if you use a shield on a monster with higher or equal value to the previous, it will break. Broken shields leave you unarmored, and you take full damage.</p><h2>Black Cards</h2><p>Black number cards equal their value and face cards are as follows J is 11, Q is 13, K is 15, A is 17 and Jokers are both equal to 21.</p><h3>♠ Monster Cards</h3><p>Once you have dealt with at least 3 cards, you can move onto the next room(set of 4 cards), moving the remainder card to the bottom of the deck.</p><p>Running away from the room moves the cards to the bottom of the deck. You can run away from a room you have not interacted with, once in a row.</p><h2>Example Play</h2><ul><li>Open the door (Shuffle the deck and draw 4 cards)</li><li>The room contains a 7♦, Q♥︎, 10♠, J♣︎</li><li>Equip the 7♦ shield, and battle the J♣︎ (11-7=4 lost HP)</li><li>Battle the 10♠ (10-7=3 lost HP), drink the Q♥︎ and heal 11 HP up to max 21.</li><li>With the room empty we sneak into the next room.</li><li>The room contains A♦, K♦, K♣︎, 9♥︎</li><li>Equip the K♦ (replacing the 7♦), battle the K♣︎ (15-11=4 lost HP)</li><li>Drink the 9♥︎ and heal 9 HP up to max 21. </li><li>Moving to the next room places the A♦ at the bottom of the deck.</li><li>The room contains A♣︎, J♣︎, 10♦, 6♠.</li><li>Continue making your way through the dungeon (deck) until all enemies are defeated.</li></ul>
+  BREF : {{Donsol}}, designed by {{John Eternal|https://twitter.com/johneternal}}, is a game about exploring a dungeon using nothing but what you find.You play with a standard 54 poker card set, Jokers included.
+  LONG
+    & Shuffle the deck and draw 4 cards, equip a shield, slay all monsters, heal yourself with potions and exit the deck alive.
+    - ♦Diamonds are shields
+    - ♥︎Hearts are potions
+    - ♠Spades are monsters
+    - ♣︎Clubs and Jokers are also monsters
+    + Red Cards
+    & Red number cards equal their value and face cards(J,Q,K,A) equal 11
+    + ♥︎ Potions
+    & You begin with a max of 21 health points and can never go above. You can only drink one health potion per room.
+    + ♦ Shield Cards
+    & You can fight a monster without shield, but suffer full damage. Equipping a shield allows you to absorb the damage difference from the monster value. {_If you have an 8 shield equipped, by attacking a 9 monster you suffer 1 damage._}
+    & Shields can only defend monsters in descending value and if you use a shield on a monster with higher or equal value to the previous, it will break. Broken shields leave you unarmored, and you take full damage.
+    + Black Cards
+    & Black number cards equal their value and face cards are as follows J is 11, Q is 13, K is 15, A is 17 and Jokers are both equal to 21.
+    + ♠ Monster Cards
+    & Once you have dealt with at least 3 cards, you can move onto the next room(set of 4 cards), moving the remainder card to the bottom of the deck.
+    & Running away from the room moves the cards to the bottom of the deck. You can run away from a room you have not interacted with, once in a row.
+    + Example Play
+    - Open the door (Shuffle the deck and draw 4 cards)
+    - The room contains a 7♦, Q♥︎, 10♠, J♣︎
+    - Equip the 7♦ shield, and battle the J♣︎ (11-7=4 lost HP)
+    - Battle the 10♠ (10-7=3 lost HP), drink the Q♥︎ and heal 11 HP up to max 21.
+    - With the room empty we sneak into the next room.
+    - The room contains A♦, K♦, K♣︎, 9♥︎
+    - Equip the K♦ (replacing the 7♦), battle the K♣︎ (15-11=4 lost HP)
+    - Drink the 9♥︎ and heal 9 HP up to max 21. 
+    - Moving to the next room places the A♦ at the bottom of the deck.
+    - The room contains A♣︎, J♣︎, 10♦, 6♠.
+    - Continue making your way through the dungeon (deck) until all enemies are defeated.
   LINK
-    App"=>"Store|https://itunes.apple.com/us/app/donsol/id976367718?ls=1&mt=8", "Donsol"=>"Mobile|http://wiki.xxiivv.com/donsol"}
+    ITUN : https://itunes.apple.com/us/app/donsol/id976367718
+
 DOWNTEMPERATURE
   UNDE : First wave
+
 DROWNSPIRE
   UNDE : Misc
-  LONG : <p>Drownspire was an online store I founded with Jessica in 2009.</p>
+  BREF : Drownspire was an online store I founded with Rekka Bellum in 2009.
+
 DRYPOINT
   UNDE : Desktop
-  LONG : <p>Drypoint is a very hard platformer game for keyboard cowboys. See if you can get to the blue door. Read about Drypoint on the {{TIGSource forum tread|http://forums.tigsource.com/index.php?topic=8241}}.</p>
+  BREF : {{Drypoint is a very hard platformer game for keyboard cowboys. See if you can get to the blue door. Read about Drypoint on the {{TIGSource forum tread|http://forums.tigsource.com/index.php?topic=8241}}.
+  LONG
+    - There are a few different paths to get to the end.
+    - The game is based on complex jumping techniques.
+    - This is {*nearly*} impossible.
 
-<p>I can't say it enough, despite it's casual look, this is for hardcore fans of platforming.</p>
-	
-<ul>
-<li>There are a few different paths to get to the end.</li>
-<li>The game is based on complex jumping techniques.</li>
-<li>This is nearly impossible.</li>
-</ul>
-  TYPE : ["desktop_experiment"]
 DUOMO
   UNDE : Dinaisth
-  LONG : <p>{{Duomo}} is the {_highest_} location of {{Dinaisth}}, the Duomo plateau rises far above the highest clouds.</p><p>The land is made of organic matter arisen from the northern oceans, this type of rock is also found in Vetetrandes. The spire formations suggests that an other, older, {{Paradichlorisse}}-type being once lived in Duomo, and that the plateau is made of the decomposed pilgrims corpses.</p> 
+  BREF : {{Duomo}} is the {_highest_} location of {{Dinaisth}}, the Duomo plateau rises far above the highest clouds.
+  LONG
+    & The land is made of organic matter arisen from the northern oceans, this type of rock is also found in Vetetrandes. The spire formations suggests that an other, older, {{Paradichlorisse}}-type being once lived in Duomo, and that the plateau is made of the decomposed pilgrims corpses.
+
 EAKOUT
   UNDE : Unreleased
-  LONG : <p>{{Eakout}} is a local cooperative twist to the original {_breakout_} style games. It's a simple multiplayer game that plays on a single phone. Perfect for killing time with a partner.</p><p>Each player must touch each blocks for them to be destroyed. Collided blocks display a color of the required polarity once a player has hit them, and remain on stage until the second player's ball has also touched them.</p>
+  BREF : {{Eakout}} is a local cooperative twist to the original {_breakout_} style games. 
+  LONG
+    & It's a simple multiplayer game that plays on a single phone. Perfect for killing time with a partner.
+    & Each player must touch each blocks for them to be destroyed. Collided blocks display a color of the required polarity once a player has hit them, and remain on stage until the second player's ball has also touched them.
   LINK
-    GITH : https://github.com/neauoire/Eakout"=>"GITH : https://github.com/neauoire/Eakout"}
+    GITH : https://github.com/neauoire/Eakout
+
 EFLI
   UNDE : Eschatolor
-  LONG : <p>{{EFLI}}, 103.0FM, is a pirate radio broadcast, available from Montreal's Plateau area, between 22:00 and 6:00. The radio started broadcasting on {{2015-05-20}}.</p><p>Not much else is known. Read about {{Eschatolor}}.</p>
+  BREF : {{EFLI}}, 103.0FM, was a pirate radio broadcast, available from Montreal's Plateau area, between 22:00 and 6:00. The radio started broadcasting on {{2015-05-20}}. Not much else is known. Read about {{Eschatolor}}.
+
 EHRIVEVNV
   UNDE : Neon hermetism
-  LONG : <p>The {{Ehrivevnv}}, of {_The Methamondst Conclave_}, is a dimensional puzzle. The puzzle presents itself as the simplest primitive allowed by the current navigationable dimension. </p><p>The prism mesh is porous in that it allows to be looked into. The inside of the puzzle displays a universe, where at its center, lies another Ehrivevnv, which in turn, seemingly holds a universe. With each universe that any one puzzle contains, the laws of nature grow increasingly more complex and diverse.</p><p>Some, believe that superior intelligences reside deep into the puzzle, others believe it to be a trap.</p>
+  BREF : The {{Ehrivevnv}}, of {_The Methamondst Conclave_}, is a dimensional puzzle. The puzzle presents itself as the simplest primitive allowed by the current navigationable dimension. 
+  LONG
+    & The prism mesh is porous in that it allows to be looked into. The inside of the puzzle displays a universe, where at its center, lies another Ehrivevnv, which in turn, seemingly holds a universe. With each universe that any one puzzle contains, the laws of nature grow increasingly more complex and diverse.
+    & Some, believe that superior intelligences reside deep into the puzzle, others believe it to be a trap.
+
 ENTALONERALIE
   UNDE : Mobile
-  LONG : <p>{{Entaloneralie}} is an experimental time observation device, in the lines of {{Bifurcan}}. While the old design displayed a circular layout and binary type format. The redesign explores an entirely different system of displaying minutes and is meant to be a toy, a distraction.</p>
+  BREF : {{Entaloneralie}} is an experimental time observation device, in the lines of {{Bifurcan}}. While the old design displayed a circular layout and binary type format. The redesign explores an entirely different system of displaying minutes and is meant to be a toy, a distraction.
   LINK
-    App"=>"Store|https://itunes.apple.com/us/app/entaloneralie/id657224738", "Source"=>"Code|https://github.com/Echorridoors/Entaloneralie"}
+    ITUN : https://itunes.apple.com/us/app/entaloneralie/id657224738
+    GITH : https://github.com/Echorridoors/Entaloneralie
+
 EPONYM
   UNDE : Malice
+
 ES GULF SUNFLOWERS
   UNDE : Second wave
-  LONG : <p>{{Es Gulf Sunflowers}}' tale remembers the gorgeous sunken fields of {{Es}} - the underwater jump gate to {{Dinaisth}}, for its vast ocean terrace and display of sunflowers.</p>
+  BREF : {{Es Gulf Sunflowers}} tale remembers the gorgeous sunken fields of {{Es}} - the underwater jump gate to {{Dinaisth}}, for its vast ocean terrace and display of sunflowers.
   LINK
-    
-BAND : https://aliceffekt.bandcamp.com/album/es-gulfssunflowers"=>"
-BAND : https://aliceffekt.bandcamp.com/album/es-gulfssunflowers"}
+    BAND : https://aliceffekt.bandcamp.com/album/es-gulfssunflowers
+
 ESCHATOLOR
   UNDE : Beldam records
-  LONG : <p>{{Eschatolor}} is the fourth release on the Beldam Records catalog. Written by Катя Тевелизион, this album was inspired from russian number stations. </p><p>It was recorded playing through the FM band, from the {{EFLI}} 103.0Mhz pirate radio station in Montreal, giving it its texture and warmth.</p>
+  BREF : {{Eschatolor}} is the fourth release on the Beldam Records catalog. Written by Катя Тевелизион, this album was inspired from russian number stations. 
+  LONG
+    & It was recorded playing through the FM band, from the {{EFLI}} 103.0Mhz pirate radio station in Montreal, giving it its texture and warmth.
   LINK
-    Bandcamp|https://tevelision.bandcamp.com/album/eschatolor"=>"Bandcamp|https://tevelision.bandcamp.com/album/eschatolor", "iTunes|https://itunes.apple.com/ca/album/eschatolor/id1000241341"=>"iTunes|https://itunes.apple.com/ca/album/eschatolor/id1000241341"}
+    BAND : https://tevelision.bandcamp.com/album/eschatolor
+    ITUN : iTunes|https://itunes.apple.com/ca/album/eschatolor/id1000241341
+
 EXTENDED SLEEP
   UNDE : Third wave
-  LONG : <p>{{Extended sleep}} is the sequel to {{Known Magye}}, a deeper exploration of its universes, its stories. While the album released after {{Fourth wave}} release {{Supervisitor}}, it is part of the {{Third wave}}.</p><p>The album will be first performed at the A Maze Festival in Berlin, on April 23rd 2015.</p>
+  BREF : {{Extended sleep}} is the sequel to {{Known Magye}}, a deeper exploration of its universes, its stories. While the album released after {{Fourth wave}} release {{Supervisitor}}, it is part of the {{Third wave}}.
+  LONG
+    & The album will be first performed at the A Maze Festival in Berlin, on April 23rd 2015.
   LINK
-    
-BAND : https://aliceffekt.bandcamp.com/album/extended-sleep"=>"
-BAND : https://aliceffekt.bandcamp.com/album/extended-sleep"}
+    BAND : https://aliceffekt.bandcamp.com/album/extended-sleep
+
 FEU
   UNDE : Neon hermetism
-  LONG : <p>{{Feu}}, or {_The End Of Science_}, is the general field of cognitive exploration, that remained after the completion of science brought by the {{permutation machines|Nohlxeserre}}.</p>
+  BREF : {{Feu}}, or {_The End Of Science_}, is the general field of cognitive exploration, that remained after the completion of science brought by the {{permutation machines|Nohlxeserre}}.
+
 FIRST AID AND LAST AID
   UNDE : First wave
+
 FIRST WAVE
   UNDE : Aliceffekt
-  LONG : <p>Currently definiting this term..</p>
   TYPE : Portal
+
 FLAG
   UNDE : Traumae
-  LONG : <p>The {{Traumae}} flag was released on February 2016, the graphic's ratio is 11:18(1.636).</p><p>The three circles symbolizes the three root letters of the Traumae language, {_XDB_}, and are each connected with a single stroke that closes itself again.</p> 
+  BREF : <p>The {{Traumae}} flag was released on February 2016, the graphic's ratio is 11:18(1.636). The three circles symbolizes the three root letters of the Traumae language, {_XDB_}, and are each connected with a single stroke that closes itself again.
   LINK
-    Sources|https://github.com/Traumae/Branding"=>"Sources|https://github.com/Traumae/Branding"}
+    GITH : https://github.com/Traumae/Branding
+
 FLEE
   UNDE : Flee
-  LONG : <center><img src='http://wiki.xxiivv.com/img/interface/avatar_walk_andrio.gif' style='display:inline;width:auto;' /><img src='http://wiki.xxiivv.com/img/interface/avatar_rekka_walk_andario.gif' style='display:inline;width:auto' /></center><p style="text-align:center">"To flee is life; To linger is death"<br /><small>Pixels by <a href="http://andrio.me">Andrio</a>.</small></p>
+  LONG
+    % http://wiki.xxiivv.com/img/interface/avatar_walk_andrio.gif
+    % http://wiki.xxiivv.com/img/interface/avatar_rekka_walk_andario.gif
+    & "To flee is life; To linger is death"
+    ? Pixels by <a href="http://andrio.me">Andrio</a>.
+
 FLOWERS
   UNDE : Artwork
-  LONG : <p>A series of abstract six-sided flowers drawn using a procedural drawing script. These flowers have inspired a series of illustrations used in Elodie Lareine's book titled "{{Vast}}" as well as the cover of the {{Aliceffekt}} single titled "{{Known Magye}}", released in 2014.</p><p>If you wish to create your own fractals, you can download the photoshop actions and use them on a 2000x2000 photoshop file. The script also includes a 5 sided rotation action.</p>
+  BREF : A series of abstract six-sided flowers drawn using a procedural drawing script. These flowers have inspired a series of illustrations used in Elodie Lareine's book titled "{{Vast}}" as well as the cover of the {{Aliceffekt}} single titled "{{Known Magye}}", released in 2014.
+  LONG
+    If you wish to create your own fractals, you can download the photoshop actions and use them on a 2000x2000 photoshop file. 
+    The script also includes a 5 sided rotation action.</p>
   TYPE : Diary
+
 FOURTH WAVE
   UNDE : Aliceffekt
   TYPE : Portal
+
 FRACTALS
   UNDE : Misc
-  LONG : <p>Illustrations made with a series of photoshop actions to look like fractals. You can download them by clicking download.</p><p>The pack is constantly being updated with new actions.</p>
+  LONG : Illustrations made with a series of photoshop actions to look like fractals. You can download them by clicking download. The pack is constantly being updated with new actions.
   TYPE : Diary
+
 FRAME HOLDER
   UNDE : Physical
-  LONG : <p>Little hangers to hang stuff you don't want to make holes in.</p>
+  BREF : Little hangers to hang stuff you don't want to make holes in.
   LINK
-    Download|http://www.thingiverse.com/thing:19184"=>"Download|http://www.thingiverse.com/thing:19184"}
+    SITE : http://www.thingiverse.com/thing:19184
+
 FRANCE
-  UNDE : Misc
-  LONG : <p>A diary of my trip to france.</p>
+  UNDE : Travel
+  LONG : A diary of my trip to france.
   TYPE : Diary
-FRANSSE
-  UNDE : Reforms
-  LONG : <style>fff {display:inline; color:white}</style><p>Fransse is an minimal version of the french language, created to contrast the necessity of the numerous exceptions and rules of the french language against their actual purposes - as well as to correlate the loss of complexity versus the loss of depth and precision, al. The goal is to strip french of irregular verbs, exceptions and homophones. This is a preliminary version of a longer piece on Fransse.</p><h3>Pronouns</h3><p>Pronouns in Fransse are made of 4 elements. The first 2 elements are the {_self element_}, and sometimes a {_target element_} onto whom a verb is affected. The last 2 element is the verb type and tense. This structure makes verb groups and conjugation obsolete for this structure allows to use any simple form of any noun as a conjugated verb.</p><table>	<tr><td colspan="3">Subject</td><td colspan="4">Verb Settings</td></tr>	<tr><td>{*Self*}</td><td>{*Target*}</td><td>{*English*}</td><td style="border-left: 5px solid #333">Person</td><td>English</td><td style="border-left: 5px solid #333">Tense</td><td>English</td></tr>	<tr><td>j'</td><td>m</td><td>First singular</td><td style="border-left: 5px solid #333">a</td><td>Have verb</td><td style="border-left: 5px solid #333">vais </td><td>past</td></tr>	<tr><td>t'</td><td>t</td><td>Second singular</td><td style="border-left: 5px solid #333">e</td><td>Am verb</td><td style="border-left: 5px solid #333">vai </td><td>future</td></tr>	<tr><td>i'</td><td>y</td><td>Third singular/plural</td><td style="border-left: 5px solid #333"></td><td></td><td style="border-left: 5px solid #333">rais</td><td>cond. past</td></tr>	<tr><td>o'</td><td>n</td><td>First plural</td><td style="border-left: 5px solid #333"></td><td></td><td style="border-left: 5px solid #333">rai</td><td>conf. future</td></tr>	<tr><td>v'</td><td>v</td><td>Second plural</td><td style="border-left: 5px solid #333"></td><td></td><td style="border-left: 5px solid #333">la</td><td>Imperative</td></tr>	</table><pre><fff>Jtarai donne un fleur</fff> I could give you a flower</pre><h3>Topics</h3><table class='right marl20' style='width:300px'>	<tr>		<td>{*Suffix*}</td>		<td>{*Module*}</td>		<td>{*Example*}</td>	</tr>	<tr>		<td>-oir</td>		<td>location</td>		<td>chantoir, danseoir</td>	</tr>	<tr>		<td>-eur</td>		<td>agent</td>		<td>faiteur, ideeur</td>	</tr>	<tr>		<td>-ard</td>		<td>prejorative</td>		<td>laidard, profesard</td>	</tr>	<tr>		<td>-ieme</td>		<td>counter</td>		<td>rougeieme, premieme</td>	</tr>	<tr>		<td>-ier</td>		<td>useage</td>		<td>telephonier, chantier</td>	</tr>	<tr>		<td>-ant</td>		<td>happenning</td>		<td>dansant, ideant</td>	</tr></table><p>Fransse is heavily relying on the latin morphemes, making the 3 segments of a noun(prefixes, a root and a nominal suffixes) often be found within the latin boundaries. For more affixes, look for the latin affixes in the french lexicon on wikipedia. The pronouns are often omitted for they can be deduced from the verb conjugation. But they are required to transform a sentence into a question, the question form of the pronoun will follow the verb. </p><p>"Pensait-il qu t'mentais ?". <br/><i class='grey'>Did he thought you were lying ?_}</p><div class='clear'></div><h3>Verbs</h3><p>Every verb in Fransse is nominal, meaning that a verb must have a noun base equivalent. To transform a noun into a verb, if the noun is ending with a vowel, this ending vowel is removed to give place to the suffixed conjugation - a list of conjugation examples can be found bellow. There is a single verb group in Fransse and 4 tenses. The verb used in an imperative sentence will be the second persons present tense.</p><h3>Particles</h3><p>Particles will add secondary precisions to the topic.</p><table>	<tr>		<td>{*Fransse*}</td>		<td>{*English*}</td>		<td>{*Exemple in Fransse*}</td>		<td>{*English translation*}</td>	</tr>	<tr>		<td>un</td>		<td>a/an</td>		<td>un ide</td>		<td>an idea</td>	</tr>	<tr>		<td>qu</td>		<td>than</td>		<td>Plus qu sa</td>		<td>more than that</td>	</tr>	<tr>		<td>sa</td>		<td>that</td>		<td>sa ide</td>		<td>that idea</td>	</tr>	<tr>		<td>n'</td>		<td>{_negation</td>		<td>n'avec il</td>		<td>without him</td>	</tr></table><h2>Contextual Examples</h2><p>This will soon grow in a list of all the examples used in the previous lessons.</p><table><tr>	<td>{*Fransse*}</td>	<td>{*French*}</td>	<td>{*English*}</td></tr><tr>	<td>l chat est su l chaise</td>	<td>le chat est sur la chaise</td>	<td>the cat is on the chair</td></tr><tr>	<td>Pensait-il qu t'mentais ?</td>	<td>Est-ce qu'il pensait que tu mentais ?</td>	<td>Did he think you were lying?</td></tr></table> <h2>Nominal Conjugations</h2><table><tr>	<td width='25%'>{*Past*}</td>	<td width='25%'>{*Present*}</td>	<td width='25%'>{*Future*}</td>	<td width='25%'>{*Conditional*}</td></tr><tr>	<td><b class='cyan'>Chant*} <i class='grey'>Sing_}</td></tr><tr>	<td><span class='grey'>j'chant</span>aie</td>	<td><span class='grey'>j'chant</span>e</td>	<td><span class='grey'>j'chant</span>erai</td>	<td><span class='grey'>j'chant</span>eraie</td></tr><tr>	<td><span class='grey'>t'chant</span>ais</td>	<td><span class='grey'>t'chant</span>s</td>	<td><span class='grey'>t'chant</span>eras</td>	<td><span class='grey'>t'chant</span>erais</td></tr><tr>	<td><span class='grey'>i'chant</span>ait</td>	<td><span class='grey'>i'chant</span>t</td>	<td><span class='grey'>i'chant</span>erat</td>	<td><span class='grey'>i'chant</span>erait</td></tr><tr>	<td><span class='grey'>nous chant</span>ions</td>	<td><span class='grey'>nous chant</span>ons</td>	<td><span class='grey'>nous chant</span>erons</td>	<td><span class='grey'>nous chant</span>erions</td></tr><tr>	<td><span class='grey'>vous chant</span>iez</td>	<td><span class='grey'>vous chant</span>ez</td>	<td><span class='grey'>vous chant</span>erez</td>	<td><span class='grey'>vous chant</span>eriez</td></tr><tr>	<td><span class='grey'>ils chant</span>aient</td>	<td><span class='grey'>ils chant</span>ent</td>	<td><span class='grey'>ils chant</span>eraient</td>	<td><span class='grey'>ils chant</span>eriaient</td></tr><tr>	<td><b class='cyan'>Envahit*} <i class='grey'>Invade_}</td></tr><tr>	<td><span class='grey'>j'envahit</span>aie</td>	<td><span class='grey'>j'envahit</span>e</td>	<td><span class='grey'>j'envahit</span>erai</td>	<td><span class='grey'>j'envahit</span>eraie</td></tr><tr>	<td><span class='grey'>t'envahit</span>ais</td>	<td><span class='grey'>t'envahit</span>s</td>	<td><span class='grey'>t'envahit</span>eras</td>	<td><span class='grey'>t'envahit</span>erais</td></tr><tr>	<td><span class='grey'>i'envahit</span>ait</td>	<td><span class='grey'>i'envahit</span>t</td>	<td><span class='grey'>i'envahit</span>erat</td>	<td><span class='grey'>i'envahit</span>erait</td></tr><tr>	<td><span class='grey'>nous envahit</span>ions</td>	<td><span class='grey'>nous envahit</span>ons</td>	<td><span class='grey'>nous envahit</span>erons</td>	<td><span class='grey'>nous envahit</span>erions</td></tr><tr>	<td><span class='grey'>vous envahit</span>iez</td>	<td><span class='grey'>vous envahit</span>ez</td>	<td><span class='grey'>vous envahit</span>erez</td>	<td><span class='grey'>vous envahit</span>eriez</td></tr><tr>	<td><span class='grey'>ils envahit</span>aient</td>	<td><span class='grey'>ils envahit</span>ent</td>	<td><span class='grey'>ils envahit</span>eraient</td>	<td><span class='grey'>ils envahit</span>eriaient</td></tr><tr>	<td><b class='cyan'>Serve*} <i class='grey'>Serve_}</td></tr><tr>	<td><span class='grey'>j'serv</span>aie</td>	<td><span class='grey'>j'serv</span>e</td>	<td><span class='grey'>j'serv</span>erai</td>	<td><span class='grey'>j'serv</span>eraie</td></tr><tr>	<td><span class='grey'>t'serv</span>ais</td>	<td><span class='grey'>t'serv</span>s</td>	<td><span class='grey'>t'serv</span>eras</td>	<td><span class='grey'>t'serv</span>erais</td></tr><tr>	<td><span class='grey'>i'serv</span>ait</td>	<td><span class='grey'>i'serv</span>t</td>	<td><span class='grey'>i'serv</span>erat</td>	<td><span class='grey'>i'serv</span>erait</td></tr><tr>	<td><span class='grey'>nous serv</span>ions</td>	<td><span class='grey'>nous serv</span>ons</td>	<td><span class='grey'>nous serv</span>erons</td>	<td><span class='grey'>nous serv</span>erions</td></tr><tr>	<td><span class='grey'>vous serv</span>iez</td>	<td><span class='grey'>vous serv</span>ez</td>	<td><span class='grey'>vous serv</span>erez</td>	<td><span class='grey'>vous serv</span>eriez</td></tr><tr>	<td><span class='grey'>ils serv</span>aient</td>	<td><span class='grey'>ils serv</span>ent</td>	<td><span class='grey'>ils serv</span>eraient</td>	<td><span class='grey'>ils serv</span>eriaient</td></tr></table>
-  TYPE : ["Conlang"]
+
 FROM SAHARAPHOREST TO DUOMO
   UNDE : Second wave
-  LONG : <p>As an experiment, I recorded the album playing through cassette tapes and fell in love with the recording for it's uneasy sounds and noisy silences - It felt like it somehow made sense with this album.</p><p>The first 3 tracks are ripped from cassette tapes, and the last one is a single clean mastered version.</p><p>There was 5 tapes made and given to fans at shows as artworks. This release is related to {{Le Vert Kirlian Theatre}} album, released in 2008.</p>
+  BREF : As an experiment, I recorded the album playing through cassette tapes and fell in love with the recording for it's uneasy sounds and noisy silences - It felt like it somehow made sense with this album.
+  LONG
+    & The first 3 tracks are ripped from cassette tapes, and the last one is a single clean mastered version.
+    & There was 5 tapes made and given to fans at shows as artworks. 
+    & This release is related to {{Le Vert Kirlian Theatre}} album, released in 2008.
   LINK
-    Listen|http://aliceffekt.bandcamp.com/album/19th-month-from-saharaphorest-to-duomo"=>"Listen|http://aliceffekt.bandcamp.com/album/19th-month-from-saharaphorest-to-duomo"}
+    BAND : http://aliceffekt.bandcamp.com/album/19th-month-from-saharaphorest-to-duomo
+
 GARDEN
   UNDE : Diary
-  LONG : <p>These are experiments at growing things at home.</p>
+  BREF : These are experiments at growing things at home.
   TYPE : Diary
+
 GENESIS MINERS
   UNDE : First wave
   LINK
-    BAND : https://aliceffekt.bandcamp.com/album/genesis-iii-20-ov-idyllic-miners"=>"BAND : https://aliceffekt.bandcamp.com/album/genesis-iii-20-ov-idyllic-miners"}
+    BAND : https://aliceffekt.bandcamp.com/album/genesis-iii-20-ov-idyllic-miners
+
 GERMANY
   UNDE : Misc
-  LONG : <p>Travel pictures from 2012 and Amaze's 2015.</p>
+  BREF : Travel pictures from 2012 and Amaze's 2015.
   TYPE : Diary
+
 GONE PLAINS
   UNDE : First wave
-GOODNIGHT TEAPOT
-  UNDE : Automatons
-  LONG : <p>{{Goodnight Teapot}} is a {{Twitter bot|Automatons}} that crawls {{Paradise}} is create tweets in the fashion of {{Goodnight Moon|https://en.wikipedia.org/wiki/Goodnight_Moon}}.</p><blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Goodnight polar bear, 
-goodnight previous page, 
-goodnight room of impossible possibilities. 
-<a href="https://t.co/8Vtv0EJX6y">https://t.co/8Vtv0EJX6y</a></p>— Good Night Teapot (@goodnightteapot) <a href="https://twitter.com/goodnightteapot/status/661181978251624448">November 2, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-  LINK
-    View"=>"Twitter|https://twitter.com/goodnightteapot"}
+
 GROT
   UNDE : Mixtape
-  LONG : <pre>Эдуард Артемьев - Философская темаDecades/Failures - Everything in BlackThe Twilight Sad - In NowheresSoror Dolorosa - Trembling AndrogyneousСруб - До Горизонта ЗемлиThe Retuses - сагитта友川カズキ - 顕信の一撃Nonima & theAudiologist - HigghiЭдуард Артемьев - На крышеWand - Cave InSoviet Soviet - FurtherСруб - ЮдольThis Cold Night - D.C.D.S.HTRK - Body DoubleSexy Sushi - Je ne suis pas satisfaite du tout
-<comment># For {{Secret Thirteen|http://secretthirteen.org}}</comment></pre><p></p>
+  LONG
+    - Эдуард Артемьев - Философская тема
+    - Decades/Failures - Everything in Black
+    - The Twilight Sad - In Nowheres
+    - Soror Dolorosa - Trembling Androgyneous
+    - Сруб - До Горизонта Земли
+    - The Retuses - сагитта
+    - 友川カズキ - 顕信の一撃
+    - Nonima & theAudiologist - Higghi
+    - Эдуард Артемьев - На крыше
+    - Wand - Cave In
+    - Soviet Soviet - Further
+    - Сруб - Юдоль
+    - This Cold Night - D.C.D.S.
+    - HTRK - Body Double
+    - Sexy Sushi - Je ne suis pas satisfaite du tout
+    ? For {{Secret Thirteen|http://secretthirteen.org}}
   LINK
-    Download"=>"Mixtape|http://xxiivv.com/resources/mixtape/grot.mp3"}
+    SITE : http://xxiivv.com/resources/mixtape/grot.mp3
+
 HEX HIVE NECKLACE
   UNDE : Physical
-  LONG : <p>A small design necklace, looks great in black.</p>
+  BREF : A small design necklace, looks great in black.
   LINK
-    Download|http://www.thingiverse.com/thing:18853"=>"Download|http://www.thingiverse.com/thing:18853"}
+    SITE : http://www.thingiverse.com/thing:18853
+    
 HIVERSAIRES
   UNDE : Mobile
   LONG : <p>Hiversaires is a point-n-click, or "escape" type game created for adventurers who remember games where you had to draw maps to {*find your way out of a cave*}. The dark world of Hiversaires features an original <a href='Aliceffekt'>Aliceffekt</a> soundtrack to lure you through its entangled corridors.</p><h2>Textless adventure</h2><p>You can read more details about the project on <a href='http://www.theverge.com/2013/4/22/4252204/hiversaires-a-wordless-adventure-through-an-alien-world'>The Verge</a>, <a href="http://killscreendaily.com/articles/profiles/devine-lu-linvega-nataniev-hiversaires/">Killscreen</a> and on <a href='http://indiestatik.com/2013/04/21/hiversaires-2/'>IndieStatik</a>. The game reached 250'000 downloads as of june 1st 2013, and was ranked one of the Top 10 Android apps of 2013 by <a href="http://www.pocketgamer.co.uk/r/Android/Top+10+Android+charts/feature.asp?c=52259">Pocketgamer</a>. The game is released and available for mobile in selected app stores and ported onto <a href='https://play.google.com/store/apps/details?id=com.underscorediscovery.Hiversaires'>Android</a> by <a href="http://underscorediscovery.com">Sven Bergstrom</a>.</p><p>Hiversaires is the first part in a series of textless games, that also includes the isometric adventure {{Oquonie}}. While the game has no text, there is an underlying story that can read about in the {{Hiversaires Guide}}. The <a href='img/lexicon/hiversaires_artwork_web.jpg'>official poster</a> is a collaboration with <a href="http://gabrielverdon.tumblr.com">Gabriel Verdon</a>. You can follow the development of the games on <a href="https://www.facebook.com/Hiversaires">Facebook</a>.</p><img src='content/lexicon/hiversaires.main.png'/>
   LINK
-    App"=>"Store|https://itunes.apple.com/au/app/hiversaires/id630992348", "Walkthrough|http://wiki.xxiivv.com/Hiversaires+guide"=>"Walkthrough|http://wiki.xxiivv.com/Hiversaires+guide", "Source"=>"Code|https://github.com/Echorridoors/hiversaires"}
+    ITUN : https://itunes.apple.com/au/app/hiversaires/id630992348", "Walkthrough|http://wiki.xxiivv.com/Hiversaires+guide"=>"Walkthrough|http://wiki.xxiivv.com/Hiversaires+guide", "Source"=>"Code|https://github.com/Echorridoors/hiversaires"}
 HIVERSAIRES GUIDE
   UNDE : Hiversaires
   LONG : <p>This walkthrough should help you get started in {{Hiversaires}}. The japanese translation was written by <a href='http://twitter.com/shinimai'>Shin Imai</a> and the german translation by <a href="https://twitter.com/Zitatwaffe">Ernst Jammermann</a>.</p><p>{*EN*} The first act begins in <a href="Forest">Forest</a>. You are presented with a white monolith with symbols, a binary terminal with a symbol that looks like a fork, a locked door with a small locker on its side and a terminal with a circular interface. The locked door will unlock if you take the fuse from the locker and insert it in the tiny door on its right.</p><p>{*JP*} Hiversairesを始めるにあたり、この道標をもって汝の助けとならん。第一幕はForestから始まる。汝は徴が刻まれた白無垢の一枚磐、鍬のごとき徴を持つ二値端末、傍らに小さき箱を備えた閉ざされた扉、そして回転式端末の前に存する。閉ざされた扉は、箱より管を得て、その右横の小さき扉の中に挿入することをもって、開かるる。</p><p>{*DE*} Der erste Akt des Spiels beginnt im <a href="Forest">Wald</a>. Du siehst Dich einem weißen Monolithen mit verschiedenen Symbolen gegenüber, des Weiteren einer Schalttafel mit einem „Gabel“-ähnlichen Symbol und zudem einer verschlossenen Tür, an deren linker Seite sich ein kleiner Spind nebst einer runden Luke in der Wand befindet. Die verschlossene Tür lässt sich öffnen, wenn Du die Batterie aus dem Spind nimmst und hinter der runden Luke zu dessen rechten einsetzt.</p><img src="img/lexicon/act1_1.png"/><p>{*EN*} Once inside <a href="Studio">the second room</a>, you are again faced with a locked door. This door will unlock with the circular interface terminal in the rightful position and lead you into the <a href="Circle">Circle</a>.</p><p>{*JP*} 一度、第二の部屋に入りしば、汝は再び閉ざされた扉に面する。回転式端末において正しき位置にあれば、この扉は開きて、汝をCircleへと導く。</p><p>{*DE*} Gehst Du durch die nun unverschlossene Tür und bist im zweiten <a href="Studio">Raum</a> angekommen, wirst Du recht bald mit einem weiteren unpassierbaren Durchgang konfrontiert. Dieser wiederum lässt sich öffnen, indem Du auf der Schalttafel im ersten Bereich die unten gezeigte Position (siehe Bild) einstellst, die auch auf dem Durchgang abgebildet ist. Dieser führt Dich weiter in den <a href="Circle">Kreis</a>.</p><img src="img/lexicon/act1_2.png"/><p>{*EN*} Depending on which position you chose for the circular terminal, you will be able to enter either the <a href="Stones">Stones</a> or the <a href="Antechannel">Antechannel</a>. You will want to enter the Stones from the Circle.</p><p>{*JP*} 汝が選択せし回転式端末の位置に準じて、汝はStonesもしくはAntechannelに入らるる。汝がCircleからStonesに入ることを欲するならば、斯くの如し。</p><p>{*DE*} Abhängig von der eingestellten Position auf besagter Schalttafel kannst Du entweder zu den <a href="Stones">Steinen</a> oder zum <a href="Antechannel">Antechannel</a> gelangen. Zunächst ist der Weg zu den Steinen der richtige (siehe Abbildung).</p><img src="img/lexicon/act1_3.png"/><p>{*EN*} The stones is the last room of the first act,  you will find a tall door on the second floor with 4 seals on it. These icons, found everywhere in the game are related with the binary interfaces. For this door to open, you will need the fork symbol (forest) and an inverted E symbol. Going back to the forest, activate the first seal, found ont he left of the monolith. Take the fuse out of the first door on your way out from inside the studio. Head to the stones and put the fuse in the fuse socket near the staircase. You will be able to enter <a href="Rainre">Rainre</a>, activate its seal and complete Act 1.</p><p>{*JP*} Stonesは第一幕における最後の部屋。汝は第二の間にて四つの封印がなされた高き扉を見出す。これらの象徴は、この遊戯において至る所に見出され、二値端末と結ばれている。この扉を開かんとするために、汝は鍬のごとき徴（Forest）と反転せしEの徴を求めよ。Forestに戻り、最初の封印を放て、彼の者は一枚磐の左にあり。戻りし際はStudioの内部から第一の扉の管を引き抜け。Stonesに向かい、きざはしの近きにありし受け口に管を差し入れよ。汝はRainreに踏み入れんことを能い、その封印を放ち、第一幕を終えん。</p><p>{*DE*} Die “Steine” stellen den letzten Raum des ersten Spielaktes dar: auf der zweiten Ebene wirst Du hier eine große Tür entdecken, auf der vier Siegel angebracht sind. Diese Zeichen, die Du überall im Spiel erkennen wirst, stehen in direktem Zusammenhang mit den dazugehörigen Schalttafeln und können über diese aktiviert werden. Um die Tür vor Dir zu öffnen, brauchst Du das "Gabel"-Symbol aus dem Wald (siehe oben) und das "E". Um beide zu aktivieren, begib Dich zunächst zurück in den Wald, wo Du auf der einen Seite des Monolithen durch betätigen des "Gabel"-Symbols das erste Zeichen aktivierst. Gehe nun durch die ehemals verschlossene Tür zurück in den zweiten Raum und entnimm durch die Klappe auf der Innenseite (!) die Batterie, welche Du anschließend bei den „Steinen“ in die Halterung in der Nähe der Treppen einsetzt, um danach das zweite Symbol "E" zu aktivieren. Nun wirst Du in der Lage sein, durch das kombinierte Siegel <a href="Rainre">Rainre</a> zu betreten und hast den ersten Akt erfolgreich gemeistert.</p>
@@ -555,7 +685,7 @@ ILLUSTRATION
 IMMORTAL BIRDS
   UNDE : Neauismetica
   LONG : <p>{{Immortal Birds}} are individuals looking working on the {{Ehrivevnv}}, aspiring to reach the center of the dimensional puzzle. The group is often called {_The Courtship Of The Immortal Birds_}, taking its name from the {{Language Of The Birds|Nohlxeserre}}. </p>
-  TYPE : ["text"]
+  TYPE : Text
 INFRARED
   UNDE : Photograph
   LONG : <p>Various infrared pictures taken with a modded Nikon D3000 camera.</p>
@@ -590,7 +720,7 @@ KEYBOARD 468
   UNDE : Mobile
   LONG : <p>The {{Keyboard 468}} is a 18 keys keyboard that sorts characters by the most likely letter to follow the last input. So you always only need to type using the two rows at the top, maximizing the space and allowing for big large letters. The hidden letters are accessible through the {_alt_} key, alongside symbols and numbers.</p> <h2 id='privacy'>Privacy Policy</h2><p>This policy exists to inform you that the keyboard does not record, save, harvest or send any data of any type. The application, and its keyboard extension is self contained and does not keep any data. The active {{source code|https://github.com/neauoire/iOSKeyboard}} is also available to demonstrate that the keyboard does not hold onto your content.</p>
   LINK
-    App"=>"Store|https://itunes.apple.com/ca/app/468-keyboard/id954698999", "GITH : https://github.com/Echorridoors/Keyboard468"=>"GITH : https://github.com/Echorridoors/Keyboard468"}
+    ITUN : https://itunes.apple.com/ca/app/468-keyboard/id954698999", "GITH : https://github.com/Echorridoors/Keyboard468"=>"GITH : https://github.com/Echorridoors/Keyboard468"}
 KNOWN MAGYE
   UNDE : Third wave
   LONG : <p>{{Known Magye}} is an album and performance relying heavily on visuals. Sometimes reminiscent of the compositions of {{Children with veins of bramble}}, sometimes of the drowned sounds of {{Telekinetic}}, this single is a fair mix of ambient and breaks. </p><p>The album was recorded live from {{San Fransisco|travel}}'s {{POW POW POW|382}} which was controlled entirely with the {{Leap Motion|https://www.leapmotion.com}}.</p>
@@ -632,7 +762,7 @@ LEDOLIEL
   UNDE : Mobile
   LONG : <p>{{Ledoliel}} is a strange dating toy for iOS, involving procedural creatures and their bizarre customs, where you must try and figure out what topics they might want to discuss, gift they might want to receive and places they may like to be touched - based on their cryptic attributes.</p>
   LINK
-    App"=>"Store|https://itunes.apple.com/us/app/ledoliel/id891693763", "GITH : https://github.com/Echorridoors/ledoliel"=>"GITH : https://github.com/Echorridoors/ledoliel"}
+    ITUN : https://itunes.apple.com/us/app/ledoliel/id891693763", "GITH : https://github.com/Echorridoors/ledoliel"=>"GITH : https://github.com/Echorridoors/ledoliel"}
 LESSONS
   UNDE : Traumae
   LONG : <p>This is a draft for a few {{Traumae}} lessons - to get you started, a walkthrough if you may. There are 9 word types. And these lessons will explain to you how to use each and every family, from the simpliest constructs to the more complex ideas. At the end of these lessons, you should be able to express simple ideas. After each lesson, a new grammatical element will be introduced. Each block will teach you words to be reused in the lessons that follow.</p><p>Some of these exercises are also explored in a {{video tutorial|http://youtu.be/_YXK1nepTPA}}.</p>
@@ -642,7 +772,7 @@ LEVITOV
 LIFESTYLE
   UNDE : Hundred rabbits
   LONG : <p>This entry covers multiple questions I have been getting lately.</p>
-  TYPE : ["text"]
+  TYPE : Text
 LITTLE RUBY RIDING HOOD
   UNDE : Programming
   LONG : <p>Inspired by a talk with a friend about Steven Pinker's {{The Language Instincs|http://en.wikipedia.org/wiki/The_Language_Instinct}}, I decided to try and translate Leanne Guenther's {{Little Red Riding Hood|http://www.dltk-teach.com/rhymes/littlered/story.htm}} into {{Ruby|http://en.wikipedia.org/wiki/Ruby_(programming_language)}}.</p><p>The idea was simple, how much meaning can I extrude from the original text and parse into a computer language, as it turns out, a lot of it can. This experiment resulted in interesting results such as:</p> <pre><comment># When the basket was ready, the little girl put on her red cloak# and kissed her mother goodbye.</comment>while littleGirl.basket.isReady != nil	littleGirl.wears(littleGirl.clothes.first)	littleGirl.kisses(mother,"good bye")	littleGirl.basket.isReady = trueend</pre><p>And a bit further</p><pre><comment># Little Red Riding Hood was enjoying the warm summer day so much, # that she didn't notice a dark shadow approaching out of the forest behind her...</comment>setting = Setting.new("summer","warm","daytime")littleGirl.enjoys(setting)darkShadow = Character.new()<comment># Suddenly, the wolf appeared beside her.</comment>wolf = darkShadowwolf.location = littleGirl.location</pre><p>And further</p><pre><comment># A woodsman who was chopping logs nearby heard her cry # and ran towards the cottage as fast as he could.</comment>woodsman = Character.new()woodsman.chops(forest.log(1))woodsman.location = forest.grandmothers.cottage + rand(-5 .. 5)woodsman.listens()while woodsman.location != forest.grandmothers.cottage	woodsman.location.runsToward(forest.grandmothers.cottage,1.0)end</pre><p>The {{full text|https://github.com/neauoire/LittleRubyRidingHood/blob/master/main.rb}} is on Github. Feel free to contact me with pull requests and optimisations.</p>
@@ -792,7 +922,7 @@ NOIRCA
   UNDE : Mobile
   LONG : <p>{{Noirca}} is a minimalist Black & White camera application for iOS that launches instantly, without prompts and without social connects - simple, clean. The app has one purpose, to launch quickly and render the photos with a softly washed out B&W film quality.</p>
   LINK
-    App"=>"Store|https://itunes.apple.com/us/app/noirca/id893715212?ls=1&mt=8", "GITH : https://github.com/Echorridoors/noirca"=>"GITH : https://github.com/Echorridoors/noirca"}
+    ITUN : https://itunes.apple.com/us/app/noirca/id893715212?ls=1&mt=8", "GITH : https://github.com/Echorridoors/noirca"=>"GITH : https://github.com/Echorridoors/noirca"}
 NONROMAN
   UNDE : Misc
   LONG : <p>Just an idea I had while playing with the ever so strict roman numerals. This list is the first few Nonroman and non-abusive roman non numbers along the actual roman numerals, where abusive would exploit the same extension sequencially.</p><table><tr><th>Roman/Nonroman</th><th>Arabic Numeric Value</th><th>Arabic Non Value</th></tr><tr><td>I</td><td>1</td><td></td></tr><tr><td>II</td><td>2</td><td></td></tr><tr><td>III</td><td>3</td><td></td></tr><tr><td>IIV</td><td></td><td>"3</td></tr><tr><td>IIII</td><td></td><td>_4</td></tr><tr><td>IV</td><td>4</td><td></td></tr><tr><td>V</td><td>5</td><td></td></tr><tr><td>VI</td><td>6</td><td></td></tr><tr><td>VII</td><td>7</td><td></td></tr><tr><td>VIII</td><td>8</td><td></td></tr><tr><td>IIX</td><td></td><td>"8</td></tr><tr><td>VIIII</td><td></td><td>_9</td></tr><tr><td>IX</td><td>9</td><td></td></tr><tr><td>X</td><td>10</td><td></td></tr><tr><td>XI</td><td>11</td><td></td></tr><tr><td>XII</td><td>12</td><td></td></tr><tr><td>XIII</td><td>13</td><td></td></tr><tr><td>XIIV</td><td></td><td>"13</td></tr><tr><td>XIIII</td><td></td><td>_14</td></tr><tr><td>XIV</td><td>14</td><td></td></tr><tr><td>XV</td><td>15</td><td></td></tr><tr><td>XVI</td><td>16</td><td></td></tr><tr><td>XVII</td><td>17</td><td></td></tr><tr><td>XVIII</td><td>18</td><td></td></tr><tr><td>XVIIII</td><td></td><td>18</td></tr><tr><td>XIIX</td><td></td><td>19</td></tr><tr><td>XIX</td><td>19</td><td></td></tr><tr><td>XX</td><td>20</td><td></td></tr><tr><td>XXI</td><td>21</td><td></td></tr><tr><td>XXII</td><td>22</td><td></td></tr><tr><td>XXIII</td><td>23</td><td></td></tr><tr><td>XXIIV</td><td></td><td>"23</td></tr><tr><td>XXIIII</td><td></td><td>_24</td></tr><tr><td>XXIV</td><td>24</td><td></td></tr><tr><td>XXV</td><td>25</td><td></td></tr><tr><td>XXVI</td><td>26</td><td></td></tr><tr><td>XXVII</td><td>27</td><td></td></tr><tr><td>XXVIII</td><td>28</td><td></td></tr><tr><td>XXIVIV</td><td></td><td>"28</td></tr><tr><td><a href='XXIIVV'>XXIIVV</a></td><td></td><td>"28</td></tr><tr><td>XXVIIV</td><td></td><td>"28</td></tr><tr><td>XXIIX</td><td></td><td>"28</td></tr><tr><td>XXVIV</td><td></td><td>"29</td></tr><tr><td>XXIVV</td><td></td><td>"29</td></tr><tr><td>XXVIIII</td><td></td><td>_29</td></tr><tr><td>XXVV</td><td></td><td>"30</td></tr><tr><td>XXIX</td><td>29</td><td></td></tr><tr><td>XXX</td><td>30</td><td></td></tr><tr><td>XXVVI</td><td></td><td>"31</td></tr><tr><td>XXVVII</td><td></td><td>"32</td></tr><tr><td>XXVVIII</td><td></td><td>"33</td></tr><tr><td>XXVVIIII</td><td></td><td>"34</td></tr></table>
@@ -807,7 +937,7 @@ NOR LET THE FOOLS MISTAKE LOVE
 NOTES
   UNDE : Research
   LONG : <p>These {{notes}} are concepts explored in the style of short stories, vaguely related to the {{Neauismetica}}.</p>
-  TYPE : ["text"]
+  TYPE : Text
 NUMBERS OF THE USELESS
   UNDE : Of the useless
   LONG : <p>{{Numbers Of The Useless|Of the useless}} is a script that generates the name of numbers with 50'000 characters and beyond. It uses various extensions of the short word form, and ISQ inspired names, to create the names of numbers which have never previously been catalogued.</p><pre>One Million 6 zerosOne Quindecillion 48  zerosOne Quattuortrigintallion 105  zerosOne Unnonagintallion 276  zerosOne Septenviginticentillion 384  zerosOne Unseptuagintasescentillion 2016  zerosOne Duotrigintatrillinillion 9999  zerosOne Septuagintaquadrillinillion 14313  zerosOne Quattuorquadragintaoctillinillion 24135  zerosOne Octillinillion 25203  zerosOne Treoctogintaquadringentimilligillion 31452  zerosOne Novennonagintaseptingentimilligillion 32400  zerosOne Senonagintamilligillion 40191  zerosOne Quinsexagintamilligillion 49998 zeros</pre><p>Working on this project had me stumble on the possible name of a number with a length of a million zeros - its name could be the {_duotrigintatrillitillion_}.</p>
@@ -819,7 +949,7 @@ OCCULTER
 OF THE USELESS
   UNDE : Language
   LONG : <p>{{Of the useless}} is a {_useless_} linguistic and programming project encompassing various facets of my entry to the {{2015 Nanogenmo|https://github.com/dariusk/NaNoGenMo-2015}}. It is divided into the {{Words Of The Useless|Words}} and {{Numbers Of The Useless|Numbers}}.</p>
-  TYPE : ["text"]
+  TYPE : Text
   LINK
     Project"=>"Page|https://github.com/dariusk/NaNoGenMo-2015/issues/90"}
 ONLINE
@@ -830,7 +960,7 @@ OQUONIE
   UNDE : Mobile
   LONG : <p>{*Oquonie*} is a textless puzzle game for iPad and iPhone created in collaboration with illustrator {{Rekka Bellum|http://kokorobot.ca}} where you must find your way across an intertwined megastructure. You will not be alone, your incarnations will have the help of {_bizaroid_} characters speaking {{an obscure language|Camilare}}.</p><p>Oquonie features an original {{Aliceffekt}} soundtrack that is now available on {{Bandcamp|https://aliceffekt.bandcamp.com/album/short-stories-in-impossible-spaces}}. The game was best described as {_"{{Animal Crossing in a K-Hole|http://killscreendaily.com/articles/oquonie-maze-worth-entering/}}"_}.</p>
   LINK
-    App"=>"Store|https://itunes.apple.com/us/app/oquonie/id819777958", "Download"=>"GITH : https://github.com/hundredrabbits/Oquonie", "\"Mystifying"=>"puzzler.\"|http://148apps.com/reviews/oquonie-review/", "\"The"=>"Fez.\"|http://tabtimes.com/oquonie-review-beautiful-land-confusion-ios-14037/", "\"Make"=>"drawing.\"|http://killscreendaily.com/articles/oquonie-maze-worth-entering/"}
+    ITUN : https://itunes.apple.com/us/app/oquonie/id819777958", "Download"=>"GITH : https://github.com/hundredrabbits/Oquonie", "\"Mystifying"=>"puzzler.\"|http://148apps.com/reviews/oquonie-review/", "\"The"=>"Fez.\"|http://tabtimes.com/oquonie-review-beautiful-land-confusion-ios-14037/", "\"Make"=>"drawing.\"|http://killscreendaily.com/articles/oquonie-maze-worth-entering/"}
 OQUONIE GUIDE
   UNDE : Oquonie
   LONG : <p>I noticed that a few people get stuck after finding the first red pillar. This guide is meant to be a spoiler-free list of tips to help you proceed through {{Oquonie}}. So if you have not yet found the first pillar, this is {*not*} for you, so keep playing, for your only task at the moment would be to find three matching tokens.</p><h3>"That darn shark"</h3><p>You have found a locked red door, {*a red pillar thing*} appeared next to one of the town's gates, you have been turned back into the first character, {{Necomedre|Oquonie universe}}. What do?</p><img src='content/lexicon/oquonie guide.oquonie.guide.png'/><p class='small'>Many doors, across the worlds, were locked. You have gone through the levels without paying any mind to them but now you will need to find each world's {{Red Pillar|Oquonie universe}} to unlock the door. My guess would be that you are in town and do not know where to proceed next. So this is my tip to you.</p><p>The simplest pillar, if you are {{Necomedre|Oquonie universe}}, is found in the second world, {{Nephtaline|Oquonie universe}}. You need 3 {{tokens|Oquonie universe}}, one can be found in the {{Necomedre World|Oquonie universe}}, the second, in town by the {{ramen guy|Oquonie universe}} near the landing, and the third, within the {{Nephtaline World|Oquonie universe}}.</p> <p>Once your have turned into {{Nemedique|Oquonie universe}}, you will be able to open a locked door by the owl, and collect the second pillar.</p><p>Good luck.</p><img src='content/lexicon/oquonie guide.oquonie.pillar.png'/><hr /> 
@@ -841,7 +971,7 @@ ORCHESTRATE THE SIXTH SEASON
   UNDE : Second wave
   LONG : <p>{{Orchestrate The Sixth Season}} contains 7 original tracks, singing the {{Neauismetical|Neauismetica}} tales of the sixth season, or the {_establishment of the Oasis_}. {{Whiinders|Whiinder}} and the likes, raising tents hoping for a glorious end in memory of {{Rlionn}}.</p><p>This album established the sound that {{Aliceffekt}} decided to persue for the {{Second Wave}} releases.</p>
   LINK
-    Listen|http://aliceffekt.bandcamp.com/album/orchestrate-the-sixth-season"=>"Listen|http://aliceffekt.bandcamp.com/album/orchestrate-the-sixth-season"}
+    BAND : http://aliceffekt.bandcamp.com/album/orchestrate-the-sixth-season"=>"BAND : http://aliceffekt.bandcamp.com/album/orchestrate-the-sixth-season"}
 ORIGINAL TRAUMAE
   UNDE : Traumae
   LONG : <p>This is the original and deprecated traumae.</p><table><tbody><tr><td></td><td>K<span>G</span></td><td>X<span class="">Z</span></td><td>S</td></tr><tr><td style="width:10px" class="center">I<br><span>U</span></td><td><p> {_ki _} {*<a href="ki">instance</a>*}</p>	<p> {_kin _} {*<a href="kin">location</a>*}</p>	<p> {_kim _} {*<a href="kim">children</a>*}</p></td><td><p> {_xi _} {*<a href="xi">psychology</a>*}</p>	<p> {_xin _} {*<a href="xin">physiognomy</a>*}</p>	<p> {_xim _} {*<a href="xim">physicality</a>*}</p></td><td><p> {_si _} {*<a href="si">complexity</a>*}</p>	<p> {_sin _} {*<a href="sin">organicity</a>*}</p>	<p> {_sim _} {*<a href="sim">syntheticity</a>*}</p></td></tr><tr><td style="width:10px" class="center">A<br><span>E</span></td><td><p> {_ka _} {*<a href="ka">inwardness</a>*}</p>	<p> {_kan _} {*<a href="kan">stablility</a>*}</p>	<p> {_kam _} {*<a href="kam">outwardness</a>*}</p></td><td><p> {_xa _} {*<a href="xa">ligature</a>*}</p>	<p> {_xan _} {*<a href="xan">--</a>*}</p>	<p> {_xam _} {*<a href="xam">--</a>*}</p></td><td><p> {_sa _} {*<a href="sa">multiplicity</a>*}</p>	<p> {_san _} {*<a href="san">uniqueness</a>*}</p>	<p> {_sam _} {*<a href="sam">noneness</a>*}</p></td></tr><tr><td style="width:10px">O</td><td><p> {_ko _} {*<a href="ko">impossibility</a>*}</p>	<p> {_kon _} {*<a href="kon">possibility</a>*}</p>	<p> {_kom _} {*<a href="kom">specificity</a>*}</p></td><td><p> {_xo _} {*<a href="xo">positivity</a>*}</p>	<p> {_xon _} {*<a href="xon">unknown</a>*}</p>	<p> {_xom _} {*<a href="xom">negativity</a>*}</p></td><td><p> {_so _} {*<a href="so">observation</a>*}</p>	<p> {_son _} {*<a href="son">existance</a>*}</p>	<p> {_som _} {*<a href="som">interaction</a>*}</p></td></tr></tbody></table>
@@ -863,7 +993,7 @@ PARADISE
 PARADISE GUIDE
   UNDE : Paradise
   LONG : <p>This {{Paradise guide}} develops on various topics that are explained briefly within {{Paradise}} in hope that it can reveal some new possible constructions to seasoned gods and inspire new ghosts to join the creation.</p>
-  TYPE : ["text"]
+  TYPE : Text
 PEDESTRIAN PARADISE
   UNDE : First wave
 PHOTOGRAPH
@@ -927,7 +1057,7 @@ RAFINOGRADE
   UNDE : Mobile
   LONG : <p>{{Rafinograde}} is a minimalist sketching app generating procedural and animated strokes, or simply, a distraction.</p>
   LINK
-    App"=>"Store|https://itunes.apple.com/us/app/rafinograde/id951781579", "Download"=>"GITH : https://github.com/Echorridoors/Rafinograde"}
+    ITUN : https://itunes.apple.com/us/app/rafinograde/id951781579", "Download"=>"GITH : https://github.com/Echorridoors/Rafinograde"}
 RAIN BOW
   UNDE : misc
   LONG : <p><strong>RAIN+BOW</strong> is game I made with <a href="http://theinstructionlimit.com/raincrossbow">Renaud Bedard</a> as <em><a href="http://wiki.xxiivv.com/Collegiennes" title="Les Collégiennes " homepage""="">Les Collégiennes</a></em> during <a href="http://www.tojam.ca/history/2011.asp" title="TOJam 6 Homepage">TOJam Sixty Times</a> in 2011, and lay on the backburner for many years until it was resurrected for a showing at <a href="http://www.gamercamp.ca/news/share-your-tojam-memories-with-tojamxoxo/" title="Gamercamp TOJam Retrospective">Gamercamp</a> in 2013. We finally took the time to add polishing touches and add gamepad support, so I’m happy to release this version as the final public build!</p>
@@ -955,7 +1085,7 @@ RECEIPE
   TYPE : Diary
 REFORMS
   UNDE : Language
-  TYPE : ["text"]
+  TYPE : Text
 REGIONSTEAM SNOWDAYS
   UNDE : First wave
 REINGLISH
@@ -1193,7 +1323,7 @@ VETETRANDES LETTRES PERDUES
   UNDE : Second wave
   LONG : <p>{{Vetetrandes Lettres Perdues}}'s songs sings of the {{first ages|Neauismetica}} of {{Dinaisth}} on the island of {{Vetetrandes}}. While the album begins in Vetetrandes, it moves to the shores of {{Dilitrielth}} and turns its attention across {{Kanikule}} and toward the {{Es}}'Gulf of {{Eaurison}}.</p><p>The album includes 4 edited tracks from the {{Es Gulf Sunflowers}} release. The {_Ver'Tale_} extension is a hint to a location of {{Whiinders}}, close to the visited {{Vert Kirlian Theatre}}. </p><p>The album begins with a track about {{Yajnev}}, the composition is based on his trip near the white trees of the {{Oasis|Laeisth}} and the {{Children of Brambles}}.</p><p>The album is part of {{Aliceffekt}}'s {{Second Wave}} albums.</p>
   LINK
-    Listen|http://aliceffekt.bandcamp.com/album/vetetrandes-lettres-perdues"=>"Listen|http://aliceffekt.bandcamp.com/album/vetetrandes-lettres-perdues"}
+    BAND : http://aliceffekt.bandcamp.com/album/vetetrandes-lettres-perdues"=>"BAND : http://aliceffekt.bandcamp.com/album/vetetrandes-lettres-perdues"}
 VICTORIAN KNUCKLE
   UNDE : Physical
   LONG : <p>This is a DIY weapon the can be 3d Printed. This print was mentioned on <a href='http://www.3dprinterworld.com/article/you-cant-unring-bell/page/0/1'>an article</a> about 3d printable weapons.</p>
@@ -1207,7 +1337,7 @@ VOCAVULARIST
   UNDE : Mobile
   LONG : <p>{{Vocavularist}}, is a Japanese, Russian & Korean vocabulary review program for iOS. It contains the 600 first kanji, 600 simple Russian words and 800 simple korean expressions.</p>
   LINK
-    App"=>"Store|https://itunes.apple.com/us/app/nijuniju/id686266543?l=ja&ls=1&mt=8", "Open"=>"GITH : https://github.com/neauoire/vocavularist"}
+    ITUN : https://itunes.apple.com/us/app/nijuniju/id686266543?l=ja&ls=1&mt=8", "Open"=>"GITH : https://github.com/neauoire/vocavularist"}
 VOLKENESSEN
   UNDE : Desktop
   LONG : <p>It's a two-player, {{physics-based 2D fighting game|http://www.youtube.com/watch?feature=player_embedded&v=VheiqV4AuRE}}. Each player starts with 9 random attached items on his back, and the goal is to strip the other player of his items by beating the crap out of him. When items are removed, they clutter up the playing area, making it even more cahotic and hilarious. The washing machine and sink in the background can also fall and bounce around!</p><iframe width="560" height="315" src="//www.youtube.com/embed/VheiqV4AuRE" frameborder="0" allowfullscreen></iframe>

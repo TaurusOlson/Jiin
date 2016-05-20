@@ -662,7 +662,6 @@
       TASK : Update
       CODE : 35
       NAME : 4.1
-      TYPE : Update
     06
       TERM : Hundred rabbits
       TASK : Branding
@@ -734,8 +733,7 @@
       TASK : Update
       CODE : 34
       NAME : 3.8
-      TYPE : Update
-    20
+20
       TERM : Keyboard
       TASK : Photography
       CODE : 29
@@ -755,8 +753,7 @@
       TASK : Update
       CODE : 34
       NAME : 3.7
-      TYPE : Update
-    16
+16
       TERM : Grot
       TASK : Mixing
       CODE : 19
@@ -765,8 +762,7 @@
       TASK : Update
       CODE : 27
       NAME : 1.2
-      TYPE : Update
-    14
+14
       TERM : Hundred rabbits
       TASK : Showcase
       CODE : 29
@@ -926,8 +922,7 @@
       TASK : Update
       CODE : 34
       NAME : 1.1
-      TYPE : Update
-    08
+08
       TERM : Verreciel
       TASK : Development
       CODE : 36
@@ -944,8 +939,7 @@
       TASK : Update
       CODE : 35
       NAME : 0.1
-      TYPE : Update
-    04
+04
       TERM : Oscean
       TASK : Design
       CODE : 25
@@ -959,8 +953,7 @@
       TASK : Update
       CODE : 26
       NAME : 1.6
-      TYPE : Update
-    01
+01
       TERM : Oscean
       TASK : Design
       CODE : 26
@@ -1166,8 +1159,7 @@
       TASK : Update
       CODE : 34
       NAME : 4.1
-      TYPE : Update
-    20
+20
       TERM : Kaleidoscope
       TASK : Illustration
       CODE : 27
@@ -1178,8 +1170,7 @@
       TASK : Update
       CODE : 35
       NAME : 0.1
-      TYPE : Update
-    18
+18
       TERM : Sailing
       TASK : Travel
       CODE : 49
@@ -1245,14 +1236,12 @@
       TASK : Update
       CODE : 26
       NAME : 1.5
-      TYPE : Update
-    07
+07
       TERM : Eakout
       TASK : Update
       CODE : 37
       NAME : 1.0
-      TYPE : Update
-    06
+06
       TERM : Eakout
       TASK : Release
       CODE : 37
@@ -1276,14 +1265,12 @@
       TASK : Update
       CODE : 36
       NAME : 0.1
-      TYPE : Update
-    02
+02
       TERM : Paradise
       TASK : Update
       CODE : 36
       NAME : 1.0
-      TYPE : Update
-    01
+01
       TERM : Infrared
       TASK : Photography
       CODE : 26
@@ -1296,14 +1283,12 @@
       TASK : Update
       CODE : 36
       NAME : 4.0
-      TYPE : Update
-    30
+30
       TERM : Donsol
       TASK : Update
       CODE : 25
       NAME : 1.5
-      TYPE : Update
-    29
+29
       TERM : Trapezoid
       TASK : Update
       CODE : 14
@@ -1424,8 +1409,7 @@
       TASK : Update
       CODE : 31
       NAME : 3.4
-      TYPE : Update
-    02
+02
       TERM : Trapezoid
       TASK : Composition
       CODE : 19
@@ -1434,7 +1418,6 @@
       TASK : Update
       CODE : 35
       NAME : 0.1
-      TYPE : Update
   06
     30
       TERM : Sailboat
@@ -1465,8 +1448,7 @@
       TASK : Update
       CODE : 35
       NAME : 3.9
-      TYPE : Update
-    23
+23
       TERM : Trapezoid
       TASK : Composition
       CODE : 19
@@ -1527,8 +1509,7 @@
       TASK : Update
       CODE : 26
       NAME : 1.3
-      TYPE : Update
-    10
+10
       TERM : Little ruby riding hood
       TASK : Narrative
       CODE : 36
@@ -1547,8 +1528,7 @@
       TASK : Update
       CODE : 31
       NAME : 1.4
-      TYPE : Update
-    06
+06
       TERM : Horaire
       TASK : Development
       CODE : 36
@@ -1598,32 +1578,27 @@
       TASK : Update
       CODE : 32
       NAME : 2.3
-      TYPE : Update
-    25
+25
       TERM : Hiversaires
       TASK : Update
       CODE : 36
       NAME : 3.3
-      TYPE : Update
-    24
+24
       TERM : Donsol
       TASK : Update
       CODE : 36
       NAME : 1.4
-      TYPE : Update
-    23
+23
       TERM : Dew
       TASK : Update
       CODE : 37
       NAME : 1.4
-      TYPE : Update
-    22
+22
       TERM : Vocavularist
       TASK : Update
       CODE : 37
       NAME : 2.4
-      TYPE : Update
-    21
+21
       TERM : Eschatolor
       TASK : Release
       CODE : 19
@@ -1634,20 +1609,17 @@
       TASK : Update
       CODE : 32
       NAME : 1.4
-      TYPE : Update
-    19
+19
       TERM : Alphavetist
       TASK : Update
       CODE : 32
       NAME : 3.6
-      TYPE : Update
-    18
+18
       TERM : Ledoliel
       TASK : Update
       CODE : 32
       NAME : 2.3
-      TYPE : Update
-    17
+17
       TERM : Netherlands
       TASK : Travel
       CODE : -49
@@ -1732,14 +1704,12 @@
       TASK : Update
       CODE : 35
       NAME : 1.4
-      TYPE : Update
-    03
+03
       TERM : Alphavetist
       TASK : Update
       CODE : 35
       NAME : 3.5
-      TYPE : Update
-    02
+02
       TERM : Astratas
       TASK : Illustration
       CODE : 27
@@ -1861,8 +1831,7 @@
       TASK : Update
       CODE : 36
       NAME : 1.3
-      TYPE : Update
-    04
+04
       TERM : Lyken
       TASK : Development
       CODE : 38
@@ -1947,8 +1916,7 @@
       TASK : Update
       CODE : 25
       NAME : 3.4
-      TYPE : Update
-    15
+15
       TERM : Neon hermetism
       TASK : Narrative
       CODE : 36
@@ -2002,8 +1970,7 @@
       TASK : Update
       CODE : 35
       NAME : 3.3
-      TYPE : Update
-    05
+05
       TERM : Donsol
       TASK : Design
       CODE : 35
@@ -2109,8 +2076,7 @@
       TASK : Update
       CODE : 34
       NAME : 2.2
-      TYPE : Update
-    11
+11
       TERM : Eschatolor
       TASK : Composition
       CODE : 18
@@ -2182,15 +2148,13 @@
       TASK : Update
       CODE : 35
       NAME : 3.2
-      TYPE : Update
-      FLAG : Featured
+  FLAG : Featured
     25
       TERM : Paradise
       TASK : Update
       CODE : 35
       NAME : 0.9
-      TYPE : Update
-      FLAG : Featured
+  FLAG : Featured
     24
       TERM : Alphavetist
       TASK : Update
@@ -2203,14 +2167,12 @@
       TASK : Update
       CODE : 33
       NAME : 1.3
-      TYPE : Update
-    22
+22
       TERM : Bifurcan
       TASK : Update
       CODE : 33
       NAME : 1.3
-      TYPE : Update
-    21
+21
       TERM : Ledoliel
       TASK : Update
       CODE : 37
@@ -2233,20 +2195,17 @@
       TASK : Update
       CODE : 35
       NAME : 3.2
-      TYPE : Update
-    17
+17
       TERM : Noirca
       TASK : Update
       CODE : 35
       NAME : 4.0
-      TYPE : Update
-    16
+16
       TERM : Dew
       TASK : Update
       CODE : 35
       NAME : 1.1
-      TEXT : <ul><li>Fixed a bug where the lines would keep increasing after touch release.</li></ul>
-    15
+15
       TERM : Ramiel
       TASK : Release
       CODE : 18
@@ -2270,8 +2229,7 @@
       TASK : Update
       CODE : 35
       NAME : 1.2
-      TYPE : Update
-    10
+10
       TERM : Miniscopie
       TASK : Release
       CODE : 18
@@ -2310,13 +2268,11 @@
       TASK : Update
       CODE : 35
       NAME : 3.5
-      TEXT : <ul><li>Added Flash Mode to iOS8.</li><li>Improved stability on iPhone 4S.</li></ul>
     01
       TERM : Entaloneralie
       TASK : Update
       CODE : 35
       NAME : 2.1
-      TEXT : <ul><li>Added Hour Mode</li><li>Added Day Mode</li><li>Added Sounds</li><li>Updated Icon</li></ul> 
 2014
   12
     31
@@ -2383,7 +2339,6 @@
       TASK : Update
       CODE : 37
       NAME : Automate
-      TEXT : <p>This update includes the ability to create automated vessels. The automated vessel will fire its own program every X minutes, per dictated by the automate command. The new Call command allows you to control vessels remotely.</p><ul><li>Circular Shaped Universes are now called Loops.</li><li><b>Automate</b> command, <i>usage:</i> automate 5 (Will run its program every 5 minutes)</li><li><b>Call</b> command, <i>usage:</i> call 1234 (Will run its own program)</li></ul>
     17
       TERM : Dew
       TASK : Release
@@ -2422,7 +2377,6 @@
       TASK : Update
       CODE : 35
       NAME : 3.4
-      TEXT : <ul><li>Removed manual mode, added manual ISO toggle instead.</li><li>Added sharpening.</li><li>Improved Noirca filter.</li></ul>
     10
       TERM : Supervisitor
       TASK : Live
@@ -2571,7 +2525,6 @@
       TASK : Update
       CODE : 35
       NAME : The Negative Void
-      TEXT : <ul><li>Added a ticker displaying live activity.</li><li>Added linebreaks, capitals and parentheses to notes.</li><li>Deprecated the move command, use <i>note</i> instead.</li><li>Fixed a security issue that allowed users to warp into locked vessels.</li><li>Unlocked the negative nullspace, accessible with <i>warp to n100</i>.</li><li>Cycled for 3000 new vessels ids.</li><li>Changed the wildcard format, {{read more|Paradise manual}}.</li><li>Redesigned the sidebar.</li><li>Various fixes.</li></ul>
     08
       TERM : Paradise
       TASK : Update
@@ -2690,7 +2643,6 @@
       TASK : Update
       CODE : 35
       NAME : 3.2
-      TEXT : <ul><li>Long press to activate Manual Mode.</li><li>Vertical touch position changes focus distance.</li><li>Horizontal touch position changes exposure value.</li></ul>
     14
       TERM : Modernista
       TASK : Design
@@ -2791,7 +2743,6 @@
       TASK : Update
       CODE : 35
       NAME : 3.1
-      TEXT : <ul><li>Long press to activate Manual Mode.</li><li>Manual Focus(iOS8)</li><li>Manual Exposure(iOS8)</li><li>Combined filters into a single adaptive filter.</li><li>Various improvements for iOS8.</li></ul>
     24
       TERM : Verreciel
       TASK : Prototype
@@ -2805,7 +2756,6 @@
       TASK : Update
       CODE : 35
       NAME : 3.0
-      TEXT : <ul><li>Moved the interfaces at the bottom, iPhone 6</li><li>Display Lens Position</li><li>Display ISO</li></ul>
     21
       TERM : Ten axitecture
       CODE : 19
@@ -2850,7 +2800,6 @@
       TASK : Update
       CODE : 35
       NAME : Inner Haven
-      TEXT : <ul><li>Redesigned the Inner Haven Flow</li><li>Optimised the blue drawer</li></ul> 
     14
       TERM : Japan
       CODE : 40
@@ -2870,7 +2819,6 @@
       TASK : Update
       CODE : 35
       NAME : Triste Le Roy
-      TEXT : <ul><li>Added autocomplete</li><li>New action: paint, allows for vessel colour change</li><li>New program wildcard: {{random number|Six sided dice}}</li><li>Pressing on the universe name, will warp you to its waypoint.</li><li>Improved tooltips</li><li>Improved sidebar layouts</li><li>Fixed an issue with the unlock command</li><li>Minor Design tweeks</li></ul> 
     09
       TERM : Ten axitecture
       TASK : Composition
@@ -2984,7 +2932,7 @@
       TASK : Illustration
       CODE : 26
       NAME : Warpnest of Polygonoscopy
-      TEXT : <p>Warpnest of the {{Polygonoscopal|Polygonoscopy}} Empires.</p>
+      TEXT : Nest of the {{Polygonoscopal|Polygonoscopy}} Echoes.
     19
       TERM : Kaleidoscope
       TASK : Illustration
@@ -3017,7 +2965,6 @@
       TASK : Update
       CODE : 35
       NAME : 2.0
-      TEXT : <ul><li>Added a new filter, "error/adamant".</li><li>Updated the glyph to the new design.</li><li>Updated the noir filter for a darker, more washed out filter effect.</li><li>Added analytics.</li><li>The photo count now displays.</li><li>Minor fixes.</li></ul>
     12
       TERM : Kaleidoscope
       TASK : Illustration
@@ -3028,7 +2975,6 @@
       TERM : Advent v
       TASK : Update
       CODE : 35
-      TEXT : <ul><li>Replaced the Underworld by the Necropolis.</li><li>Balanced the Castle, Tower & Fortreess.</li><li>The Camp, Crossroads and Portal now open on to 3 location options.</li><li>Fixed typographic mistakes.</li><li>Improved the grammar for death messages.</li><li>Added new passive messages.</li></ul>
     10
       TERM : Kaleidoscope
       TASK : Illustration
@@ -3039,7 +2985,6 @@
       TERM : Advent v
       TASK : Update
       CODE : 35
-      TEXT : <ul><li>Added new locations for a total of 21 locations.</li><li>Added new items for a total of 22 items.</li><li>Improved stability.</li><li>Quest hints are revealed in passive occasional tweets.</li><li>The story is now divided in 3 acts.</li><li>Improved the naratives.</li></ul>
     08
       TERM : Dew
       TASK : Prototype
@@ -3050,7 +2995,6 @@
       TERM : Advent v
       TASK : Update
       CODE : 35
-      TEXT : <ul><li>Tweets are now posted as replies.</li><li>Damages are displayed as "lost 3HP", instead of "lost -3HP".</li><li>Mountains are now the hills, monoliths are now the spire.</li><li>Rephrased the battle results where the HP lost was 0.</li></ul>
     06
       TERM : Advent v
       TASK : Branding
@@ -3070,7 +3014,6 @@
       TASK : Update
       CODE : 35
       NAME : Quiet Hell
-      TEXT : <ul class='bullet'><li>Removed the local dialogs for global chat.</li><li>Improved the input validation</li><li>Added analytics</li></ul>
     02
       TERM : Advent v
       TASK : Development
@@ -3103,13 +3046,11 @@
       TASK : Update
       CODE : 38
       NAME : Ten Axis
-      TEXT : <ul class='bullet'><li>Added error reporting.</li><li>Fixed a bug in the {{Ghost Tutorial|http://paradise.xxiivv.com/3}}</li><li>Fixed a bug with Programming</li></ul>
     26
       TERM : Paradise
       TASK : Update
       CODE : 31
       NAME : Inner Haven
-      TEXT : <ul class='bullet'><li>Created a self evaluating system for building the documentation.</li><li>Ported the commands documentation onto the wiki.</li><li>Added commands alternatives.</li><li>Minor UI Tweaks.</li></ul>
     25
       TERM : 
       CODE : 40
@@ -3170,31 +3111,26 @@
       TASK : Update
       CODE : 35
       NAME : Analytics
-      TEXT : <ul class='bullet'><li>Added analytics</li></ul>
     10
       TERM : Oquonie
       TASK : Update
       CODE : 35
       NAME : 2.2
-      TEXT : <ul class='bullet'><li>Added analytics</li></ul>
     09
       TERM : Vocavularist
       TASK : Update
       CODE : 35
       NAME : 2.2
-      TEXT : <ul class='bullet'><li>Added analytics</li></ul>
     08
       TERM : Alphavetist
       TASK : Update
       CODE : 35
       NAME : 2.2
-      TEXT : <ul class='bullet'><li>Added analytics</li></ul>
     07
       TERM : Alphavetist
       TASK : Update
       CODE : 31
       NAME : 2.1
-      TEXT : <ul class='bullet'><li>Replaced hu with fu.</li></ul>
     06
       TERM : Paradise
       TASK : Development
@@ -3221,7 +3157,6 @@
       TASK : Update
       CODE : 29
       NAME : 1.1
-      TEXT : <ul class='bullet'><li>Added 6 watchface tiles.</li><li>Fixed an issue with the audio</li></ul>
   06
     30
       TERM : Ledoliel
@@ -3373,7 +3308,7 @@
       TASK : Illustration
       CODE : 29
       NAME : Perce
-      TEXT : <p>One of the more memorable shores of {{Serventines}}; a smaller hill had its core eaten, leaving but a hollow mountain or a low bridge.</p>
+      TEXT : One of the more memorable shores of {{Serventines}}, a smaller hill had its core eaten.
     27
       TERM : Serventines
       TASK : Illustration
@@ -3451,7 +3386,7 @@
       TASK : Illustration
       CODE : 29
       NAME : Hermetudes
-      TEXT : <p>Destruct to find {{Ilaedre}}'s castle collapsed, yet again, we sail further with the hopes of finding the {{Kaleidoscope}}.</p>
+      TEXT : We sail further with hopes of finding the {{Kaleidoscope}}
     12
       TERM : Brane
       TASK : Illustration
@@ -3543,7 +3478,6 @@
       TERM : Oscean
       TASK : Update
       CODE : 35
-      TEXT : <ul class='bullet'><li>Added tags on lexicon pages.</li><li>Redesigned the {{Diary}}</li><li>Added the concept of portals, see {{Neauismetica}}.</li></ul>
     20
       TERM : Oscean
       TASK : Refactoring
@@ -3835,7 +3769,6 @@
       TASK : Narrative
       CODE : 35
       NAME : Month Names
-      TEXT : <p>I woke this morning, annoyed, with one of these annoyances, possibly partly annoying only for it has been there for a long time but only waited until now to reveal itself. Month names.</p><p>I think what sparked this diary was my transcription of Japanese months into english months. Where Japanese will simply write 一月、二月、三月, we write January, February, March. God names, okay, cheesy, catchy, sure. Then you get to september, and may the god’s name ran out, and it suddenly turns to a counting system. Duosystemical cute, weird, sure. Apparently, something went awry and we lost count and october, octo- for 8, is the 10th month, deca. This is what does it for me.</p><table><tr><th>No.</th><th>English</th><th>Roman</th><th>Latin Opt.</th><th>Greek Opt.</th></tr><tr><td>1</td><td>January</td><td>Martius</td><td>Unomber</td><td><b>Enasember</b></td></tr><tr><td>2</td><td>February</td><td> Aprilis </td><td>Duocember</td><td>Dutecember</td></tr><tr><td>3</td><td>March</td><td> Maius </td><td>Triamber</td><td>Triamber</td></tr><tr><td>4</td><td>April</td><td> Iunius </td><td>Quattrember</td><td>Tetramber</td></tr><tr><td>5</td><td>May</td><td> Quintilis </td><td>Quintember</td><td>Pentember</td></tr><tr><td>6</td><td>June</td><td> Sextilis </td><td>Sexember</td><td><b>Hexember</b></td></tr><tr><td>7</td><td>July</td><td> September </td><td><b>September</b></td><td>Heptember</td></tr><tr><td>8</td><td>August</td><td> October </td><td><b>October</b></td><td>October</td></tr><tr><td>9</td><td>September</td><td> November </td><td><b>November</b></td><td>Enneamber</td></tr><tr><td>10</td><td>October</td><td> December </td><td><b>December</b></td><td>December</td></tr><tr><td>11</td><td>November</td><td></td><td>Undecember</td><td><b>Endecember</b></td></tr><tr><td>12</td><td>December</td><td></td><td>Duodecember</td><td><b>Dodecember</b></td></tr></table><p class='small'>Above are my greek and latin suggestions of months. I omitted my god inspired months for they are just arbitrary, although, Aphril, or <i> April</i>, still holds a place in my heart. Highlit are my favourite ones, but as you can see, I could not pick ones for the earlier months, I still feel that february should be Ducember, March Tricember, April Quatrember and May Pentember.</p>
     17
       TERM : Oscean
       TASK : Design
@@ -4303,7 +4236,6 @@
       TASK : Release
       CODE : 29
       NAME : Release
-      TEXT : <p>I created a new application inspired by a Tokyo Flash watch. I gave myself a 30 minutes develpment challenge and carried it through with a new app as reward.</p>
     01
       TERM : Paradise
       TASK : Development
@@ -4479,7 +4411,6 @@
       TASK : Live
       CODE : 19
       NAME : Indie Dance Party - Tokyo, 茶箱
-      TEXT : <p>Performed my {{Telekinetic}} album for the first time.</p>
     21
       TERM : Telekinetic
       TASK : Composition
@@ -4912,7 +4843,6 @@
       TASK : Live
       CODE : 19
       NAME : KIDDING vol.6 - Tokyo, Aoyama HACHI
-      TEXT : <p>Alice / Aliceffekt (16 dimensional) / Bun / Diyz（Galaxxxy） / DJ Family / Hally（VORC） / Hara / JaQwa（5gene） / DJ KAYA / Kunio / Licaxxx / Malo / Minikomi（Metrodub） / Momose / Morikawa（Nakayoshi Group） / Quarta 330（Hyperdub） / Rabamba / Silvanian Families（Maltine Records） / Takolutex / Taki06R / tentosen（即興） / Tsutomu Ono（A/M） / Utabi（19頭身） / And more.</p>
     13
       TERM : Dei dain
       TASK : Composition
@@ -4922,7 +4852,6 @@
       TASK : Composition
       CODE : 19
       NAME : Dei Dain Release
-      TEXT : <p>Releasing a new {{Aliceffekt}} album on june 14th at the {{KIDDING VOL.6|http://kddng.tk}} party.</p>
     11
       TERM : Dei dain
       TASK : Composition
@@ -5016,7 +4945,6 @@
       TERM : Remix
       CODE : 19
       NAME : Comaduster - Winter Eyes Remix
-      TEXT : <p>Typing</p>
     20
       TERM : Oscean
       TASK : Development
@@ -5893,7 +5821,7 @@
       TASK : Development
       CODE : 38
       NAME : For the Horsemen of the Void
-      TEXT : <p>The air cracked and, from nullspace, the Library of Sand emerged. The old dusts fell back into the Void whilst erupted new foundations finally hardening into a halt. With the tide, had gone the rubbles..</p>
+      TEXT : The air cracked and, from nullspace, the Library of Sand emerged.
     29
       TERM : Paradise
       TASK : Development
@@ -5923,7 +5851,6 @@
       TERM : The ehrivevnv studies
       TASK : Narrative
       CODE : 11
-      TEXT : <p>I am very happy with the turnout of the {{Blip Tokyo}} show and the move to Tokyo. </p>
     22
       TERM : Misc
       CODE : 40
@@ -6236,7 +6163,6 @@
       TERM : Travel
       TASK : Travel
       CODE : -49
-      TEXT : <p>Jessica and I are moving to Koenji, Tokyo as of October 17th 2012.</p>
     05
       TERM : Oscean
       TASK : Development
@@ -6263,7 +6189,6 @@
       TERM : Paradise
       TASK : Development
       CODE : 35
-      TEXT : <p>I have patched one of my favourite project today, updated {{Paradise}} to v2r.</p>
     30
       TERM : Paradise
       TASK : Development
@@ -6303,7 +6228,6 @@
       TERM : Infrared
       TASK : Photography
       CODE : 25
-      TEXT : <p>Sent my Nikon D3000 to {{Lifepixel|http://www.lifepixel.com/}} to have the 830nm IR filter installed and the stock sensor replaced. I should be able to stumble into infrared photography shortly. </p>
     20
       TERM : 
       CODE : 40
@@ -6387,7 +6311,6 @@
       TASK : Refactoring
       CODE : 40
       NAME : Pico Battle Update
-      TEXT : <p>Pico Battle was patched, fixing a few issues.</p>
   06
     30
       TERM : 
@@ -7468,11 +7391,6 @@
       TERM : Artwork
       CODE : 25
       NAME : Vj Session 1
-      TEXT : <p>For last night's {{Toy Company|http://toycompany.cc}}, I created a vj few loops to support the acts. <br />
-
-And so here are a few stills and a video edited to the Wish Granted track
-on my {{Accursed be it to the aeons! Hell.}} album. This is my first time posting animations on here, I think I will be posting more of these soon. Thanks to everyone who came to the show last night, it was a triumph.
-</p>
     22
       TERM : Oscean
       TASK : Development
@@ -7521,7 +7439,6 @@ on my {{Accursed be it to the aeons! Hell.}} album. This is my first time postin
       TERM : Misc
       CODE : 40
       NAME : Quietly
-      TEXT : <p>来月のNANOWRIMOに参加したい</p>
     09
       TERM : 
       CODE : 40
@@ -8023,11 +7940,6 @@ on my {{Accursed be it to the aeons! Hell.}} album. This is my first time postin
       TERM : Misc
       CODE : 40
       NAME : June : New Home
-      TEXT : <p>After Jess's sister's wedding, Kinetik, the Toronto Game Jam and the commotion of moving to a new place, I finally got to enjoy some sun coming through our new living room window. </p>
-
-<p>Here are some pictures of our apartment. Esse and I were looking for something with a very loft feel to it, with lot of trees and close to the public transports of Montreal. After a lot of horrible apartment, we finally visited this jewel. </p>
-
-<p>The building is called Shady Noon and its 111 years old.</p>
     04
       TERM : 
       CODE : 40
@@ -9096,19 +9008,6 @@ on my {{Accursed be it to the aeons! Hell.}} album. This is my first time postin
       TERM : Misc
       CODE : 35
       NAME : Fictional TEDTalk
-      TEXT : <p>Inspired by the {{TEDtalk|http://ted.com}} conferences, I have been pondering on what I would talk about if I were to speak at TED, and tempted to actually write it down at one point. So I have written an introduction to a longer fictional speech about my researches on limits of languages. Enjoy</p>
-
-<p>"My name is Devine Lu Linvega and I am here to talk about my researches on the learning and teaching and of imagination. I will try to explain what pushed me to create a language and to explain how common languages limits our mind's eye. </p>
-
-<p>As a child, I remember the silence in my head as I don't recall having a voice there, I would go about life normally, although it didn't occur to me at the time that something was missing. I solved basic math problems with spinning die in my head, and used a mental colour coded system for solving elementary grammar lessons. Music was this almost synesthetic tunnel that would allow me to remember the patterns in songs and memorize them. I grew older and spoken walls were erected to keep my thoughts from wandering, adapting to an ever complexifying life. As the french voice tied my thoughts together, it also funnelled the ideas and streamed the words one letter a time - parsing the floating cloud into an ordered text.</p>
-
-<p>If that does not sound familiar, I will try to put you in context with an example. If I were to suggest you to visualize "a floating blue kite", before you heard the term "kite", your mind did not, in most cases, projected anything. But if I had said started by the "kite that is blue and floating", this idea would have been present in your mind from the beginning and sharpened to the point where it is quite similar to the end result of the first example. If imagination is the advocate of misconception, triggered when a blank needs to be filled, it seem to only be active in the second suggested sentence pattern.</p>
-
-<p>So I began the creation of Traumae with this simple rule, it needs to start generating mental images from the first letter, and sharpen this picture throughout the word or the sentence. This new language is working so the way you express something reflects your knowledge of it. If you had to say something about the electronic aspect of the word robot, where the first part of robot(ro) meant electronic and the second half(bot) meant automaton, you would refer to the robot simply as ro. Like a mental picture of something, the more you know about it the more content will this image hold as it flashes in your mind.</p>
-
-<p>A logical goal for a language is to project a clear idea in another person's mind, that would be as similar as possible to your original thought. That said, it should require no imagination process, as there should be no blanks to fill. So a good language appeared to me at the time, as a system that would rely heavily on memory and leave imagination aside, a system that would teach about a construct throughout it's name.</p>
-
-<p>I have been refining the Traumae for the past few years to serve this purpose, of projecting concepts in a way that would allow for a wider mental sight."</p>
     12
       TERM : Vambits
       TASK : Design
@@ -9156,9 +9055,6 @@ on my {{Accursed be it to the aeons! Hell.}} album. This is my first time postin
       TERM : Collegiennes
       CODE : 29
       NAME : Bivouac Urbain
-      TEXT : On August 8th, {{Zaknafein|http://theinstructionlimit.com/}} and I, handed in our 36 hours game jam entry at Bivouac Urbain. Almost a month later, we're making it available for download. Since then, we patched a few synch glitch and included some sort of minimal UI. <b>The Cloud is a Lie</b>, is a co-op multiplayer UDP tower defence meets Tron game. It allows up to 4 players to join forces to keep the blue bombs out of the their home base by building walls and detonating the incessantly coming waves of bombs.<br /><br />
-
-You can download the game for free in the Games directory on XXIIVV. It uses W,A,S & D keys to move, SPACE to detonate bombs, M to mute the music and ESC to close it. If there are no games yet, you will initiate one, otherwise you will join the ongoing area automatically. The longer you survive without a bomb reaching your Home, the more powerful your headset becomes to eventually be able to target 3 bombs at once. The background music is a Aliceffekt remix of a Mister Valaire song. <i>We hope you will enjoy the game as much as we did.</i>
   08
     31
       TERM : Receipe
@@ -9534,7 +9430,6 @@ You can download the game for free in the Games directory on XXIIVV. It uses W,A
       TERM : Japan
       CODE : -40
       NAME : 日本
-      TEXT : <p> It has been raining for the past 48 hours ! So we stayed inside for the past 2 days working, listening to music, gaming, drawing and drinking. マクさん(Tokyoluv) came back from Korea yesterday and we wasted the evening drinking and watching Tokyo Gore Police in the kitchen. There is an anime convention in お台場(Odaiba) tomorrow, so hopefully some good shots will come out of this. There was a COSMO-SHIKI show tonight but I stayed inside instead and watched Lost. Courage drowned between 新宿駅 and さくらHouse..</p>
     24
       TERM : Ann yozora saint
       TASK : Release
@@ -9545,27 +9440,22 @@ You can download the game for free in the Games directory on XXIIVV. It uses W,A
       TERM : Japan
       CODE : -40
       NAME : 日本 Day 87
-      TEXT : <p>Seriously, what more could I have asked for. I woke up to Nutella toasts and strawberries in the bed. Jessica had prepared me a wonderful breakfast and got me GOD EATER for psp. We wasted time inside for a while and eventually pushed a sandwich down as we walked to the venue to see a FLOPPY show. We were surprised that the venue was packed! and even tho it was sold out [!!!], they let us in. We both wanted to see FLOPPY for so long, it is definitely one of our favourite chiptune band in the world. We just came back from 高円寺(Koenji) station and stopped for sushi you-know-where. We’re now going to drink sake until we pass out. : )</p>
     21
       TERM : Japan
       CODE : -40
       NAME : 日本 Day 86
-      TEXT : <p>We’re getting to know Tokyo pretty well now, so we thought we would venture to another city for once. We decided to visit Yokohama (横浜)! After many train transfers we arrived at Kannai station (関内駅) and walked over to the port side of town. We were greeted by street performers, had some ice cream and rollerbladed for most of the day. If you think the Yokohama chinatown is impressive during the day, try seeing it at night! We had a really delicious pork-filled steamed bun, it was colder by then so it kept us warm till we reached the station to go back home.</p>
     16
       TERM : Japan
       CODE : -40
       NAME : 日本 Day 85
-      TEXT : <p>Today was a normal human day. We woke up late, jessica worked while I practiced beats on the MPC and.. we bought exciting food. The groceries here are like a toy store for adults, everything is so appealing. You wouldn’t believe the things you can find. We’re going to watch Nightmare Before Christmas in japanese and drink apple flavoured sake drinks. If you like our blog, please recommend it in the tumblr directory. Nite!</p>
     15
       TERM : Japan
       CODE : -40
       NAME : 日本 Day 84
-      TEXT : <p>Once I managed to babble out how to say “習う誤りから” (learn from mistakes), everyone had already cheered me up with wooden toys and things to blow bubbles in the air. Even tho I couldn’t perform in the end, it was a great night. The bands were amazing and everyone so great. I got to hang out with 99LETTERS from Osaka and a few friends. The evening ended around a bowl of ramen, my orange “Basic Japanese Conversation Dictionary” and a big 乾杯(kanpai)!.</p>
     14
       TERM : Japan
       CODE : -40
       NAME : 日本 Day 83
-      TEXT : <p>We spent most of the day on the roof drinking & enjoying the warm sun. We then skated to 渋谷(Shibuya) with Lea on Mac’s bike to see the Tokyo Wonder Side expo. Once the sun was gone, few friends joined us on the roof for some drinks but I couldn’t grab any good pictures, it was very dark. Sorry. So Enjoy these random shots I took during the day !</p>
     13
       TERM : Japan
       CODE : -40
@@ -10027,7 +9917,6 @@ You can download the game for free in the Games directory on XXIIVV. It uses W,A
       TASK : Illustration
       CODE : 29
       NAME : When
-      TEXT : <p></p>
     01
       TERM : Artwork
       TASK : Illustration

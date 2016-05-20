@@ -6,8 +6,8 @@ ABLETON
   UNDE : Misc
   BREF : I designed this dark {{Ableton}} Live theme where the knobs and various other controls stick out from the interface. 
   LONG 
-    To Install it on OS X, simply right click on the Live Icon and select {*Show Package Content*} and paste the skin file {_XXIIVV.ask_} in the skin folder. 
-    I was disapointed to the see the hugly Ableton Live 9 Standard blue icon, so I designed a new one and packaged it along with the theme.
+    & To Install it on OS X, simply right click on the Live Icon and select {*Show Package Content*} and paste the skin file {_XXIIVV.ask_} in the skin folder. 
+    & I was disapointed to the see the hugly Ableton Live 9 Standard blue icon, so I designed a new one and packaged it along with the theme.
   LINK
     GITH : https://github.com/XXIIVV/AbletonSkin
 
@@ -22,7 +22,7 @@ ADVENT V
   BREF : {{Advent V}}, is a simple twitter game in the format of the {_Choose Your Own Adventure_} where the players tell Advent where to go in a choice of locations.
   LINK 
     TWTR : https://twitter.com/adventvrecall
-    GITH : https://github.com/XXIIVV/Bot-Adventvrecall"=>"Source|https://github.com/XXIIVV/Bot-Adventvrecall
+    GITH : https://github.com/XXIIVV/Bot-Adventvrecall"=>"GITH : https://github.com/XXIIVV/Bot-Adventvrecall
 
 AGEING
   UNDE : Nereid
@@ -38,17 +38,17 @@ ALICEFFEKT
 ALIMAN ALMUTLAQ
   UNDE : Notes
   LONG 
-    Aljfaf is a small town where my extended family migrated some generations ago and where, for the summer, I have set to travel to. 
-    From a small office by the ornate city gate, a man dragged himself to the driver's window and exchanged a few words with my uncle. Aljfaf's reputation is that of an erudite Muslim city, a beacon at forefront of the Quran studies and the best versed into the technicalities of our faith.
-    At sunset, my luggage had reached the guest's bedroom, and we had but exchanged small talk about dad's work and my brother's failing health. I returned to the living room changed and washed, joining the rest of my siblings into a prayer. 
-    Trying to follow along what must have been a customary prayer of Aljfaf - I realized that perhaps no one had bothered telling me of my uncle's speech impediment, for the entirety of the prayer was but incoherence. 
-    Almost mocking the sobriety of the pray, I mumbled along.
-    Once the prayer had finished, and my uncle's elocution returned. 
-    Composedly, I inquired. "You see", my uncle began, "by trial of permutations, my faculty has researched and discovered for the optimal words and pace with which prayers should be had. 
-    The current revision of the pray has resulted from the field tests conducted at the University." 
-    From then on, I could see traces of the "Al-iman Al-mutlaq"(الإيمان المطلق), my uncle's optimal faith, reflected across Aljfaf. 
-    From people, praying at seemingly random happenstances, to my uncle opposing the Quran against the virtues that alcohol have shown in field trials. 
-    "Prayers under the influence have been fruitfully rewarded 42.5% more often.", he would say.
+    & Aljfaf is a small town where my extended family migrated some generations ago and where, for the summer, I have set to travel to. 
+    & From a small office by the ornate city gate, a man dragged himself to the driver's window and exchanged a few words with my uncle. Aljfaf's reputation is that of an erudite Muslim city, a beacon at forefront of the Quran studies and the best versed into the technicalities of our faith.
+    & At sunset, my luggage had reached the guest's bedroom, and we had but exchanged small talk about dad's work and my brother's failing health. I returned to the living room changed and washed, joining the rest of my siblings into a prayer. 
+    & Trying to follow along what must have been a customary prayer of Aljfaf - I realized that perhaps no one had bothered telling me of my uncle's speech impediment, for the entirety of the prayer was but incoherence. 
+    & Almost mocking the sobriety of the pray, I mumbled along.
+    & Once the prayer had finished, and my uncle's elocution returned. 
+    & Composedly, I inquired. "You see", my uncle began, "by trial of permutations, my faculty has researched and discovered for the optimal words and pace with which prayers should be had. 
+    & The current revision of the pray has resulted from the field tests conducted at the University." 
+    & From then on, I could see traces of the "Al-iman Al-mutlaq"(الإيمان المطلق), my uncle's optimal faith, reflected across Aljfaf. 
+    & From people, praying at seemingly random happenstances, to my uncle opposing the Quran against the virtues that alcohol have shown in field trials. 
+    & "Prayers under the influence have been fruitfully rewarded 42.5% more often.", he would say.
 
 ALPHAVETIST
   UNDE : Mobile
@@ -64,7 +64,11 @@ AMERICA
 
 ANDES
   UNDE : Immortal birds
-  LONG : Andes, immortal, who slipped into {{Dinaisth}}'s {{timeline|Soies}} shortly before the {{first season|Feu}}. The role of Andes in the {{Yajnev Collapse|Yajnev}} is unknown, but his arrival coincides with the destruction of {{Vetetrandes}}. His existance is explored through notes journals scattered across his abandoned offices in Dinaisth.</p><p>Not much is known about Andes besides that his existance in Dinaisth was made possible by exploiting a flaw in the protections systems of {{Soies}}, the called is now commonly known as "The rope of maeve" and is used by the {{Neon Hemetists|Neon Hermetism}} to travel through timelines, see {{The rule of maeve}}.
+  LONG
+    & Andes, immortal, who slipped into {{Dinaisth}}'s {{timeline|Soies}} shortly before the {{first season|Feu}}. 
+    & The role of Andes in the {{Yajnev Collapse|Yajnev}} is unknown, but his arrival coincides with the destruction of {{Vetetrandes}}. 
+    & His existance is explored through notes journals scattered across his abandoned offices in Dinaisth.
+    & Not much is known about Andes besides that his existance in Dinaisth was made possible by exploiting a flaw in the protections systems of {{Soies}}, the called is now commonly known as "The rope of maeve" and is used by the {{Neon Hemetists|Neon Hermetism}} to travel through timelines, see {{The rule of maeve}}.
 
 ANN YOZORA SAINT
   UNDE : First wave
@@ -127,63 +131,106 @@ BELDAM RECORDS
 
 BIFURCAN
   UNDE : Mobile
-  LONG : <p>Named after a Borges short of the <a href='http://en.wikipedia.org/wiki/The_Garden_of_Forking_Paths'>same name</a>, similarly to {{Entaloneralie}}, this application is a cryptic watchface for iOS. Every second, the labyrinth reorganize itself to display the time with its twists and turns. It takes a little practice to be able to see the patterns in the lines. Clicking on the screen will unveil the time as seen in this <a href='https://www.youtube.com/watch?v=HzXIJpzPB6c'>video</a>.</p><p>The original application was created in 30 minutes for a micro jam. If you have a <a href='https://getpebble.com'>Pebble Watch</a>, you can download it as a <a href='http://www.mypebblefaces.com/apps/10183/7055/'>watchface</a>, the Pebble C script was written by Chase Colburn and is also available on <a href='https://github.com/chasecolburn/line-maze'>Github</a>. The screensaver version was done by {{Tekgo|http://tekgo.org}} and was also added to the source code.</p>
+  BREF : Named after a Borges short of the {{same name|http://en.wikipedia.org/wiki/The_Garden_of_Forking_Paths}}, similarly to {{Entaloneralie}}, this application is a cryptic watchface for iOS. Every second, the labyrinth reorganize itself to display the time with its twists and turns. It takes a little practice to be able to see the patterns in the lines. Clicking on the screen will unveil the time as seen in this {{video|https://www.youtube.com/watch?v=HzXIJpzPB6c}}. The original application was created in 30 minutes for a micro jam. If you have a {{Pebble Watch|https://getpebble.com}}, you can download it as a {{watchface|http://www.mypebblefaces.com/apps/10183/7055/}}, the Pebble C script was written by Chase Colburn and is also available on {{Github|https://github.com/chasecolburn/line-maze}}. The screensaver version was done by {{Tekgo|http://tekgo.org}} and was also added to the source code.
   LINK
-    App"=>"Store|https://itunes.apple.com/ca/app/bifurcan/id737264896", "Source"=>"Code|https://github.com/Echorridoors/Bifurcan", "Pebble|http://www.mypebblefaces.com/apps/10183/7055/"=>"Pebble|http://www.mypebblefaces.com/apps/10183/7055/", "\"Net"=>"Screen\"|http://rhizome.org/editorial/2015/aug/20/art-your-pocket-4/", "Screensaver|https://github.com/neauoire/Bifurcan/releases"=>"Screensaver|https://github.com/neauoire/Bifurcan/releases"}
+    ITUN : https://itunes.apple.com/ca/app/bifurcan/id737264896
+    GITH : https://github.com/Echorridoors/Bifurcan
+    PEBL : Pebble|http://www.mypebblefaces.com/apps/10183/7055/
+
 BINARY DUMP
   UNDE : Malice
-  LONG : 
+
 BLAM
   UNDE : First wave
-  LONG : 
   LINK
-    Purchase|https://aliceffekt.bandcamp.com/album/blam-le-passage-sacrilege"=>"Purchase|https://aliceffekt.bandcamp.com/album/blam-le-passage-sacrilege"}
+    BAND : https://aliceffekt.bandcamp.com/album/blam-le-passage-sacrilege
+
 BLIND
   UNDE : Online
-  LONG : <p>{{Blind}} was a cryptic multiplayer combat game where players must program their character to foresee and react to the other players' action. The game was turned off as part of {{La Premiere Traverse}}.</p><p>The game was first created in the span of 48 hours for {{Global Game Jam 2016|http://globalgamejam.org}}. This project joins {{Paradise}} in its text-based interaction and concepts. The game is open source and is available on {{Github|https://github.com/XXIIVV/Blind}}.</p><h2>Code</h2><p>The game uses a simple scripting language, here is an example of a riposte to an attack coming from the back, and a default movement pattern with an attack and a shout.</p><pre>case attack.backward  step.leftcase default  attack.forward  turn.right  attack.backward  say yatta</pre>
+  BREF : {{Blind}} was a cryptic multiplayer combat game where players must program their character to foresee and react to the other players' action.
+  LONG
+    & It was first created in the span of 48 hours for {{Global Game Jam 2016|http://globalgamejam.org}}. 
+    & This project joins {{Paradise}} in its text-based interaction and concepts. 
+    & The game is open source and is available on {{Github|https://github.com/XXIIVV/Blind}}
+    & The game uses a simple scripting language, here is an example of a riposte to an attack coming from the back, and a default movement pattern with an attack and a shout.
+    # case attack.backward  step.leftcase default  attack.forward  turn.right  attack.backward  say yatta
   LINK
-    Source|https://github.com/XXIIVV/Blind"=>"Source|https://github.com/XXIIVV/Blind"}
+    GITH : https://github.com/XXIIVV/Blind
+
 BOOKS
   UNDE : Directory
-  LONG : <p>Here are some important books that, I believe, might inspire artists working in the thin space between art and science.</p><ul><li>{{Flatland: A Romance of Many Dimensions|https://en.wikipedia.org/wiki/Flatland}},  Edwin A. Abbott. 1884 </li><li>{{Le Matin Des Magiciens|https://en.wikipedia.org/wiki/The_Morning_of_the_Magicians}},  Louis Pauwels & Jacques Bergier. 1960 </li><li>{{Le Città Invisibili|https://en.wikipedia.org/wiki/Invisible_Cities}}, Italo Calvino. 1972 </li><li>{{Ficciones|https://en.wikipedia.org/wiki/Ficciones}}, Jorge Luis Borges. 1941</li><li>{{The Mysterious Stranger|https://en.wikipedia.org/wiki/The_Mysterious_Stranger}}, Mark Twain. 1916</li><li>{{Kybalion|https://en.wikipedia.org/wiki/Kybalion}}, the Three Initiates. 1908</li><li>{{La Ricerca della Lingua Perfetta nella Cultura Europea|https://en.wikipedia.org/wiki/La_Ricerca_della_Lingua_Perfetta_nella_Cultura_Europea}}, Umberto Eco. 1993</li><li>{{Consolations in Travel|https://en.wikipedia.org/wiki/Humphry_Davy}}, Sir Humphry Davy. 1830</li><li>{{Blumroch l'admirable|https://en.wikipedia.org/wiki/Louis_Pauwels}}, Louis Pauwels. 1976</li><li>{{Simulacra and Simulation|https://en.wikipedia.org/wiki/Simulacra_and_Simulation}}, Jean Baudrillard. 1981</li></ul>
+  BREF : Here are some important books that, I believe, might inspire artists working in the thin space between art and science.
+  LONG
+    - {{Flatland: A Romance of Many Dimensions|https://en.wikipedia.org/wiki/Flatland}},  Edwin A. Abbott. 1884
+    - {{Le Matin Des Magiciens|https://en.wikipedia.org/wiki/The_Morning_of_the_Magicians}},  Louis Pauwels & Jacques Bergier. 1960
+    - {{Le Città Invisibili|https://en.wikipedia.org/wiki/Invisible_Cities}}, Italo Calvino. 1972 
+    - {{Ficciones|https://en.wikipedia.org/wiki/Ficciones}}, Jorge Luis Borges. 1941
+    - {{The Mysterious Stranger|https://en.wikipedia.org/wiki/The_Mysterious_Stranger}}, Mark Twain. 1916
+    - {{Kybalion|https://en.wikipedia.org/wiki/Kybalion}}, the Three Initiates. 1908
+    - {{La Ricerca della Lingua Perfetta nella Cultura Europea|https://en.wikipedia.org/wiki/La_Ricerca_della_Lingua_Perfetta_nella_Cultura_Europea}}, Umberto Eco. 1993
+    - {{Consolations in Travel|https://en.wikipedia.org/wiki/Humphry_Davy}}, Sir Humphry Davy. 1830
+    - {{Blumroch l'admirable|https://en.wikipedia.org/wiki/Louis_Pauwels}}, Louis Pauwels. 1976
+    - {{Simulacra and Simulation|https://en.wikipedia.org/wiki/Simulacra_and_Simulation}}, Jean Baudrillard. 1981
+
 BRANE
   UNDE : Polygonoscopy
-  LONG : <p>{{Brane}} is a series of procedurally generated prints, designed to look like like portals bubbling out of fabric. This series is part of the {{Kaleidoscope}} collection. The prints are exposed the MIGS gallery on november 10th 2014.</p>
+  BREF : {{Brane}} is a series of procedurally generated prints, designed to look like like portals bubbling out of fabric. This series is part of the {{Kaleidoscope}} collection. The prints are exposed the MIGS gallery on november 10th 2014.
   TYPE : Diary
+
 CAMERAS
   UNDE : Lifestyle
-  LONG : <p>The most frequently asked question is about the type of cameras I use. My everyday camera is the {*Leica M8 camera*} and I use a custom D3000 with an infrared sensor from LifePixel.</p><ul><li class="top">Street Photography</li><li>{{M8 Camera|https://en.wikipedia.org/wiki/Leica_M8}}, Leica</li><li>{{28mm|http://www.kenrockwell.com/voigtlander/28mm-f2.htm}}, Voigtlander</li></ul><p>As for my {{Infrared Photography|Infrared}}, I use the following:</p><ul><li class="top">Infrared Photography</li><li>{{D3000 Mod|http://www.lifepixel.com/infrared-photography-primer}}, Nikon</li><li>{{50mm Nikkor|https://commons.wikimedia.org/wiki/File:Auto_nikkor_50mm.jpg}}, Nikon</li></ul>
+  BREF : The most frequently asked question is about the type of cameras I use. My everyday camera is the {*Leica M8 camera*} and I use a custom D3000 with an infrared sensor from LifePixel.
+  LONG
+    + Street Photography
+    - {{M8 Camera|https://en.wikipedia.org/wiki/Leica_M8}}, Leica
+    - {{28mm|http://www.kenrockwell.com/voigtlander/28mm-f2.htm}}, Voigtlander
+    + {{Infrared Photography|Infrared}}
+    - {{D3000 Mod|http://www.lifepixel.com/infrared-photography-primer}}, Nikon
+    - {{50mm Nikkor|https://commons.wikimedia.org/wiki/File:Auto_nikkor_50mm.jpg}}, Nikon
+
 CAMILARE
   UNDE : Oquonie
-  LONG : <p>Language spoken in {{Oquonie}} containing a little over 20 glyphs. The language is spoken in segments of 3 letters.</p><p>This sentence will often be encountered when trying to enter a locked door with the wrong character. This sentence should be read as {_The door is locked unless nemedique_}.</p><h2>Dictionary</h2><p>This is a list of the most commonly used characters in {{Oquonie}}.</p><style>#camilare { border:0px}#camilare td { padding:0px 15px; vertical-align:middle; border:0px; font-size:18px;}#camilare img { margin:0px; width:100px;}</style><table id='camilare'><tr>	<td><img src='content/lexicon/camilare.Nestorine.png'/></td><td>Nestorine<br/><small>Nestorine</small></td>	<td><img src='content/lexicon/camilare.Nephtaline.png'/></td><td>Nephtaline<br/><small>Nephtaline</small></td>	<td><img src='content/lexicon/camilare.Necomedre.png'/></td><td>Necomedre<br/><small>Necomedre</small></td></tr><tr>	<td><<img src='content/lexicon/camilare.Neomine.png'/></td><td>Neomine<br/><small>Neomine</small></td>	<td><img src='content/lexicon/camilare.Door.png'/></td><td>Dialocie<br/><small>Door</small></td>	<td><img src='content/lexicon/camilare.Special.png'/></td><td>Paradiacie<br/><small>Door Special</small></td></tr><tr>	<td><img src='content/lexicon/camilare.Teleport.png'/></td><td>Zolenie<br/><small>Teleport</small></td>	<td><img src='content/lexicon/camilare.Correct.png'/></td><td>Hoathiste<br/><small>Correct/Yes</small></td>	<td><img src='content/lexicon/camilare.Incorrect.png'/></td><td>Gemaniste<br/><small>Incorrect/No</small></td></tr><tr>	<td><img src='content/lexicon/camilare.Unlocked.png'/></td><td>Ecrine<br/><small>Unlocked</small></td>	<td><img src='content/lexicon/camilare.Locked.png'/></td><td>Ednasene<br/><small>Locked</small></td>	<td><img src='content/lexicon/camilare.Help.png'/></td><td>Celpadmale<br/><small>Help</small></td></tr><tr>	<td><img src='content/lexicon/camilare.Sound.png'/></td><td>Aohzaille<br/><small>Sound</small></td>	<td><img src='content/lexicon/camilare.Guide.png'/></td><td>Mikethale<br/><small>Guide</small></td>	<td><img src='content/lexicon/camilare.Inside.png'/></td><td>Casarmate<br/><small>Inside</small></td></tr><tr>	<td><img src='content/lexicon/camilare.Outside.png'/></td><td>Carmate<br/><small>Outside</small></td>	<td><img src='content/lexicon/camilare.Key.png'/></td><td>Emetegisenete<br/><small>Key</small></td>	<td><img src='content/lexicon/camilare.Friend.png'/></td><td>Zorgiene<br/><small>Friend</small></td></tr><tr>	<td><img src='content/lexicon/camilare.Foe.png'/></td><td>Oquonie<br/><small>Foe</small></td>	<td><img src='content/lexicon/camilare.Pillar.png'/></td><td>Den<br/><small>Pillar</small></td>	<td><img src='content/lexicon/camilare.Nemedique.png'/></td><td>Nemedique<br/><small>Nemedique</small></td></tr></table>
-  TYPE : ["Conlang"]
+  BREF : Language spoken in {{Oquonie}} containing a little over 20 glyphs. The language is spoken in segments of 3 letters. This sentence will often be encountered when trying to enter a locked door with the wrong character. This sentence should be read as {_The door is locked unless nemedique_}.</p><h2>Dictionary</h2><p>This is a list of the most commonly used characters in {{Oquonie}}.</p><style>#camilare { border:0px}#camilare td { padding:0px 15px; vertical-align:middle; border:0px; font-size:18px;}#camilare img { margin:0px; width:100px;}</style><table id='camilare'><tr>	<td><img src='content/lexicon/camilare.Nestorine.png'/></td><td>Nestorine<br/><small>Nestorine</small></td>	<td><img src='content/lexicon/camilare.Nephtaline.png'/></td><td>Nephtaline<br/><small>Nephtaline</small></td>	<td><img src='content/lexicon/camilare.Necomedre.png'/></td><td>Necomedre<br/><small>Necomedre</small></td></tr><tr>	<td><<img src='content/lexicon/camilare.Neomine.png'/></td><td>Neomine<br/><small>Neomine</small></td>	<td><img src='content/lexicon/camilare.Door.png'/></td><td>Dialocie<br/><small>Door</small></td>	<td><img src='content/lexicon/camilare.Special.png'/></td><td>Paradiacie<br/><small>Door Special</small></td></tr><tr>	<td><img src='content/lexicon/camilare.Teleport.png'/></td><td>Zolenie<br/><small>Teleport</small></td>	<td><img src='content/lexicon/camilare.Correct.png'/></td><td>Hoathiste<br/><small>Correct/Yes</small></td>	<td><img src='content/lexicon/camilare.Incorrect.png'/></td><td>Gemaniste<br/><small>Incorrect/No</small></td></tr><tr>	<td><img src='content/lexicon/camilare.Unlocked.png'/></td><td>Ecrine<br/><small>Unlocked</small></td>	<td><img src='content/lexicon/camilare.Locked.png'/></td><td>Ednasene<br/><small>Locked</small></td>	<td><img src='content/lexicon/camilare.Help.png'/></td><td>Celpadmale<br/><small>Help</small></td></tr><tr>	<td><img src='content/lexicon/camilare.Sound.png'/></td><td>Aohzaille<br/><small>Sound</small></td>	<td><img src='content/lexicon/camilare.Guide.png'/></td><td>Mikethale<br/><small>Guide</small></td>	<td><img src='content/lexicon/camilare.Inside.png'/></td><td>Casarmate<br/><small>Inside</small></td></tr><tr>	<td><img src='content/lexicon/camilare.Outside.png'/></td><td>Carmate<br/><small>Outside</small></td>	<td><img src='content/lexicon/camilare.Key.png'/></td><td>Emetegisenete<br/><small>Key</small></td>	<td><img src='content/lexicon/camilare.Friend.png'/></td><td>Zorgiene<br/><small>Friend</small></td></tr><tr>	<td><img src='content/lexicon/camilare.Foe.png'/></td><td>Oquonie<br/><small>Foe</small></td>	<td><img src='content/lexicon/camilare.Pillar.png'/></td><td>Den<br/><small>Pillar</small></td>	<td><img src='content/lexicon/camilare.Nemedique.png'/></td><td>Nemedique<br/><small>Nemedique</small></td></tr></table>
+
 CANADA
   UNDE : Travel
-  LONG : <p>Pictures taken from January 2016.</p>
+  BREF : Pictures taken from January 2016.
   TYPE : Diary
+
 CENOTE
   UNDE : Desktop
-  LONG : <p>Cenote is an experimental platformer inspired by <a href='http://www.youtube.com/watch?v=uQITWbAaDx0'>Underwater Base Jumping</a>. The goal is to reach a small red planet with the highest amount of points left. Cenote is the spiritual prequel of <a href='Zjeveni'>Zjeveni</a>.</p><ul><li>The air is only depleting when you are sinking.</li><li>Each time you stop, your drop speed is reseted, so the least stops the faster you reach the bottom.</li><li>Press R at any time to go back to the beginning.</li></ul>
-  TYPE : ["desktop_experiment"]
+  BREF : Cenote is an experimental platformer inspired by {{Underwater Base Jumping|http://www.youtube.com/watch?v=uQITWbAaDx0}}. The goal is to reach a small red planet with the highest amount of points left. Cenote is the spiritual prequel of {{Zjeveni}}.
+  LONG
+  - The air is only depleting when you are sinking.
+  - Each time you stop, your drop speed is reseted, so the least stops the faster you reach the bottom.
+  - Press R at any time to go back to the beginning.
+
 CHILDREN WITH VEINS OF BRAMBLE
   UNDE : Third wave
-  LONG : <p>This short album contains two dark ambient/industrial tracks that sings of the Oasis of {{Rlionn}} and her Children. This album begins by the Oasis of {{Laeisth|Dinaisth}} to finally reach the castle of {{Andes}} and its desertsunk structures.</p><p>This single is part of the {{Neauismetica}}, and shares some narrative concepts with {{Telekinetic}}.</p>
+  BREF : This short album contains two dark ambient/industrial tracks that sings of the Oasis of {{Rlionn}} and her Children. This album begins by the Oasis of {{Laeisth|Dinaisth}} to finally reach the castle of {{Andes}} and its desertsunk structures. This single is part of the {{Neauismetica}}, and shares some narrative concepts with {{Telekinetic}}.
   LINK
-    Purchase|https://aliceffekt.bandcamp.com/album/children-with-veins-of-bramble"=>"Purchase|https://aliceffekt.bandcamp.com/album/children-with-veins-of-bramble"}
+    BAND : https://aliceffekt.bandcamp.com/album/children-with-veins-of-bramble
+
 CLIONN
   UNDE : Dinaisth
-  LONG : <p>{{Clionn}} is a wetland south of {{Laeisth}} where the {{septechoes}} fleet is docked.</p>
+  BREF : {{Clionn}} is a wetland south of {{Laeisth}} where the {{septechoes}} fleet is docked.
+
 CLOCK
   UNDE : Oscean
-  LONG : <p>On {{XXIIVV|Oscean}}, Time is written using a variance of the {{Internet Time|https://en.wikipedia.org/wiki/Swatch_Internet_Time}} with 4 digits instead of the Swatch Beat's 3 digits system. The system has no timezone and no daylight saving-time.</p><pre style='text-align:center'>The current time is {{!clock}}</pre><p>Read more on {{Desamber}}.</p>
+  BREF : On {{XXIIVV|Oscean}}, Time is written using a variance of the {{Internet Time|https://en.wikipedia.org/wiki/Swatch_Internet_Time}} with 4 digits instead of the Swatch Beat's 3 digits system. The system has no timezone and no daylight saving-time. Read more on {{Desamber}}.
+  LONG
+    - The current time is {{!clock}}</pre>
   LINK
-    Source|https://github.com/XXIIVV/Clock"=>"Source|https://github.com/XXIIVV/Clock"}
+    GITH : https://github.com/XXIIVV/Clock
+
 COLLEGIENNES
   UNDE : Event
   LONG : <img src='content/lexicon/collegiennes.logo.png'/><p>Collegiennes, {_Les Collégiennes_}, is a game jam team initiated by <a href='https://twitter.com/renaudbedard'>Renaud Bedard</a> and <a href='https://twitter.com/aliceffekt'>Devine Lu Linvega</a> in 2010. The team is occasionally joined by friends. </p><h2>Projects</h2><table><tr><th>Project Name</th><th>Genre</th><th>Collaborators</th><th style='width:110px'>Game Jam</th></tr><tr><td>TBA</td><td>TBA</td><td>Dom 2D<br />Rekka Bellum<br />Pierre-Luc Poirier</td><td>Toronto Game Jam 2014, Toronto</td></tr><tr><td><a href='Rain+bow'>RAIN+BOW</a><br />Update</td><td>Shooter</td><td></td><td>Gamercamp 2013, Toronto</td></tr><tr><td><a href='Volkenessen'>Volkenessen</a></td><td>Fighting</td><td></td><td>Global Game Jam 2012, Montreal</td></tr><tr><td><a href='Diluvium'>Diluvium</a></td><td>Strategy</td><td>Dom2D<br />Henk Boom</td><td>Toronto Game Jam 2012, Toronto</td></tr><tr><td><a href='Rain+bow'>RAIN+BOW</a></td><td>Shooter</td><td></td><td>Toronto Game Jam 2011, Toronto</td></tr><tr><td><a href='Pico+battle'>Pico Battle</a></td><td>Multiplayer Puzzle</td><td></td><td>Prince of the Arcade 2011, Montreal</td></tr><tr><td>Cloud is a lie</td><td>Defence</td><td></td><td>Bivouac Urbain 2010, Quebec</td></tr><tr><td><a href='Pico'>Pico</a></td><td>Puzzle</td><td></td><td>Prince of the Arcade 2010, Montreal</td></tr></table>
+
 COLOR CODING
   UNDE : Programming
   LONG : <p>{{Color coding}} is a conceptual programming language that uses no words, and instead, uses colour as syntax.</p> <style>.print { background:#9dfffb}.add { background:#b4dcc2}.equal { background:#b4a365}.while { background:#ffe8cb}.comment { color:#aaa; background:white}.smallerthan { background:#ffa366}</style><pre><span class='print'>Hello World</span> <span class='comment'># "Hello World"</span><span class='add'>1 2</span> <span class='comment'># 3</span><span class='equal'>a 4</span> <span class='comment'># a = 4</span><span class='smallerthan'>4 5</span> <span class='comment'># true</span></pre><p>Using multiple functions together.</p><pre><span class='equal'>a <span class='add'>1 2</span></span> <span class='comment'># a = 1 + 2</span></pre><p>Altogether now.</p><pre><span class='equal'>a 0</span> <span class='comment'># a = 0</span><span class='while'><span class='smallerthan'>a 10</span><span class='comment'> # while a < 10</span>  <span class='equal'>a <span class='add'>a 1</span></span><span class='comment'> # a = 1 + 2</span>  <span class='print'>a</span><span class='comment'> # "1","2","3","..."</span></span></pre>
+
 CYAN OCEAN
   UNDE : Malice
   LONG : 
@@ -220,19 +267,19 @@ DESAMBER
   UNDE : Oscean
   LONG : <p>On {{XXIIVV|Oscean}}, dates are written using a variance of the {{International Fixed Calendar|https://en.wikipedia.org/wiki/International_Fixed_Calendar}} and a custom convention to move the English months' names, away from those of Greek gods'.</p><pre style='text-align:center'>Today is {{!desamber}}</pre><p>The {_Equal Month calendar_} format has 13 months and so the number of each of these months are flected into their names.</p><table><tr><td>01</td><td>Unesamber</td><td>08</td><td>Octesamber</td></tr><tr><td>02</td><td>Dutesamber</td><td>09</td><td>Novesamber</td></tr><tr><td>03</td><td>Trisesamber</td><td>10</td><td>{{Desamber}}</td></tr><tr><td>04</td><td>Tetresamber</td><td>11</td><td>Undesamber</td></tr><tr><td>05</td><td>Pentesamber</td><td>12</td><td>Dodesamber</td></tr><tr><td>06</td><td>Hexesamber</td><td>13</td><td>Tridesamber</td></tr><tr><td>07</td><td>Sevesamber</td></tr></table><p>{*Every month is exactly 28 days long*}, and the 365th day of the year is the {_Year Day_}, followed by the {_Leap Day_} on leap years. Below are a few exmples of gregorian dates alongside their Desamber equivalences.</p><table class='minimal'><tr><th>January 1, 2015</th><td>{{2015-01-01}}</td><th>March 22, 2015</th><td>{{2015-03-22}}</td></tr><tr><th>January 29, 2015</th><td>{{2015-01-29}}</td><th>December 25, 2015</th><td>{{2015-12-25}}</td></tr><tr><th>February 28, 2015</th><td>{{2015-02-28}}</td><th>July 4, 2015</th><td>{{2015-07-04}}</td></tr></table>
   LINK
-    Source|https://github.com/XXIIVV/Desamber"=>"Source|https://github.com/XXIIVV/Desamber"}
+    GITH : https://github.com/XXIIVV/Desamber"=>"GITH : https://github.com/XXIIVV/Desamber"}
 DESKTOP
   UNDE : Interactive
   LONG : <p>This list shows all of the desktop projects built of the last few years.</p>
   TYPE : Portal
 DEVINE LU LINVEGA
   UNDE : Oscean
-  LONG : <p>{{Devine lu linvega}} is a composer, illustrator and programer, living aboard a {{sailboat|Hundred rabbits}} on the Pacific Ocean. Operating under the {{Neauoire|https://twitter.com/neauoire}} moniker, Devine is currating the {{Beldam Records}} catalog along with {{Elodie Lareine|http://noirmirroir.com}} and creating {{open source|https://github.com/neauoire}} {{mobile experimental projects|http://www.creativeapplications.net/openframeworks/experimental-mobile-apps-by-devine-aliceffect-lu-linvega}}.</p><p>Populating {{OScean}} with notes on {{Language}}, {{Illustrations|Illustration}} and {{Sounds|Audio}}, Devine hopes to inspire visitors to learn and to travel.</p>
+  LONG : <p>{{Devine lu linvega}} is a composer, illustrator and programer, living aboard a {{sailboat|Hundred rabbits}} on the Pacific Ocean. Operating under the {{Neauoire|https://twitter.com/neauoire}} moniker, Devine is currating the {{Beldam Records}} catalog along with {{Elodie Lareine|http://noirmirroir.com}} and creating {{open GITH : https://github.com/neauoire}} {{mobile experimental projects|http://www.creativeapplications.net/openframeworks/experimental-mobile-apps-by-devine-aliceffect-lu-linvega}}.</p><p>Populating {{OScean}} with notes on {{Language}}, {{Illustrations|Illustration}} and {{Sounds|Audio}}, Devine hopes to inspire visitors to learn and to travel.</p>
 DEW
   UNDE : Mobile
   LONG : <p>{{Dew}} is a minimalist alarm app, designed to set up nap/sleeping alarms with a simple flick. The application will then  wake you with a soft white noise tone that will gradually bring you back to reality. </p>
   LINK
-    App"=>"Store|https://itunes.apple.com/ca/app/dew/id954020907", "Source|https://github.com/Echorridoors/dew"=>"Source|https://github.com/Echorridoors/dew"}
+    App"=>"Store|https://itunes.apple.com/ca/app/dew/id954020907", "GITH : https://github.com/Echorridoors/dew"=>"GITH : https://github.com/Echorridoors/dew"}
 DIARY
   UNDE : Oscean
   LONG : 
@@ -244,7 +291,7 @@ DICTIONARISM
   UNDE : Automatons
   LONG : <p>{{Dictionarism}} is a simple twitter bot that creates {_-isms_} from every of every word of a dictionary.</p><blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Autosuggestionism</p>— ☛ (@dictionarism) <a href="https://twitter.com/dictionarism/status/656621425483079680">October 21, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
   LINK
-    View"=>"Twitter|https://twitter.com/dictionarism", "Source|https://github.com/XXIIVV/Bot-Dictionarism"=>"Source|https://github.com/XXIIVV/Bot-Dictionarism"}
+    View"=>"Twitter|https://twitter.com/dictionarism", "GITH : https://github.com/XXIIVV/Bot-Dictionarism"=>"GITH : https://github.com/XXIIVV/Bot-Dictionarism"}
 DICTIONARY
   UNDE : Oscean
   LONG : <p>The universe of the {{Neauismetica}} contains many unique words, they are automatically listed here, alphabetically, for your convenience.  </p>
@@ -276,12 +323,12 @@ DOMESTIC MOIRE
   UNDE : Ar moire
   LONG : <p>Take {{her|Polygonoscopy}} home and care for her. <br />Speak to her, look into her as she gaze back into you.</p><div style='background:black; padding:4px; border-radius:4px; width: 480px; height:300px; margin-bottom:30px'><iframe src="//giphy.com/embed/l3nWfnhcjpTwnUkMw" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
   LINK
-    Source|https://github.com/neauoire/DomesticMoire"=>"Source|https://github.com/neauoire/DomesticMoire", "Screensaver|https://github.com/neauoire/DomesticMoire/releases"=>"Screensaver|https://github.com/neauoire/DomesticMoire/releases", "#Screensaverjam|http://aliceffekt.itch.io/domestic-moire"=>"#Screensaverjam|http://aliceffekt.itch.io/domestic-moire"}
+    GITH : https://github.com/neauoire/DomesticMoire"=>"GITH : https://github.com/neauoire/DomesticMoire", "Screensaver|https://github.com/neauoire/DomesticMoire/releases"=>"Screensaver|https://github.com/neauoire/DomesticMoire/releases", "#Screensaverjam|http://aliceffekt.itch.io/domestic-moire"=>"#Screensaverjam|http://aliceffekt.itch.io/domestic-moire"}
 DONSOL
   UNDE : Mobile
   LONG : <p>{{Donsol}} is a simple solitary card game, designed by {{John Eternal|https://twitter.com/johneternal}} during {{Train Jam|http://trainjam.com}}, where you must go through a series of rooms(4 cards) with the tools available.</p><p>While the game was designed on a train, without internet connection, it seems like Donsol's gameplay accidentally ended up being a twist to Zach Gage and Kurt Bieg's {{Scoundrel|http://stfj.net/index2.php?project=art/2011/Scoundrel.pdf}}, designed in 2011. Another game, working in a similar fashion, also released this week, Card Crawl. It seems as if this game design was overdue.</p>
   LINK
-    App"=>"Store|https://itunes.apple.com/us/app/donsol/id976367718?ls=1&mt=8", "Source|https://github.com/Echorridoors/donsol"=>"Source|https://github.com/Echorridoors/donsol", "Gameplay"=>"Guide|http://wiki.xxiivv.com/Donsol+guide"}
+    App"=>"Store|https://itunes.apple.com/us/app/donsol/id976367718?ls=1&mt=8", "GITH : https://github.com/Echorridoors/donsol"=>"GITH : https://github.com/Echorridoors/donsol", "Gameplay"=>"Guide|http://wiki.xxiivv.com/Donsol+guide"}
 DONSOL GUIDE
   UNDE : Donsol
   LONG : <p>{{Donsol}}, designed by {{John Eternal|https://twitter.com/johneternal}}, is a game about exploring a dungeon using nothing but what you find.You play with a standard 54 poker card set, Jokers included.</p><p>Shuffle the deck and draw 4 cards, equip a shield, slay all monsters, heal yourself with potions and exit the deck alive.</p><p>{_Red cards are beneficial<br/>Black cards are harmful._}</p><ul><li>♦Diamonds are shields</li><li>♥︎Hearts are potions</li><li>♠Spades are monsters</li><li>♣︎Clubs and Jokers are also monsters</li></ul><h2>Red Cards</h2><p>Red number cards equal their value and face cards(J,Q,K,A) equal 11</p><h3>♥︎ Potions</h3><p>You begin with a max of 21 health points and can never go above. You can only drink one health potion per room.</p><h3>♦ Shield Cards</h3><p>You can fight a monster without shield, but suffer full damage.<br />Equipping a shield allows you to absorb the damage difference from the monster value. {_If you have an 8 shield equipped, by attacking a 9 monster you suffer 1 damage._}</p><p>Shields can only defend monsters in descending value and if you use a shield on a monster with higher or equal value to the previous, it will break. Broken shields leave you unarmored, and you take full damage.</p><h2>Black Cards</h2><p>Black number cards equal their value and face cards are as follows J is 11, Q is 13, K is 15, A is 17 and Jokers are both equal to 21.</p><h3>♠ Monster Cards</h3><p>Once you have dealt with at least 3 cards, you can move onto the next room(set of 4 cards), moving the remainder card to the bottom of the deck.</p><p>Running away from the room moves the cards to the bottom of the deck. You can run away from a room you have not interacted with, once in a row.</p><h2>Example Play</h2><ul><li>Open the door (Shuffle the deck and draw 4 cards)</li><li>The room contains a 7♦, Q♥︎, 10♠, J♣︎</li><li>Equip the 7♦ shield, and battle the J♣︎ (11-7=4 lost HP)</li><li>Battle the 10♠ (10-7=3 lost HP), drink the Q♥︎ and heal 11 HP up to max 21.</li><li>With the room empty we sneak into the next room.</li><li>The room contains A♦, K♦, K♣︎, 9♥︎</li><li>Equip the K♦ (replacing the 7♦), battle the K♣︎ (15-11=4 lost HP)</li><li>Drink the 9♥︎ and heal 9 HP up to max 21. </li><li>Moving to the next room places the A♦ at the bottom of the deck.</li><li>The room contains A♣︎, J♣︎, 10♦, 6♠.</li><li>Continue making your way through the dungeon (deck) until all enemies are defeated.</li></ul>
@@ -312,7 +359,7 @@ EAKOUT
   UNDE : Unreleased
   LONG : <p>{{Eakout}} is a local cooperative twist to the original {_breakout_} style games. It's a simple multiplayer game that plays on a single phone. Perfect for killing time with a partner.</p><p>Each player must touch each blocks for them to be destroyed. Collided blocks display a color of the required polarity once a player has hit them, and remain on stage until the second player's ball has also touched them.</p>
   LINK
-    Source|https://github.com/neauoire/Eakout"=>"Source|https://github.com/neauoire/Eakout"}
+    GITH : https://github.com/neauoire/Eakout"=>"GITH : https://github.com/neauoire/Eakout"}
 EFLI
   UNDE : Eschatolor
   LONG : <p>{{EFLI}}, 103.0FM, is a pirate radio broadcast, available from Montreal's Plateau area, between 22:00 and 6:00. The radio started broadcasting on {{2015-05-20}}.</p><p>Not much else is known. Read about {{Eschatolor}}.</p>
@@ -398,7 +445,7 @@ GENESIS MINERS
   UNDE : First wave
   LONG : 
   LINK
-    Purchase|https://aliceffekt.bandcamp.com/album/genesis-iii-20-ov-idyllic-miners"=>"Purchase|https://aliceffekt.bandcamp.com/album/genesis-iii-20-ov-idyllic-miners"}
+    BAND : https://aliceffekt.bandcamp.com/album/genesis-iii-20-ov-idyllic-miners"=>"BAND : https://aliceffekt.bandcamp.com/album/genesis-iii-20-ov-idyllic-miners"}
 GERMANY
   UNDE : Misc
   LONG : <p>Travel pictures from 2012 and Amaze's 2015.</p>
@@ -447,7 +494,7 @@ HUNDRED RABBITS
   UNDE : Hundred rabbits
   LONG : <p>{{Hundred Rabbits}}, is a nomad design studio founded by {{Rekka Bellum|http://kokorobo.ca}} and {{Devine Lu Linvega|Devine Lu Linvega}} aboard a {{sailboat|https://github.com/hundredrabbits/Yamaha-33}}, somewhere on the shores of the Pacific Ocean. This partnership is host to interactive projects like {{Oquonie}}, {{Grimgrains|http://grimgrains.com}} and travel diaries.</p><p>A {{Patreon page|https://www.patreon.com/100}} is available to help fund the production of monthly videos and liveaboard documentation.</p>
   LINK
-    Source|https://github.com/hundredrabbits"=>"Source|https://github.com/hundredrabbits", "Patreon|https://patreon.com/100"=>"Patreon|https://patreon.com/100", "Twitter|https://twitter.com/hundredrabbits"=>"Twitter|https://twitter.com/hundredrabbits"}
+    GITH : https://github.com/hundredrabbits"=>"GITH : https://github.com/hundredrabbits", "Patreon|https://patreon.com/100"=>"Patreon|https://patreon.com/100", "Twitter|https://twitter.com/hundredrabbits"=>"Twitter|https://twitter.com/hundredrabbits"}
 HYPERVOID
   UNDE : Polygonoscopy
   LONG : <p>Navigating the nullplane of Dischromatic Nullcolour Anti-pigments.</p><p>The {{Hypervoid}} pieces were selected to be on the cover of the second volume of the {{Amaze Newspaper|http://issuu.com/independenceamazing/docs/amaze_screen}}.</p>
@@ -496,12 +543,12 @@ KEYBOARD 468
   UNDE : Mobile
   LONG : <p>The {{Keyboard 468}} is a 18 keys keyboard that sorts characters by the most likely letter to follow the last input. So you always only need to type using the two rows at the top, maximizing the space and allowing for big large letters. The hidden letters are accessible through the {_alt_} key, alongside symbols and numbers.</p> <h2 id='privacy'>Privacy Policy</h2><p>This policy exists to inform you that the keyboard does not record, save, harvest or send any data of any type. The application, and its keyboard extension is self contained and does not keep any data. The active {{source code|https://github.com/neauoire/iOSKeyboard}} is also available to demonstrate that the keyboard does not hold onto your content.</p>
   LINK
-    App"=>"Store|https://itunes.apple.com/ca/app/468-keyboard/id954698999", "Source|https://github.com/Echorridoors/Keyboard468"=>"Source|https://github.com/Echorridoors/Keyboard468"}
+    App"=>"Store|https://itunes.apple.com/ca/app/468-keyboard/id954698999", "GITH : https://github.com/Echorridoors/Keyboard468"=>"GITH : https://github.com/Echorridoors/Keyboard468"}
 KNOWN MAGYE
   UNDE : Third wave
   LONG : <p>{{Known Magye}} is an album and performance relying heavily on visuals. Sometimes reminiscent of the compositions of {{Children with veins of bramble}}, sometimes of the drowned sounds of {{Telekinetic}}, this single is a fair mix of ambient and breaks. </p><p>The album was recorded live from {{San Fransisco|travel}}'s {{POW POW POW|382}} which was controlled entirely with the {{Leap Motion|https://www.leapmotion.com}}.</p>
   LINK
-    Purchase|https://aliceffekt.bandcamp.com/album/known-magye"=>"Purchase|https://aliceffekt.bandcamp.com/album/known-magye"}
+    BAND : https://aliceffekt.bandcamp.com/album/known-magye"=>"BAND : https://aliceffekt.bandcamp.com/album/known-magye"}
 LA PREMIERE TRAVERSE
   UNDE : Hundred rabbits
   LONG : <p>{{La Premiere Traverse}} is a {{Hundred Rabbits}} event where a few projects must be tieded up before the crew's departure to cross the Pacific Ocean.</p><p>Prior to the happening, a few projects will be fully open sourced and others archived in the case where something would happen and {{XXIIVV|Oscean}} would be stop being maintained.</p><h2>Projects Involved</h2><ul><li>{{Blind}} was turned off.</li><li>{{Paradise}}'s automation is being improved.</li><li>Automate Twitter account to share the project archive's public URL.</li></ul>
@@ -538,7 +585,7 @@ LEDOLIEL
   UNDE : Mobile
   LONG : <p>{{Ledoliel}} is a strange dating toy for iOS, involving procedural creatures and their bizarre customs, where you must try and figure out what topics they might want to discuss, gift they might want to receive and places they may like to be touched - based on their cryptic attributes.</p>
   LINK
-    App"=>"Store|https://itunes.apple.com/us/app/ledoliel/id891693763", "Source|https://github.com/Echorridoors/ledoliel"=>"Source|https://github.com/Echorridoors/ledoliel"}
+    App"=>"Store|https://itunes.apple.com/us/app/ledoliel/id891693763", "GITH : https://github.com/Echorridoors/ledoliel"=>"GITH : https://github.com/Echorridoors/ledoliel"}
 LESSONS
   UNDE : Traumae
   LONG : <p>This is a draft for a few {{Traumae}} lessons - to get you started, a walkthrough if you may. There are 9 word types. And these lessons will explain to you how to use each and every family, from the simpliest constructs to the more complex ideas. At the end of these lessons, you should be able to express simple ideas. After each lesson, a new grammatical element will be introduced. Each block will teach you words to be reused in the lessons that follow.</p><p>Some of these exercises are also explored in a {{video tutorial|http://youtu.be/_YXK1nepTPA}}.</p>
@@ -593,7 +640,7 @@ MERVEILLES
   UNDE : Oscean
   LONG : <p>{{Merveilles}} is a small online community founded, around 2010. Its original purpose was to allow {{Merveilles Portable}}, from which it took its name, players to communicate with eachother. Since then, it has evolved to host various discussion about programming, art, game dev, music, AI and trans-humanism.</p><p>While the original gatherings mainly existed on IRC, it has since migrated onto {_Slack_} where it has became a private room that invites new members selectively. </p>
   LINK
-    Source|https://github.com/merveilles"=>"Source|https://github.com/merveilles"}
+    GITH : https://github.com/merveilles"=>"GITH : https://github.com/merveilles"}
 MERVEILLES PORTABLE
   UNDE : Unreleased
   LONG : <p>{{Merveilles Online}} was a mini MMORPG for handhelds(iPod, iPad, Android, webOS) and computer. It was coded by Deeo and designed by {{Devine Lu Linvega}}. It was a tiny brown world that used floors as areas, players could interact with eachothers using a glyph language.</p><p>The game ran around 2009-2011, and was eventually shut down due to a complicated migration.</p>
@@ -700,7 +747,7 @@ NOIRCA
   UNDE : Mobile
   LONG : <p>{{Noirca}} is a minimalist Black & White camera application for iOS that launches instantly, without prompts and without social connects - simple, clean. The app has one purpose, to launch quickly and render the photos with a softly washed out B&W film quality.</p>
   LINK
-    App"=>"Store|https://itunes.apple.com/us/app/noirca/id893715212?ls=1&mt=8", "Source|https://github.com/Echorridoors/noirca"=>"Source|https://github.com/Echorridoors/noirca"}
+    App"=>"Store|https://itunes.apple.com/us/app/noirca/id893715212?ls=1&mt=8", "GITH : https://github.com/Echorridoors/noirca"=>"GITH : https://github.com/Echorridoors/noirca"}
 NONROMAN
   UNDE : Misc
   LONG : <p>Just an idea I had while playing with the ever so strict roman numerals. This list is the first few Nonroman and non-abusive roman non numbers along the actual roman numerals, where abusive would exploit the same extension sequencially.</p><table><tr><th>Roman/Nonroman</th><th>Arabic Numeric Value</th><th>Arabic Non Value</th></tr><tr><td>I</td><td>1</td><td></td></tr><tr><td>II</td><td>2</td><td></td></tr><tr><td>III</td><td>3</td><td></td></tr><tr><td>IIV</td><td></td><td>"3</td></tr><tr><td>IIII</td><td></td><td>_4</td></tr><tr><td>IV</td><td>4</td><td></td></tr><tr><td>V</td><td>5</td><td></td></tr><tr><td>VI</td><td>6</td><td></td></tr><tr><td>VII</td><td>7</td><td></td></tr><tr><td>VIII</td><td>8</td><td></td></tr><tr><td>IIX</td><td></td><td>"8</td></tr><tr><td>VIIII</td><td></td><td>_9</td></tr><tr><td>IX</td><td>9</td><td></td></tr><tr><td>X</td><td>10</td><td></td></tr><tr><td>XI</td><td>11</td><td></td></tr><tr><td>XII</td><td>12</td><td></td></tr><tr><td>XIII</td><td>13</td><td></td></tr><tr><td>XIIV</td><td></td><td>"13</td></tr><tr><td>XIIII</td><td></td><td>_14</td></tr><tr><td>XIV</td><td>14</td><td></td></tr><tr><td>XV</td><td>15</td><td></td></tr><tr><td>XVI</td><td>16</td><td></td></tr><tr><td>XVII</td><td>17</td><td></td></tr><tr><td>XVIII</td><td>18</td><td></td></tr><tr><td>XVIIII</td><td></td><td>18</td></tr><tr><td>XIIX</td><td></td><td>19</td></tr><tr><td>XIX</td><td>19</td><td></td></tr><tr><td>XX</td><td>20</td><td></td></tr><tr><td>XXI</td><td>21</td><td></td></tr><tr><td>XXII</td><td>22</td><td></td></tr><tr><td>XXIII</td><td>23</td><td></td></tr><tr><td>XXIIV</td><td></td><td>"23</td></tr><tr><td>XXIIII</td><td></td><td>_24</td></tr><tr><td>XXIV</td><td>24</td><td></td></tr><tr><td>XXV</td><td>25</td><td></td></tr><tr><td>XXVI</td><td>26</td><td></td></tr><tr><td>XXVII</td><td>27</td><td></td></tr><tr><td>XXVIII</td><td>28</td><td></td></tr><tr><td>XXIVIV</td><td></td><td>"28</td></tr><tr><td><a href='XXIIVV'>XXIIVV</a></td><td></td><td>"28</td></tr><tr><td>XXVIIV</td><td></td><td>"28</td></tr><tr><td>XXIIX</td><td></td><td>"28</td></tr><tr><td>XXVIV</td><td></td><td>"29</td></tr><tr><td>XXIVV</td><td></td><td>"29</td></tr><tr><td>XXVIIII</td><td></td><td>_29</td></tr><tr><td>XXVV</td><td></td><td>"30</td></tr><tr><td>XXIX</td><td>29</td><td></td></tr><tr><td>XXX</td><td>30</td><td></td></tr><tr><td>XXVVI</td><td></td><td>"31</td></tr><tr><td>XXVVII</td><td></td><td>"32</td></tr><tr><td>XXVVIII</td><td></td><td>"33</td></tr><tr><td>XXVVIIII</td><td></td><td>"34</td></tr></table>
@@ -739,7 +786,7 @@ OQUONIE
   UNDE : Mobile
   LONG : <p>{*Oquonie*} is a textless puzzle game for iPad and iPhone created in collaboration with illustrator {{Rekka Bellum|http://kokorobot.ca}} where you must find your way across an intertwined megastructure. You will not be alone, your incarnations will have the help of {_bizaroid_} characters speaking {{an obscure language|Camilare}}.</p><p>Oquonie features an original {{Aliceffekt}} soundtrack that is now available on {{Bandcamp|https://aliceffekt.bandcamp.com/album/short-stories-in-impossible-spaces}}. The game was best described as {_"{{Animal Crossing in a K-Hole|http://killscreendaily.com/articles/oquonie-maze-worth-entering/}}"_}.</p>
   LINK
-    App"=>"Store|https://itunes.apple.com/us/app/oquonie/id819777958", "Download"=>"Source|https://github.com/hundredrabbits/Oquonie", "\"Mystifying"=>"puzzler.\"|http://148apps.com/reviews/oquonie-review/", "\"The"=>"Fez.\"|http://tabtimes.com/oquonie-review-beautiful-land-confusion-ios-14037/", "\"Make"=>"drawing.\"|http://killscreendaily.com/articles/oquonie-maze-worth-entering/"}
+    App"=>"Store|https://itunes.apple.com/us/app/oquonie/id819777958", "Download"=>"GITH : https://github.com/hundredrabbits/Oquonie", "\"Mystifying"=>"puzzler.\"|http://148apps.com/reviews/oquonie-review/", "\"The"=>"Fez.\"|http://tabtimes.com/oquonie-review-beautiful-land-confusion-ios-14037/", "\"Make"=>"drawing.\"|http://killscreendaily.com/articles/oquonie-maze-worth-entering/"}
 OQUONIE GUIDE
   UNDE : Oquonie
   LONG : <p>I noticed that a few people get stuck after finding the first red pillar. This guide is meant to be a spoiler-free list of tips to help you proceed through {{Oquonie}}. So if you have not yet found the first pillar, this is {*not*} for you, so keep playing, for your only task at the moment would be to find three matching tokens.</p><h3>"That darn shark"</h3><p>You have found a locked red door, {*a red pillar thing*} appeared next to one of the town's gates, you have been turned back into the first character, {{Necomedre|Oquonie universe}}. What do?</p><img src='content/lexicon/oquonie guide.oquonie.guide.png'/><p class='small'>Many doors, across the worlds, were locked. You have gone through the levels without paying any mind to them but now you will need to find each world's {{Red Pillar|Oquonie universe}} to unlock the door. My guess would be that you are in town and do not know where to proceed next. So this is my tip to you.</p><p>The simplest pillar, if you are {{Necomedre|Oquonie universe}}, is found in the second world, {{Nephtaline|Oquonie universe}}. You need 3 {{tokens|Oquonie universe}}, one can be found in the {{Necomedre World|Oquonie universe}}, the second, in town by the {{ramen guy|Oquonie universe}} near the landing, and the third, within the {{Nephtaline World|Oquonie universe}}.</p> <p>Once your have turned into {{Nemedique|Oquonie universe}}, you will be able to open a locked door by the owl, and collect the second pillar.</p><p>Good luck.</p><img src='content/lexicon/oquonie guide.oquonie.pillar.png'/><hr /> 
@@ -758,7 +805,7 @@ OSCEAN
   UNDE : Oscean
   LONG : <p>{*XXIIVV*}, see {_{{Ehrivevnv|Oscean}}_}, is the connecting thread between all of {{Devine|Devine lu linvega}}’s works, and host to the pillars and tools of the persona. Initiated in 2009, this ultrafolio’s initial purpose was to archive various narrative documentation for a series of shorts.</p><p>The current platform is built in {{Ruby|https://en.wikipedia.org/wiki/Ruby_(programming_language)}}, and is currently hosted on {{Digital Ocean|https://www.digitalocean.com/?refcode=4ed988ca8c17}}. The site is segmented into 3 parts, {*a time-tracker*}, {*a lexicon*} and a {*diary*}. Every single day, since 2009, a log has been added to the {{Horaire}}, every new project has an entry in the {{Lexicon|Dictionary}} and every event has a page in the {{diary}}. Above these core systems, other systems exists - such as {{Paradise}}, and {{API|http://api.xxiivv.com}}, a series of {{bots|Automatons}}. This website is the skeleton of a rigorous lifestyle change, initiated more than 5 years ago.</p><p>{_Et haec revelantur in virtute et veritate<br /> non Vi._} - Vriel</p>
   LINK
-    Source|https://github.com/XXIIVV/Wiki"=>"Source|https://github.com/XXIIVV/Wiki"}
+    GITH : https://github.com/XXIIVV/Wiki"=>"GITH : https://github.com/XXIIVV/Wiki"}
 OTOROUTES MINIATURES
   UNDE : First wave
   LONG : 
@@ -836,7 +883,7 @@ RAFINOGRADE
   UNDE : Mobile
   LONG : <p>{{Rafinograde}} is a minimalist sketching app generating procedural and animated strokes, or simply, a distraction.</p>
   LINK
-    App"=>"Store|https://itunes.apple.com/us/app/rafinograde/id951781579", "Download"=>"Source|https://github.com/Echorridoors/Rafinograde"}
+    App"=>"Store|https://itunes.apple.com/us/app/rafinograde/id951781579", "Download"=>"GITH : https://github.com/Echorridoors/Rafinograde"}
 RAIN BOW
   UNDE : misc
   LONG : <p><strong>RAIN+BOW</strong> is game I made with <a href="http://theinstructionlimit.com/raincrossbow">Renaud Bedard</a> as <em><a href="http://wiki.xxiivv.com/Collegiennes" title="Les Collégiennes " homepage""="">Les Collégiennes</a></em> during <a href="http://www.tojam.ca/history/2011.asp" title="TOJam 6 Homepage">TOJam Sixty Times</a> in 2011, and lay on the backburner for many years until it was resurrected for a showing at <a href="http://www.gamercamp.ca/news/share-your-tojam-memories-with-tojamxoxo/" title="Gamercamp TOJam Retrospective">Gamercamp</a> in 2013. We finally took the time to add polishing touches and add gamepad support, so I’m happy to release this version as the final public build!</p>
@@ -988,7 +1035,7 @@ THE EHRIVEVNV STUDIES
   UNDE : Third wave
   LONG : <p>This album was composed for and performed at <a href='105'>Blip Festival Tokyo</a> on October 21st 2012 and reissued on april 15th 2013, including some changes from the <a href=''>Melbourne Squaresound Show</a>. Exploring new aesthetics and sounds, this highly melodic releases reaches into IDM and glitch while keeping some of the Aliceffekt compositions. Whilst the album displays a series of light hearted songs, its title and cover are showing a moment in the <a href='Neauismetical+timeline'>27th season</a> when <a href='Vetetrandes'>Vetetrandes</a> was at it's worse. </p><p>The Processing source files for the <a href='http://www.youtube.com/watch?v=9vA3HI9kuaE&feature=youtu.be'>Blip Festival performance</a> are available for download on the <a href='105'>project page</a>.</p><p>The track names contains encrypted Traumae</a>. The first track is decrypted into "<a href='Simkin'>Simkin</a> <a href='Kamsi'>Kamsi</a>" and can be translated to {_Time Structure_}, refering to The Library of Sand. The second track, "<a href='Xomsinsom'>Xomsinsom</a> <a href='kim'>Kim</a> <a href='Yajnev'>Yajnev</a>", can be translated to {_Yajnev's Curse_} and refers to the short <a href='082'>Yajnev's Thoughts</a>. The third track is titled "<a href='Ko'>Ko</a> <a href='sokamxi'>Sokamxi</a>" which simply means {_The Impossible Exploration_}.</p><pre>ami -> vloks  -> Ihom  -> ykim -> w</pre><p>Following are the resulting transformations using the previous encryption.</p><pre>"Simkin Kamsi""Xomsinsom Kim Yajnev""Ko Sokamxi"Skimn KsamiXomsinom kim YajnevthKo SokxamiSkimn IhvloXysiny w YajnevthKo Sokxvlo</pre>
   LINK
-    Purchase|https://aliceffekt.bandcamp.com/album/the-ehrivevnv-studies-reissue"=>"Purchase|https://aliceffekt.bandcamp.com/album/the-ehrivevnv-studies-reissue"}
+    BAND : https://aliceffekt.bandcamp.com/album/the-ehrivevnv-studies-reissue"=>"BAND : https://aliceffekt.bandcamp.com/album/the-ehrivevnv-studies-reissue"}
 THE OPAL INQUISITORS
   UNDE : Second wave
   LONG : <p>{{The Opal Inquisitors}} is the prequel to {{Portalion}}, where {{Neonev}} begin their exploration of the central regions of {{Dinaisth}}, emerging from the tunnels of {{Dei Dain Canals}}.</p><p>Driving the {{Vermillionth}} up the spires below the surface of central islands, the records are photographs of the travels between the caves of {{Dilitrielth}} and the deserts of {{Duomo}}.</p><ul><li>{{Down The Vertical Canals|Dei Dain Canals}}</li><li>{{Below The Vetetrandes Spires|Vetetrandes}}</li><li>{{Moires Of Dei Dain|Dei Dain Canals}}</li><li>{{Exosphere Sunsets|Eaurison}}({{Ver’Tale|Vertale}})</li></ul>
@@ -1010,7 +1057,7 @@ Clip a nonslip from fillingstation and filler.
 
 -"Punchup"</p>— The Will, The Wisp (@thewillthewisp) <a href="https://twitter.com/thewillthewisp/status/609747364627132417">June 13, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
   LINK
-    View"=>"Twitter|https://twitter.com/thewillthewisp", "Source|https://github.com/XXIIVV/Bot-TheWillTheWisp"=>"Source|https://github.com/XXIIVV/Bot-TheWillTheWisp"}
+    View"=>"Twitter|https://twitter.com/thewillthewisp", "GITH : https://github.com/XXIIVV/Bot-TheWillTheWisp"=>"GITH : https://github.com/XXIIVV/Bot-TheWillTheWisp"}
 THIRD WAVE
   UNDE : Aliceffekt
   LONG : <p>Currently definiting this term..</p>
@@ -1032,7 +1079,7 @@ TRAUMAE
   LONG : <p>Created in 1998, {{Traumae}} is a {{synthetic language|http://en.wikipedia.org/wiki/Constructed_language}} by {{Devine Lu Linvega|Devine Lu Linvega}} for language processing experiments and research.</p> <p>The Traumae language has 27 root syllables, each associated to a core idea - combinable and specific, to make all permutations of its alphabet possible. Written from left to right with implicit neutrality, words and groups of word are both ruled by the same grammatical logics. And so, a single letter or a word will work as a function onto the succeeding pieces of the phrase.</p><p>{_Vilo pi 1998, {{Traumae}} lo {{vi dix|https://en.wikipedia.org/wiki/Constructed_language}} vip {{Devine Lu Linvega|Devine Lu Linvega}} po dix tivo xa vix. 27 dik vid lo la traumae dix, sal vota lati tix - la xa xas lo toxi, sal sato lo to. Lobid paki libo pi lixo las lita, dipix xa sadip vota dati dop. La vid xa la sadip vop kai pal dipix.<br /><small>Text translated into {{Traumae}}</small>_}</p>
   TYPE : Portal
   LINK
-    Source|https://github.com/Traumae"=>"Source|https://github.com/Traumae"}
+    GITH : https://github.com/Traumae"=>"GITH : https://github.com/Traumae"}
 TRAUMAETICS
   UNDE : Traumae
   LONG : <p>This is a quick draft to demonstrate the usage of <a href="Traumae">Traumae</a> as a programing language.</p><h2>states of values</h2><pre>xi hello world <comment># nil = hello world</comment>di hello world <comment># 0</comment>bi hello world <comment># print "hello world"</comment></pre><h2>Control structures</h2><p>There are 3 types of {*If*} cases and they work more like {*While*} than {*If*}. The code work in blocks, so a if case will try itself over until it resolves. It might look like an inverted {*If*} case, where the {*If*}  is actually at the end. In the following chunck, the loop starts at lva. V1 being a global variable accessed directly from the function.</p><pre>lva  pa V1sa V1 ti 10  xi V1</pre><ul><li>1. Skip, lva is a operation declaration - in this case untitled</li><li>2. Increment, pa V1 is the equivalent of V1 += 1</li><li>3. If V1 is equal to V4 exit the operation, otherwise try again.</li></ul><pre>function(){  while(V1 < 10){    V1++;  }  return V1}</pre><h2>Lists and functions</h2><p>Using the unnamed function from before, this will demonstrate how to use it and the useage of its parameter V1 becoming a local instance of V1, LV1.</p><pre>lva F1 V1  pa LV1sa LV1 ti 10  xi LV1</pre><p>And so this function can be used later as would any other operand.</p><pre>F1 V1</pre><p>List can be populated using the xa operation, the following operation will result in an array of 5 OBJ1 and then 5 OBJ2 within V1.</p><pre>lvava V1 da 5  V1 xa OBJ1va V1 da 10  V1 xa OBJ2</pre><p>Resulting in ..</p><pre>V1 = {OBJ1,OBJ1,OBJ1,OBJ1,OBJ1,OBJ2,OBJ2,OBJ2,OBJ2,OBJ2}</pre><p>And equivalent to ..</p><pre>i = 0while(i < 10){  if(i<5){    V1[i] = OBJ1  }	  else{    V1[i] = OBJ2  }  i++;}</pre><h2>Operators</h2><pre>sa  while(* or *)la  while(* and *)va  while not(*)ki >ti ==pi <xo TRUEdo nilbo FLASEsa > 1la if TRUE, == 1va FALSE, == 0ka ++ta ==pa --xa add elementda check element typeba remove element</pre>
@@ -1074,7 +1121,7 @@ VAMBITS
   LONG : <p>{{Vambits}} are small DIY desktoys designed to be laser cutted in acrylic. The product was initially created with {{Ponoko|https://www.ponoko.com}}.</p><p>The design was eventually ripped and sold by various resellers on Esty and in stores in Australia. The design templates are now available on Github for anyone to download and custumize.</p>
   TYPE : Diary
   LINK
-    Source|https://github.com/hundredrabbits/Vambits"=>"Source|https://github.com/hundredrabbits/Vambits"}
+    GITH : https://github.com/hundredrabbits/Vambits"=>"GITH : https://github.com/hundredrabbits/Vambits"}
 VAST
   UNDE : Physical
   LONG : <p>I recently found myself illustrating {{Elodie|http://noirmirroir.com}}'s abstract book "{{Vast - the perfect, the circular, the subjugated|http://noirmirroir.com/vast}}". A strangely perfect nonsensical coffee table curiosity that grabbed me from the moment I heard of its ties with some of the same Borgesian concepts that have also been exploring lately.</p> <p>I have created a series of ink fractals to ornate the book’s preface, table of content and cover. The book is a unique piece of cryptography that is somehow narrative in its unintelligibleness.</p>
@@ -1084,12 +1131,12 @@ VERMILLIONTH
   UNDE : First wave
   LONG : 
   LINK
-    Purchase|https://aliceffekt.bandcamp.com/album/vermillionth"=>"Purchase|https://aliceffekt.bandcamp.com/album/vermillionth"}
+    BAND : https://aliceffekt.bandcamp.com/album/vermillionth"=>"BAND : https://aliceffekt.bandcamp.com/album/vermillionth"}
 VERRECIEL
   UNDE : Mobile
   LONG : <p>{{Verreciel}} is a virtual space exploration project in which you must learn to use your {_Glass Ship_}'s consoles, route them into one-another, and navigate the surrounding universes aboard its fragile habitat.</p><p>The game joins the sequence of linguistically involved projects like {{Paradise}}, {{Hiversaires}} and {{Oquonie}}. You can follow the development of the game on {{Twitter|https://twitter.com/search?q=verreciel&src=typd}}.</p>
   LINK
-    iTunes|https://itunes.apple.com/ca/app/verreciel/id1065988107"=>"iTunes|https://itunes.apple.com/ca/app/verreciel/id1065988107", "Source|https://github.com/Echorridoors/Verreciel"=>"Source|https://github.com/Echorridoors/Verreciel"}
+    iTunes|https://itunes.apple.com/ca/app/verreciel/id1065988107"=>"iTunes|https://itunes.apple.com/ca/app/verreciel/id1065988107", "GITH : https://github.com/Echorridoors/Verreciel"=>"GITH : https://github.com/Echorridoors/Verreciel"}
 VERRECIEL OST
   UNDE : Beldam records
   LONG : <p>This soundtrack release, written by {{Aliceffekt}} for the mobile application {{Verreciel}}, features a fair dose of breaks and {{Beldam|Beldam records}}'s signature vocoded synths.</p>
@@ -1116,7 +1163,7 @@ VOCAVULARIST
   UNDE : Mobile
   LONG : <p>{{Vocavularist}}, is a Japanese, Russian & Korean vocabulary review program for iOS. It contains the 600 first kanji, 600 simple Russian words and 800 simple korean expressions.</p>
   LINK
-    App"=>"Store|https://itunes.apple.com/us/app/nijuniju/id686266543?l=ja&ls=1&mt=8", "Open"=>"Source|https://github.com/neauoire/vocavularist"}
+    App"=>"Store|https://itunes.apple.com/us/app/nijuniju/id686266543?l=ja&ls=1&mt=8", "Open"=>"GITH : https://github.com/neauoire/vocavularist"}
 VOLKENESSEN
   UNDE : Desktop
   LONG : <p>It's a two-player, {{physics-based 2D fighting game|http://www.youtube.com/watch?feature=player_embedded&v=VheiqV4AuRE}}. Each player starts with 9 random attached items on his back, and the goal is to strip the other player of his items by beating the crap out of him. When items are removed, they clutter up the playing area, making it even more cahotic and hilarious. The washing machine and sink in the background can also fall and bounce around!</p><iframe width="560" height="315" src="//www.youtube.com/embed/VheiqV4AuRE" frameborder="0" allowfullscreen></iframe>

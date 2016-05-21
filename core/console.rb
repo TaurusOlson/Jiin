@@ -2,7 +2,6 @@ class Console
 
 	def initialize
 		system("clear")
-		log("Console".fill(12)+" | Ready.","JIIN".ghostly,"~".bg_red)
 	end
 
 	def listen

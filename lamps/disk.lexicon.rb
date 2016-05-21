@@ -47,7 +47,15 @@ class Disk
 						content[section]["LONG"].push(text)
 					end
 				end
-				
+				if key == "LINK"
+					tree[line].each do |line|
+						if content[section]["LINK"] == "LINK" then content[section]["LINK"] = [] end
+						text = lines[line].last
+						name = text.split(":").first.strip
+						url = text.split(":").last.strip
+						content[section]["LINK"].push({name => url})
+					end
+				end
 			end
 
 		end

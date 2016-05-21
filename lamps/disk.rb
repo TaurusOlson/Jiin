@@ -31,6 +31,8 @@ class Disk
 			list()
 		when "echo"
 			echo(load(par))
+		when "load"
+			return load(par)
 		when "read"
 			read(par)
 		else
@@ -70,21 +72,11 @@ class Disk
 		#TODO
 	end
 
-	def load target
+	def load file
 
-		respond("Locating #{target}",".")
-		Dir['disk/*'].each do |file_name|
-			file_name = file_name.split("/").last.sub(".rb","").strip
-			name = file_name.split(".").first
-			extension = file_name.split(".").last
-			if target == name
-				return loadFile(file_name)
-			end
+		if file == "lexicon" 
+			require_relative("disk.lexicon.rb")
 		end
-
-	end
-
-	def loadFile file
 
 		tree  = {}
 		notes = {}
@@ -92,7 +84,7 @@ class Disk
 
 		# Read
 
-		File.open("disk/#{file}","r") do |f|
+		File.open("#{$jiin_path}/disk/#{file}.jin","r:UTF-8") do |f|
 			number = 0
 			f.each_line do |line|
 				depth = line[/\A */].size

@@ -729,7 +729,7 @@
       TASK : Update
       CODE : 34
       NAME : 3.8
-20
+    20
       TERM : Keyboard
       TASK : Photography
       CODE : 29
@@ -749,7 +749,7 @@
       TASK : Update
       CODE : 34
       NAME : 3.7
-16
+    16
       TERM : Grot
       TASK : Mixing
       CODE : 19
@@ -758,7 +758,7 @@
       TASK : Update
       CODE : 27
       NAME : 1.2
-14
+    14
       TERM : Hundred rabbits
       TASK : Showcase
       CODE : 29
@@ -917,7 +917,7 @@
       TASK : Update
       CODE : 34
       NAME : 1.1
-08
+    08
       TERM : Verreciel
       TASK : Development
       CODE : 36
@@ -934,7 +934,7 @@
       TASK : Update
       CODE : 35
       NAME : 0.1
-04
+    04
       TERM : Oscean
       TASK : Design
       CODE : 25
@@ -948,7 +948,7 @@
       TASK : Update
       CODE : 26
       NAME : 1.6
-01
+    01
       TERM : Oscean
       TASK : Design
       CODE : 26
@@ -1154,7 +1154,7 @@
       TASK : Update
       CODE : 34
       NAME : 4.1
-20
+    20
       TERM : Kaleidoscope
       TASK : Illustration
       CODE : 27
@@ -1165,7 +1165,7 @@
       TASK : Update
       CODE : 35
       NAME : 0.1
-18
+    18
       TERM : Sailing
       TASK : Travel
       CODE : 49
@@ -1231,12 +1231,12 @@
       TASK : Update
       CODE : 26
       NAME : 1.5
-07
+    07
       TERM : Eakout
       TASK : Update
       CODE : 37
       NAME : 1.0
-06
+    06
       TERM : Eakout
       TASK : Release
       CODE : 37
@@ -1260,12 +1260,12 @@
       TASK : Update
       CODE : 36
       NAME : 0.1
-02
+    02
       TERM : Paradise
       TASK : Update
       CODE : 36
       NAME : 1.0
-01
+    01
       TERM : Infrared
       TASK : Photography
       CODE : 26
@@ -1278,12 +1278,12 @@
       TASK : Update
       CODE : 36
       NAME : 4.0
-30
+    30
       TERM : Donsol
       TASK : Update
       CODE : 25
       NAME : 1.5
-29
+    29
       TERM : Trapezoid
       TASK : Update
       CODE : 14
@@ -1404,7 +1404,7 @@
       TASK : Update
       CODE : 31
       NAME : 3.4
-02
+    02
       TERM : Trapezoid
       TASK : Composition
       CODE : 19
@@ -1443,7 +1443,7 @@
       TASK : Update
       CODE : 35
       NAME : 3.9
-23
+    23
       TERM : Trapezoid
       TASK : Composition
       CODE : 19
@@ -1504,7 +1504,7 @@
       TASK : Update
       CODE : 26
       NAME : 1.3
-10
+    10
       TERM : Little ruby riding hood
       TASK : Narrative
       CODE : 36
@@ -1523,7 +1523,7 @@
       TASK : Update
       CODE : 31
       NAME : 1.4
-06
+    06
       TERM : Horaire
       TASK : Development
       CODE : 36
@@ -1573,27 +1573,27 @@
       TASK : Update
       CODE : 32
       NAME : 2.3
-25
+    25
       TERM : Hiversaires
       TASK : Update
       CODE : 36
       NAME : 3.3
-24
+    24
       TERM : Donsol
       TASK : Update
       CODE : 36
       NAME : 1.4
-23
+    23
       TERM : Dew
       TASK : Update
       CODE : 37
       NAME : 1.4
-22
+    22
       TERM : Vocavularist
       TASK : Update
       CODE : 37
       NAME : 2.4
-21
+    21
       TERM : Eschatolor
       TASK : Release
       CODE : 19
@@ -1604,17 +1604,17 @@
       TASK : Update
       CODE : 32
       NAME : 1.4
-19
+    19
       TERM : Alphavetist
       TASK : Update
       CODE : 32
       NAME : 3.6
-18
+    18
       TERM : Ledoliel
       TASK : Update
       CODE : 32
       NAME : 2.3
-17
+    17
       TERM : Netherlands
       TASK : Travel
       CODE : -49
@@ -1699,12 +1699,12 @@
       TASK : Update
       CODE : 35
       NAME : 1.4
-03
+    03
       TERM : Alphavetist
       TASK : Update
       CODE : 35
       NAME : 3.5
-02
+    02
       TERM : Astratas
       TASK : Illustration
       CODE : 27
@@ -1826,7 +1826,7 @@
       TASK : Update
       CODE : 36
       NAME : 1.3
-04
+    04
       TERM : Lyken
       TASK : Development
       CODE : 38
@@ -1911,7 +1911,7 @@
       TASK : Update
       CODE : 25
       NAME : 3.4
-15
+    15
       TERM : Neon hermetism
       TASK : Narrative
       CODE : 36
@@ -1965,7 +1965,7 @@
       TASK : Update
       CODE : 35
       NAME : 3.3
-05
+    05
       TERM : Donsol
       TASK : Design
       CODE : 35
@@ -2071,7 +2071,7 @@
       TASK : Update
       CODE : 34
       NAME : 2.2
-11
+    11
       TERM : Eschatolor
       TASK : Composition
       CODE : 18
@@ -2143,13 +2143,13 @@
       TASK : Update
       CODE : 35
       NAME : 3.2
-  FLAG : Featured
+      FLAG : Featured
     25
       TERM : Paradise
       TASK : Update
       CODE : 35
       NAME : 0.9
-  FLAG : Featured
+      FLAG : Featured
     24
       TERM : Alphavetist
       TASK : Update
@@ -2162,12 +2162,12 @@
       TASK : Update
       CODE : 33
       NAME : 1.3
-22
+    22
       TERM : Bifurcan
       TASK : Update
       CODE : 33
       NAME : 1.3
-21
+    21
       TERM : Ledoliel
       TASK : Update
       CODE : 37
@@ -2190,17 +2190,17 @@
       TASK : Update
       CODE : 35
       NAME : 3.2
-17
+    17
       TERM : Noirca
       TASK : Update
       CODE : 35
       NAME : 4.0
-16
+    16
       TERM : Dew
       TASK : Update
       CODE : 35
       NAME : 1.1
-15
+    15
       TERM : Ramiel
       TASK : Release
       CODE : 18
@@ -2224,7 +2224,7 @@
       TASK : Update
       CODE : 35
       NAME : 1.2
-10
+    10
       TERM : Miniscopie
       TASK : Release
       CODE : 18

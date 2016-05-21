@@ -19,8 +19,6 @@ class Disk
 
 	def application input
 
-		require_relative("../lamps/disk.lexicon.rb")
-
 		parts = input.split(" ")
 		name = parts[0]
 		cmd  = parts[1]
@@ -68,14 +66,13 @@ class Disk
 		respond("...",".")
 	end
 
-	def save
-		#TODO
-	end
-
 	def load file
 
-		if file == "lexicon" 
+		case file
+		when "lexicon"
 			require_relative("disk.lexicon.rb")
+		when "horaire"
+			require_relative("disk.horaire.rb")
 		end
 
 		tree  = {}
@@ -123,42 +120,6 @@ class Disk
 		end
 
 		return pattern(tree,lines,notes)
-
-	end
-
-	def pattern_date tree,lines,notes
-
-		content = {}
-		tree[-1].each do |line|
-
-			year = lines[line].last
-			content[year] = {}
-			if !tree[line] then next end
-
-			tree[line].each do |line|
-
-				month = lines[line].last
-				content[year][month] = {}
-				if !tree[line] then next end
-
-				tree[line].each do |line|
-
-					day = lines[line].last
-					content[year][month][day] = {}
-					if !tree[line] then next end
-
-					tree[line].each do |line|
-						parts = lines[line].last.split(":")
-						key = parts.first.strip.downcase.capitalize
-						value = parts.last.strip
-						content[year][month][day][key] = value
-					end
-
-				end
-			end
-		end
-
-		return content
 
 	end
 

@@ -731,6 +731,12 @@ JAPAN
   BREF : A variety of diary entries written throughout trips to Japan between 2009 and 2014.
   TYPE : Diary
 
+JIIN
+  UNDE : Oscean
+  BREF : {{Jiin}} is a series of database, console and server tools in {{XXIIVV|Oscean}}.
+  LINK
+    GITH : https://github.com/XXIIVV/Jiin
+
 KALEIDOSCOPE
   UNDE : Polygonoscopy
   BREF : Nothing is as reassuring as looking through the {{Polygonoscope|Polygonoscopy}} and seeing everything is where you left it.

@@ -674,7 +674,6 @@ HOME
   BREF : Welcome to the documentation and playground for the projects of multimedia developer {{Devine Lu Linvega}}. This wiki provides narrative context for the {{Audio}}, {{Visual}} and {{Research}} projects. A {{dictionary}} and an {{Issue Tracker|Issues}} are also maintained daily as part of {{XXIIVV|Oscean}}.
   LONG
     & If this is your first time around, the {{Introduction}} is a good place to begin your exploration. If you wish to stay updated on the development of the latest projects, follow {{@Neauoire|http://twitter.com/neauoire}}.
-  TYPE : Portal
 
 HORAIRE
   UNDE : Oscean
@@ -684,7 +683,9 @@ HOWLS VIRGIL SYSTEMS
 
 HUNDRED RABBITS
   UNDE : Hundred rabbits
-  BREF : {{Hundred Rabbits}}, is a nomad design studio founded by {{Rekka Bellum|http://kokorobo.ca}} and {{Devine Lu Linvega|Devine Lu Linvega}} aboard a {{sailboat|https://github.com/hundredrabbits/Yamaha-33}}, somewhere on the shores of the Pacific Ocean. This partnership is host to interactive projects like {{Oquonie}}, {{Grimgrains|http://grimgrains.com}} and travel diaries. A {{Patreon page|https://www.patreon.com/100}} is available to help fund the production of monthly videos and liveaboard documentation.
+  BREF : {{Hundred Rabbits}}, is a nomad design studio founded by {{Rekka Bellum|http://kokorobo.ca}} and {{Devine Lu Linvega|Devine Lu Linvega}} aboard a {{sailboat|https://github.com/hundredrabbits/Yamaha-33}}, somewhere on the shores of the Pacific Ocean.
+  LONG
+    & This partnership is host to interactive projects like {{Oquonie}}, {{Grimgrains|http://grimgrains.com}} and travel diaries. A {{Patreon page|https://www.patreon.com/100}} is available to help fund the production of monthly videos and liveaboard documentation.
   LINK
     GITH : https://github.com/hundredrabbits
     PATR : https://patreon.com/100
@@ -1075,7 +1076,7 @@ ONLINE
 
 OQUONIE
   UNDE : Mobile
-  BREF : {*Oquonie*} is a textless puzzle game for iPad and iPhone created in collaboration with illustrator {{Rekka Bellum|http://kokorobot.ca}} where you must find your way across an intertwined megastructure. 
+  BREF : {{Oquonie}} is a textless puzzle game for iPad and iPhone created in collaboration with illustrator {{Rekka Bellum|http://kokorobot.ca}} where you must find your way across an intertwined megastructure. 
   LONG
     & You will not be alone, your incarnations will have the help of {_bizaroid_} characters speaking {{an obscure language|Camilare}}.
     & Oquonie features an original {{Aliceffekt}} soundtrack that is now available on {{Bandcamp|https://aliceffekt.bandcamp.com/album/short-stories-in-impossible-spaces}}. The game was best described as {_"{{Animal Crossing in a K-Hole|http://killscreendaily.com/articles/oquonie-maze-worth-entering/}}"_}.

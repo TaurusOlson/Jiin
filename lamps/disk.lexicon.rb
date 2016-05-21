@@ -35,7 +35,7 @@ class Disk
 			if !tree[line] then next end
 
 			tree[line].each do |line|
-				parts = lines[line].last.split(":")
+				parts = lines[line].last.split(" : ")
 				key = parts.first.strip
 				value = parts.last.strip
 				content[section][key] = value
@@ -49,11 +49,11 @@ class Disk
 				end
 				if key == "LINK"
 					tree[line].each do |line|
-						if content[section]["LINK"] == "LINK" then content[section]["LINK"] = [] end
+						if content[section]["LINK"] == "LINK" then content[section]["LINK"] = {} end
 						text = lines[line].last
 						name = text.split(":").first.strip
 						url = text.split(":").last.strip
-						content[section]["LINK"].push({name => url})
+						content[section]["LINK"][name] = url
 					end
 				end
 			end

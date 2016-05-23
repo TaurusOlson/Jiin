@@ -37,7 +37,7 @@ class Jiin
 	def require_lamps
 
 		names = {}
-		Dir['lamps/*'].each do |file_name|
+		Dir['lamp/*'].each do |file_name|
 			name = file_name.split("/").last.sub(".rb","").strip
 			if name.include?(".") then next end 							   # Skip extensions
 			require_relative("../"+file_name)

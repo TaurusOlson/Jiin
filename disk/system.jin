@@ -13,15 +13,18 @@ TREE
 
 ~ TODO
 ~  MIGRATIONS
-~    Migrate grimgrain.recipe.jin
-~    Migrate rabbits.roadmap.jin
-~    Migrate oscean.paradise.jin
-~    Migrate the wiki files outside of Apache
+~    JIIN Migrate grimgrain.recipe.jin
+~    JIIN Migrate rabbits.roadmap.jin
+~    JIIN Migrate oscean.paradise.jin
+~    HTTP Migrate the wiki files outside of Apache
 ~  TOOLS
-~    Generate README.md dynamically
-~    Add benchmarks
-~    Add core Rune parser tools
-~    Generate dynamic documentation & README.md for repos in /http
+~    DOCS Generate README.md dynamically
+~    JIIN Add benchmarks
+~    RUNE Add core Rune parser tools
+~    HTTP Generate dynamic documentation & README.md for repos in /http
 ~  MINOR
-~    Store console responses, print only for console MODE
+~    JIIN Store console responses, print only for console MODE
 ~    DISK Patterns should be part of .jin files
+~    AUTO Migrate Twitter bots
+~    AUTO Implement automatic tasks
+~    TIME Create a TIME lamp (Time.now.t­o_f)

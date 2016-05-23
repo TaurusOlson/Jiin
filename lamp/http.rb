@@ -7,7 +7,6 @@ class Http
 	def initialize 
 
 		@name = "http"
-		@alia = "HTTP"
 		@docs = "Website Server"
 
 	end

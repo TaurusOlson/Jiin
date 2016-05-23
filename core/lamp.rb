@@ -5,7 +5,7 @@ module Lamp
 	end
 
 	def alia
-		return !@alia ? @name.upcase : @alia
+		return !@alia ? @name[0,4].upcase : @alia
 	end
 
 	def docs

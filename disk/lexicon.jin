@@ -156,7 +156,7 @@ BLIND
     & The game uses a simple scripting language, here is an example of a riposte to an attack coming from the back, and a default movement pattern with an attack and a shout.
     # case attack.backward  step.leftcase default  attack.forward  turn.right  attack.backward  say yatta
   LINK
-    GITH : https://github.com/XXIIVV/Blind
+    GITH : https://github.com/neauoire/Blind
 
 BOOKS
   UNDE : Directory
@@ -1145,7 +1145,7 @@ OSCEAN
     & The current platform is built in {{Ruby|https://en.wikipedia.org/wiki/Ruby_(programming_language)}}, and is currently hosted on {{Digital Ocean|https://www.digitalocean.com/?refcode=4ed988ca8c17}}. The site is segmented into 3 parts, {*a time-tracker*}, {*a lexicon*} and a {*diary*}. Every single day, since 2009, a log has been added to the {{Horaire}}, every new project has an entry in the {{Lexicon|Dictionary}} and every event has a page in the {{diary}}. Above these core systems, other systems exists - such as {{Paradise}}, and {{API|http://api.xxiivv.com}}, a series of {{bots|Automatons}}. This website is the skeleton of a rigorous lifestyle change, initiated more than 5 years ago.
     & {_Et haec revelantur in virtute et veritate<br /> non Vi._} - Vriel
   LINK
-    GITH : https://github.com/XXIIVV/Wiki
+    GITH : https://github.com/XXIIVV/wiki.xxiivv.com
 
 OTOROUTES MINIATURES
   UNDE : First wave
@@ -1165,6 +1165,7 @@ PARADISE
     ? {_"In a little while you will be alone in shoreless space, to wander its limitless solitudes without friend or comrade forever--for you will remain a thought, the only existent thought, and by your nature inextinguishable, indestructible. "_} - Mark Twain, {{the mysterious Stranger|http://en.wikipedia.org/wiki/The_Mysterious_Stranger}}
   LINK
     SITE : http://paradise.xxiivv.com
+    GITH : https://github.com/XXIIVV/paradise.xxiivv.com
 
 PEDESTRIAN PARADISE
   UNDE : First wave

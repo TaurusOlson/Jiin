@@ -1,0 +1,1 @@
+puts "bot automation test"

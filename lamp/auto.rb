@@ -1,29 +1,25 @@
 require_relative("../core/lamp.rb")
 
-class Gith
+class Auto
 
 	include Lamp
 
 	def initialize 
 
-		@name = "github"
-		@docs = "Github tools"
+		@name = "auto"
+		@docs = "Simple Hello World app"
 
 	end
 
 	def isListening
 
-		return true
+		return false
 
 	end
 
 	def application input
 
-		respond("working")
-
-	end
-
-	def commit
+		respond("Current time")
 
 	end
 

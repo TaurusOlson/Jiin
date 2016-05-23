@@ -6,8 +6,10 @@ DOCS
   MAIN : Jiin is a series of tools to help manage and serve the XXIIVV portals.
   VERS : 0.1
 
-BOOT
-  NONE : ?
+TREE
+  LAMP : /lamp
+  DISK : /disk
+  HTTP : /http
 
 ~ TODO
 ~  MIGRATIONS
@@ -22,3 +24,4 @@ BOOT
 ~    Generate dynamic documentation & README.md for repos in /http
 ~  MINOR
 ~    Store console responses, print only for console MODE
+~    DISK Patterns should be part of .jin files

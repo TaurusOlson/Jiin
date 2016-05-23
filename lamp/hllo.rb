@@ -8,13 +8,13 @@ class Hllo
 
 		@name = "hello"
 		@alia = "HLLO"
-		@docs = "Test lamp"
+		@docs = "Simple Hello World app"
 
 	end
 
 	def isListening
 
-		return true
+		return false
 
 	end
 

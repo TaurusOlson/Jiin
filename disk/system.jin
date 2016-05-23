@@ -9,9 +9,8 @@ TODO
   MIGRATIONS
     Migrate grimgrain.recipe.jin
     Migrate rabbits.roadmap.jin
-    Migrate oscean.issues.jin
-    Migrate the wiki files outside of Apache
     Migrate oscean.paradise.jin
+    Migrate the wiki files outside of Apache
   TOOLS
     Generate README.md dynamically
     Add benchmarks

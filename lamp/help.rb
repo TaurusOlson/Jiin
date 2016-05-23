@@ -7,7 +7,7 @@ class Help
 	def initialize 
 
 		@name = "help"
-		@docs = "help toolchain"
+		@docs = "List of available responders"
 
 	end
 

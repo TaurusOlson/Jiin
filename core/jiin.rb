@@ -1,7 +1,7 @@
 
 require_relative("console.rb")
 require_relative("lamp.rb")
-require_relative("../lamps/disk.rb")
+require_relative("../lamp/disk.rb")
 
 require_relative("../misc/string.rb")
 

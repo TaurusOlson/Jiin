@@ -54,7 +54,7 @@ class Default
 
 	def isListening
 
-		return true
+		return false
 
 	end
 

@@ -3,5 +3,17 @@
 ~ AUTH : Devine Lu Linvega
 
 BOOT
-  VERS : 0.1
-  AUTH : XXIIVV
+  VERS : 0.2
+
+TODO
+  MIGRATIONS
+    Migrate grimgrain.recipe.jin
+    Migrate rabbits.roadmap.jin
+    Migrate oscean.issues.jin
+    Migrate the wiki files outside of Apache
+    Migrate oscean.paradise.jin
+  TOOLS
+    Generate README.md dynamically
+    Add benchmarks
+    Add core Rune parser tools
+

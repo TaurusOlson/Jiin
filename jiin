@@ -1,7 +1,5 @@
-require 'io/console'
-
 require_relative("core/jiin.rb")
 
 $jiin = Jiin.new
-$jiin.start
+
 $jiin.console.listen while(true)

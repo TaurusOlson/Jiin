@@ -20,7 +20,7 @@ class Hllo
 
 	def application input
 
-		respond("Good Bye #{input.sub("hello","").strip}".template)
+		respond("Good Bye #{input.sub("hello","").strip}")
 
 	end
 

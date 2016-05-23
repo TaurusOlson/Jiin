@@ -15,4 +15,6 @@ TODO
     Generate README.md dynamically
     Add benchmarks
     Add core Rune parser tools
-
+    Generate dynamic documentation & README.md for repos in /http
+  MINOR
+    Store console responses, print only for console MODE

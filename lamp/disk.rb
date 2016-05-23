@@ -45,7 +45,16 @@ class Disk
 			file = file_name.split("/").last
 			name = file.split(".").first
 			extension = file.split(".").last
-			respond("#{extension.upcase.fill(4).bold} #{"|".ghostly} #{name.fill(12)} #{"|".ghostly} Missing Description","*")
+			description = "No description"
+
+			# Look for description
+			File.open("#{file_name}","r") do |f|
+				f.each_line do |line|
+					if line.strip[0,9] == "~ NOTE : " then description = line.sub("~ NOTE : ","").strip end
+				end
+			end
+
+			respond("#{extension.upcase.fill(4).bold} #{"|".ghostly} #{name.fill(12)} #{"|".ghostly} #{description}","*")
 		end
 
 	end

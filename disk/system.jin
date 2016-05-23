@@ -2,19 +2,23 @@
 ~ NOTE : Jiin storage
 ~ AUTH : Devine Lu Linvega
 
-BOOT
-  VERS : 0.2
+DOCS
+  MAIN : Jiin is a series of tools to help manage and serve the XXIIVV portals.
+  VERS : 0.1
 
-TODO
-  MIGRATIONS
-    Migrate grimgrain.recipe.jin
-    Migrate rabbits.roadmap.jin
-    Migrate oscean.paradise.jin
-    Migrate the wiki files outside of Apache
-  TOOLS
-    Generate README.md dynamically
-    Add benchmarks
-    Add core Rune parser tools
-    Generate dynamic documentation & README.md for repos in /http
-  MINOR
-    Store console responses, print only for console MODE
+BOOT
+  NONE : ?
+
+~ TODO
+~  MIGRATIONS
+~    Migrate grimgrain.recipe.jin
+~    Migrate rabbits.roadmap.jin
+~    Migrate oscean.paradise.jin
+~    Migrate the wiki files outside of Apache
+~  TOOLS
+~    Generate README.md dynamically
+~    Add benchmarks
+~    Add core Rune parser tools
+~    Generate dynamic documentation & README.md for repos in /http
+~  MINOR
+~    Store console responses, print only for console MODE

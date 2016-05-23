@@ -82,6 +82,8 @@ class Disk
 			require_relative("disk.lexicon.rb")
 		when "horaire"
 			require_relative("disk.horaire.rb")
+		when "system"
+			require_relative("disk.system.rb")
 		end
 
 		tree  = {}

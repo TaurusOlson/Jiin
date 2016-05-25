@@ -41,7 +41,7 @@ class Disk
 
 	def list
 
-		Dir['disk/*'].each do |file_name|
+		Dir['disk/data/*'].each do |file_name|
 			file = file_name.split("/").last
 			name = file.split(".").first
 			extension = file.split(".").last
@@ -61,10 +61,10 @@ class Disk
 
 	def read target
 
-		if File.file?("disk/#{target}") == false then respond("Cannot locate #{target}","!".red) ; return end
+		if File.file?("disk/data/#{target}.jin") == false then respond("Cannot locate #{target}","!".red) ; return end
 
 		count = 0
-		File.open("disk/#{target}","r") do |f|
+		File.open("disk/data/#{target}.jin","r") do |f|
 			number = 0
 			f.each_line do |line|
 				respond(line,(count % 9).to_s)

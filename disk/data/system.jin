@@ -28,3 +28,6 @@ TREE
 ~    AUTO Migrate Twitter bots
 ~    AUTO Implement automatic tasks
 ~    TIME Create a TIME lamp (Time.now.t­o_f)
+~    DISK Route lamps into /disk
+~    DISK Fix broken paths
+~    DISK Display line count

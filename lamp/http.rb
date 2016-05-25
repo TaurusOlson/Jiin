@@ -26,8 +26,12 @@ class Http
 			return
 		end
 
-		if Dir.exists?("http/#{input}")
-			require_relative("../http/#{input}/main.rb")
+		require_relative("#{$jiin_path}/disk/http/#{input}.http/main.rb")
+
+		puts "#{input} - #{$jiin_path}"
+
+		if Dir.exists?("#{$jiin_path}/disk/http/#{input}.http")
+			require_relative("#{$jiin_path}/disk/http/#{input}.http/main.rb")
 			puts main
 		else
 			respond("Could not find site-#{input}")

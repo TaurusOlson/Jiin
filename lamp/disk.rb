@@ -92,7 +92,7 @@ class Disk
 
 		# Read
 
-		File.open("#{$jiin_path}/disk/#{file}.jin","r:UTF-8") do |f|
+		File.open("#{$jiin_path}/disk/data/#{file}.jin","r:UTF-8") do |f|
 			number = 0
 			f.each_line do |line|
 				depth = line[/\A */].size

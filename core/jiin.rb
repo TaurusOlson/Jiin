@@ -2,6 +2,7 @@
 require_relative("console.rb")
 require_relative("lamp.rb")
 require_relative("../lamp/disk.rb")
+require_relative("../lamp/http.rb")
 
 require_relative("../misc/string.rb")
 
@@ -45,6 +46,7 @@ class Jiin
 		end
 		names["default"] = Default.new
 		names["disk"] = Disk.new
+		names["http"] = Http.new
 		return names
 
 	end
